@@ -1,6 +1,16 @@
-# College-Bus-Usage-Monitor-
+Project Title: College-Bus-Usage-Monitor
+
+Submitted by: Shrushti Sah 
+
+Roll Number: 2312res628  
+
+Course: Bsc in Computer Science and Data Analytics
+
+Institute: IIT Patna  
+
 🎯 Project Overview
 The College Bus Usage Monitor is an end-to-end analytics project designed to solve common challenges in managing a campus transportation network. By centralizing data on student ridership, routes, and timing, this dashboard transforms raw data into a strategic tool for data-driven decision-making. The primary goal is to help the transportation department reduce operational costs, improve resource allocation, and increase student satisfaction.
+
 
 ✨ Dashboard Features
 This dashboard is composed of several interactive visuals that allow for a deep dive into the data:
@@ -25,6 +35,7 @@ Peak Time Routes (Bar Chart): Identifies the most frequent student travelers and
 
 Peak Travel Times (Area Chart): A time-series analysis showing the volume of students throughout the day, clearly indicating morning and afternoon peak hours for each route.
 
+
 🛠️ Technical Stack
 Visualization & BI: Microsoft Power BI
 
@@ -33,6 +44,7 @@ Data Transformation: Power Query Editor (for data cleaning, shaping, and ETL pro
 Data Modeling: DAX (Data Analysis Expressions) for creating calculated columns and measures.
 
 Data Source: The dashboard is designed to work with CSV files, Excel spreadsheets, or a direct connection to a SQL database.
+
 
 📊 Key Insights & Analysis
 The dashboard reveals several critical insights into the transportation network:
@@ -44,6 +56,7 @@ Identifiable Peak Hours: There are two distinct rush hours: a morning peak (appr
 Asset Utilization Varies: Bus B-202 is the workhorse of the fleet, carrying over 25% of the students. In contrast, other buses have lower occupancy rates. This data can inform decisions about vehicle maintenance schedules and fleet management.
 
 Targeted Service Monitoring: The dashboard can identify "power users" (students who travel most frequently), which can be useful for surveys or feedback initiatives.
+
 
 🔮 Future Enhancements
 Real-Time Data: Integrate with live GPS data from buses for real-time tracking and occupancy updates.
