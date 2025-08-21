@@ -1,0 +1,3001 @@
+Date,Day,Time,Hour,Route,Bus No,Student_ID,Attendance
+01-09-2025,Monday,09:09,9,University,B-202,S2004,Present
+01-09-2025,Monday,08:47,8,Express Dc,B-401,S2139,Present
+01-09-2025,Monday,09:09,9,City Center,B-101,S2399,Present
+01-09-2025,Monday,09:14,9,South Suburb,B-303,S2110,Present
+01-09-2025,Monday,08:59,8,City Center,B-102,S2153,Present
+01-09-2025,Monday,09:05,9,University,B-202,S2021,Present
+01-09-2025,Monday,08:34,8,University,B-202,S2141,Present
+01-09-2025,Monday,08:33,8,University,B-202,S2075,Present
+01-09-2025,Monday,08:41,8,Express Dc,B-401,S2116,Present
+01-09-2025,Monday,08:53,8,South Suburb,B-303,S2368,Present
+01-09-2025,Monday,09:14,9,Express Dc,B-401,S2096,Present
+01-09-2025,Monday,09:15,9,South Suburb,B-303,S2436,Present
+01-09-2025,Monday,08:53,8,South Suburb,B-303,S2594,Present
+01-09-2025,Monday,08:54,8,City Center,B-101,S2364,Present
+01-09-2025,Monday,08:35,8,City Center,B-102,S2214,Absent
+01-09-2025,Monday,16:32,16,University,B-202,S2470,Present
+01-09-2025,Monday,16:31,16,City Center,B-101,S2338,Present
+01-09-2025,Monday,17:15,17,University,B-202,S2233,Present
+01-09-2025,Monday,17:07,17,University,B-202,S2439,Present
+01-09-2025,Monday,17:00,17,Express Dc,B-401,S2094,Present
+01-09-2025,Monday,17:07,17,University,B-202,S2370,Present
+01-09-2025,Monday,16:38,16,University,B-202,S2106,Present
+01-09-2025,Monday,16:57,16,University,B-202,S2142,Present
+01-09-2025,Monday,16:49,16,South Suburb,B-303,S2570,Present
+01-09-2025,Monday,16:45,16,University,B-202,S2579,Present
+02-09-2025,Tuesday,09:01,9,City Center,B-101,S2131,Present
+02-09-2025,Tuesday,08:45,8,City Center,B-101,S2301,Present
+02-09-2025,Tuesday,08:53,8,City Center,B-101,S2212,Present
+02-09-2025,Tuesday,08:58,8,South Suburb,B-303,S2322,Present
+02-09-2025,Tuesday,08:53,8,City Center,B-102,S2098,Present
+02-09-2025,Tuesday,08:53,8,South Suburb,B-303,S2081,Present
+02-09-2025,Tuesday,09:13,9,South Suburb,B-303,S2018,Present
+02-09-2025,Tuesday,09:05,9,City Center,B-102,S2316,Absent
+02-09-2025,Tuesday,08:41,8,University,B-202,S2533,Present
+02-09-2025,Tuesday,09:10,9,City Center,B-101,S2050,Present
+02-09-2025,Tuesday,09:07,9,City Center,B-101,S2031,Present
+02-09-2025,Tuesday,08:49,8,City Center,B-101,S2297,Present
+02-09-2025,Tuesday,08:43,8,City Center,B-101,S2222,Present
+02-09-2025,Tuesday,13:20,13,South Suburb,B-303,S2411,Present
+02-09-2025,Tuesday,16:34,16,South Suburb,B-303,S2192,Present
+02-09-2025,Tuesday,16:37,16,Express Dc,B-401,S2103,Present
+02-09-2025,Tuesday,16:48,16,South Suburb,B-303,S2527,Present
+02-09-2025,Tuesday,17:06,17,Express Dc,B-401,S2152,Present
+02-09-2025,Tuesday,16:36,16,University,B-202,S2122,Present
+02-09-2025,Tuesday,17:10,17,City Center,B-102,S2566,Present
+02-09-2025,Tuesday,16:36,16,University,B-202,S2023,Present
+02-09-2025,Tuesday,17:04,17,University,B-202,S2328,Present
+02-09-2025,Tuesday,16:51,16,Express Dc,B-401,S2233,Absent
+02-09-2025,Tuesday,17:03,17,South Suburb,B-303,S2321,Present
+02-09-2025,Tuesday,16:51,16,City Center,B-101,S2017,Present
+02-09-2025,Tuesday,17:14,17,South Suburb,B-303,S2198,Present
+02-09-2025,Tuesday,16:48,16,South Suburb,B-303,S2108,Present
+02-09-2025,Tuesday,16:53,16,City Center,B-102,S2212,Present
+02-09-2025,Tuesday,17:04,17,City Center,B-101,S2405,Present
+03-09-2025,Wednesday,08:50,8,Express Dc,B-401,S2045,Present
+03-09-2025,Wednesday,08:32,8,City Center,B-101,S2505,Present
+03-09-2025,Wednesday,08:49,8,City Center,B-101,S2537,Present
+03-09-2025,Wednesday,08:34,8,City Center,B-102,S2212,Present
+03-09-2025,Wednesday,09:15,9,City Center,B-102,S2296,Present
+03-09-2025,Wednesday,08:51,8,City Center,B-102,S2056,Present
+03-09-2025,Wednesday,09:09,9,South Suburb,B-303,S2250,Present
+03-09-2025,Wednesday,08:32,8,South Suburb,B-303,S2384,Present
+03-09-2025,Wednesday,08:46,8,University,B-202,S2365,Present
+03-09-2025,Wednesday,09:07,9,City Center,B-101,S2057,Present
+03-09-2025,Wednesday,08:40,8,City Center,B-101,S2201,Present
+03-09-2025,Wednesday,08:59,8,City Center,B-101,S2028,Absent
+03-09-2025,Wednesday,16:30,16,University,B-202,S2164,Present
+03-09-2025,Wednesday,16:38,16,City Center,B-101,S2464,Present
+03-09-2025,Wednesday,16:48,16,City Center,B-101,S2002,Present
+03-09-2025,Wednesday,16:56,16,South Suburb,B-303,S2038,Present
+03-09-2025,Wednesday,16:48,16,City Center,B-101,S2241,Present
+03-09-2025,Wednesday,16:50,16,City Center,B-101,S2186,Present
+03-09-2025,Wednesday,16:36,16,City Center,B-102,S2480,Present
+03-09-2025,Wednesday,16:43,16,South Suburb,B-303,S2134,Present
+03-09-2025,Wednesday,16:32,16,City Center,B-102,S2235,Present
+03-09-2025,Wednesday,17:14,17,City Center,B-102,S2058,Present
+03-09-2025,Wednesday,17:00,17,University,B-202,S2062,Present
+03-09-2025,Wednesday,16:33,16,South Suburb,B-303,S2029,Present
+03-09-2025,Wednesday,16:31,16,Express Dc,B-401,S2347,Present
+03-09-2025,Wednesday,17:03,17,South Suburb,B-303,S2188,Present
+04-09-2025,Thursday,08:43,8,City Center,B-102,S2466,Present
+04-09-2025,Thursday,08:30,8,Express Dc,B-401,S2140,Present
+04-09-2025,Thursday,08:55,8,City Center,B-101,S2530,Present
+04-09-2025,Thursday,08:59,8,University,B-202,S2576,Present
+04-09-2025,Thursday,09:03,9,University,B-202,S2002,Present
+04-09-2025,Thursday,08:31,8,University,B-202,S2166,Present
+04-09-2025,Thursday,09:02,9,University,B-202,S2226,Present
+04-09-2025,Thursday,08:52,8,South Suburb,B-303,S2414,Present
+04-09-2025,Thursday,08:31,8,Express Dc,B-401,S2338,Present
+04-09-2025,Thursday,08:33,8,City Center,B-102,S2537,Present
+04-09-2025,Thursday,09:00,9,City Center,B-102,S2592,Present
+04-09-2025,Thursday,08:48,8,University,B-202,S2216,Present
+04-09-2025,Thursday,09:05,9,City Center,B-102,S2452,Present
+04-09-2025,Thursday,09:07,9,City Center,B-102,S2557,Present
+04-09-2025,Thursday,09:00,9,University,B-202,S2452,Present
+04-09-2025,Thursday,16:35,16,University,B-202,S2405,Present
+04-09-2025,Thursday,16:58,16,University,B-202,S2305,Present
+04-09-2025,Thursday,17:06,17,South Suburb,B-303,S2011,Present
+04-09-2025,Thursday,17:10,17,University,B-202,S2526,Present
+04-09-2025,Thursday,16:56,16,University,B-202,S2222,Present
+04-09-2025,Thursday,16:47,16,City Center,B-101,S2538,Absent
+04-09-2025,Thursday,17:00,17,Express Dc,B-401,S2415,Present
+04-09-2025,Thursday,16:54,16,University,B-202,S2013,Present
+04-09-2025,Thursday,16:45,16,City Center,B-102,S2137,Present
+04-09-2025,Thursday,17:03,17,City Center,B-102,S2163,Present
+04-09-2025,Thursday,17:11,17,City Center,B-102,S2505,Present
+04-09-2025,Thursday,16:34,16,University,B-202,S2143,Present
+04-09-2025,Thursday,16:41,16,City Center,B-102,S2529,Present
+05-09-2025,Friday,09:05,9,City Center,B-101,S2411,Present
+05-09-2025,Friday,09:03,9,University,B-202,S2363,Present
+05-09-2025,Friday,08:46,8,City Center,B-102,S2006,Present
+05-09-2025,Friday,08:59,8,University,B-202,S2348,Present
+05-09-2025,Friday,08:51,8,City Center,B-102,S2041,Present
+05-09-2025,Friday,08:32,8,University,B-202,S2148,Present
+05-09-2025,Friday,08:34,8,University,B-202,S2113,Present
+05-09-2025,Friday,08:44,8,South Suburb,B-303,S2112,Present
+05-09-2025,Friday,08:35,8,South Suburb,B-303,S2056,Present
+05-09-2025,Friday,08:50,8,City Center,B-102,S2340,Present
+05-09-2025,Friday,16:55,16,City Center,B-101,S2304,Present
+05-09-2025,Friday,16:57,16,City Center,B-102,S2509,Present
+05-09-2025,Friday,16:37,16,City Center,B-102,S2551,Present
+05-09-2025,Friday,17:05,17,City Center,B-102,S2233,Present
+05-09-2025,Friday,16:30,16,Express Dc,B-401,S2211,Present
+05-09-2025,Friday,16:43,16,City Center,B-102,S2275,Present
+05-09-2025,Friday,17:02,17,South Suburb,B-303,S2366,Present
+05-09-2025,Friday,17:11,17,University,B-202,S2427,Present
+05-09-2025,Friday,17:08,17,Express Dc,B-401,S2262,Present
+05-09-2025,Friday,16:48,16,City Center,B-102,S2243,Present
+05-09-2025,Friday,16:34,16,City Center,B-102,S2245,Present
+05-09-2025,Friday,17:04,17,South Suburb,B-303,S2298,Present
+05-09-2025,Friday,17:11,17,University,B-202,S2294,Present
+05-09-2025,Friday,16:39,16,South Suburb,B-303,S2032,Present
+05-09-2025,Friday,17:05,17,Express Dc,B-401,S2040,Present
+08-09-2025,Monday,08:47,8,City Center,B-101,S2405,Present
+08-09-2025,Monday,08:33,8,Express Dc,B-401,S2590,Present
+08-09-2025,Monday,08:42,8,South Suburb,B-303,S2178,Present
+08-09-2025,Monday,08:56,8,University,B-202,S2411,Present
+08-09-2025,Monday,09:12,9,South Suburb,B-303,S2328,Present
+08-09-2025,Monday,09:15,9,City Center,B-101,S2360,Present
+08-09-2025,Monday,08:38,8,University,B-202,S2035,Present
+08-09-2025,Monday,08:53,8,City Center,B-101,S2042,Present
+08-09-2025,Monday,08:38,8,City Center,B-102,S2386,Present
+08-09-2025,Monday,08:46,8,South Suburb,B-303,S2083,Present
+08-09-2025,Monday,08:57,8,City Center,B-102,S2049,Present
+08-09-2025,Monday,08:32,8,University,B-202,S2097,Present
+08-09-2025,Monday,12:55,12,South Suburb,B-303,S2452,Present
+08-09-2025,Monday,17:03,17,Express Dc,B-401,S2386,Present
+08-09-2025,Monday,16:47,16,City Center,B-102,S2090,Present
+08-09-2025,Monday,16:59,16,University,B-202,S2087,Present
+08-09-2025,Monday,17:05,17,City Center,B-101,S2447,Present
+08-09-2025,Monday,17:11,17,City Center,B-102,S2177,Present
+08-09-2025,Monday,17:00,17,City Center,B-102,S2004,Present
+08-09-2025,Monday,16:30,16,City Center,B-102,S2342,Present
+08-09-2025,Monday,16:57,16,City Center,B-101,S2085,Present
+08-09-2025,Monday,16:51,16,City Center,B-101,S2047,Present
+08-09-2025,Monday,16:35,16,University,B-202,S2156,Present
+08-09-2025,Monday,16:33,16,City Center,B-102,S2447,Present
+08-09-2025,Monday,17:10,17,University,B-202,S2452,Present
+08-09-2025,Monday,16:57,16,University,B-202,S2257,Present
+09-09-2025,Tuesday,08:34,8,University,B-202,S2056,Present
+09-09-2025,Tuesday,08:57,8,City Center,B-102,S2322,Present
+09-09-2025,Tuesday,09:06,9,City Center,B-102,S2328,Present
+09-09-2025,Tuesday,09:05,9,City Center,B-101,S2287,Present
+09-09-2025,Tuesday,09:07,9,South Suburb,B-303,S2135,Present
+09-09-2025,Tuesday,08:35,8,City Center,B-102,S2099,Present
+09-09-2025,Tuesday,08:35,8,University,B-202,S2216,Present
+09-09-2025,Tuesday,09:08,9,South Suburb,B-303,S2346,Present
+09-09-2025,Tuesday,09:06,9,University,B-202,S2599,Present
+09-09-2025,Tuesday,09:13,9,University,B-202,S2457,Present
+09-09-2025,Tuesday,08:30,8,South Suburb,B-303,S2537,Present
+09-09-2025,Tuesday,09:04,9,City Center,B-101,S2154,Present
+09-09-2025,Tuesday,08:43,8,University,B-202,S2247,Present
+09-09-2025,Tuesday,08:50,8,City Center,B-102,S2201,Present
+09-09-2025,Tuesday,16:54,16,Express Dc,B-401,S2084,Present
+09-09-2025,Tuesday,16:37,16,South Suburb,B-303,S2529,Present
+09-09-2025,Tuesday,16:51,16,South Suburb,B-303,S2456,Present
+09-09-2025,Tuesday,17:06,17,South Suburb,B-303,S2426,Present
+09-09-2025,Tuesday,16:41,16,City Center,B-102,S2270,Present
+09-09-2025,Tuesday,17:12,17,City Center,B-101,S2180,Present
+09-09-2025,Tuesday,16:49,16,City Center,B-102,S2445,Present
+09-09-2025,Tuesday,16:45,16,University,B-202,S2293,Present
+09-09-2025,Tuesday,16:42,16,University,B-202,S2138,Present
+09-09-2025,Tuesday,17:06,17,South Suburb,B-303,S2421,Present
+09-09-2025,Tuesday,17:10,17,University,B-202,S2110,Present
+09-09-2025,Tuesday,16:50,16,South Suburb,B-303,S2502,Present
+09-09-2025,Tuesday,16:52,16,University,B-202,S2261,Present
+09-09-2025,Tuesday,17:02,17,South Suburb,B-303,S2429,Present
+10-09-2025,Wednesday,09:13,9,South Suburb,B-303,S2577,Present
+10-09-2025,Wednesday,08:40,8,City Center,B-101,S2466,Present
+10-09-2025,Wednesday,08:34,8,City Center,B-102,S2000,Present
+10-09-2025,Wednesday,09:13,9,South Suburb,B-303,S2593,Present
+10-09-2025,Wednesday,09:02,9,Express Dc,B-401,S2326,Present
+10-09-2025,Wednesday,08:42,8,South Suburb,B-303,S2485,Present
+10-09-2025,Wednesday,08:33,8,City Center,B-101,S2410,Present
+10-09-2025,Wednesday,09:00,9,University,B-202,S2420,Present
+10-09-2025,Wednesday,09:10,9,South Suburb,B-303,S2060,Present
+10-09-2025,Wednesday,08:47,8,City Center,B-102,S2230,Absent
+10-09-2025,Wednesday,09:14,9,South Suburb,B-303,S2169,Present
+10-09-2025,Wednesday,08:37,8,City Center,B-101,S2358,Present
+10-09-2025,Wednesday,09:05,9,City Center,B-102,S2559,Present
+10-09-2025,Wednesday,08:46,8,South Suburb,B-303,S2134,Absent
+10-09-2025,Wednesday,17:15,17,City Center,B-102,S2436,Present
+10-09-2025,Wednesday,16:54,16,South Suburb,B-303,S2424,Present
+10-09-2025,Wednesday,16:56,16,Express Dc,B-401,S2537,Present
+10-09-2025,Wednesday,16:58,16,City Center,B-102,S2110,Present
+10-09-2025,Wednesday,17:06,17,City Center,B-101,S2346,Present
+10-09-2025,Wednesday,17:03,17,City Center,B-101,S2434,Present
+10-09-2025,Wednesday,16:40,16,City Center,B-102,S2186,Present
+10-09-2025,Wednesday,16:32,16,University,B-202,S2075,Present
+10-09-2025,Wednesday,16:47,16,South Suburb,B-303,S2541,Present
+10-09-2025,Wednesday,16:49,16,City Center,B-102,S2555,Present
+10-09-2025,Wednesday,16:49,16,Express Dc,B-401,S2440,Present
+10-09-2025,Wednesday,16:59,16,South Suburb,B-303,S2374,Present
+10-09-2025,Wednesday,16:42,16,City Center,B-102,S2491,Present
+11-09-2025,Thursday,08:45,8,City Center,B-101,S2597,Present
+11-09-2025,Thursday,09:11,9,University,B-202,S2361,Present
+11-09-2025,Thursday,09:03,9,City Center,B-101,S2349,Present
+11-09-2025,Thursday,09:14,9,South Suburb,B-303,S2008,Present
+11-09-2025,Thursday,08:35,8,City Center,B-102,S2499,Present
+11-09-2025,Thursday,08:39,8,City Center,B-101,S2053,Present
+11-09-2025,Thursday,08:49,8,South Suburb,B-303,S2285,Present
+11-09-2025,Thursday,09:15,9,City Center,B-101,S2196,Present
+11-09-2025,Thursday,09:02,9,University,B-202,S2373,Absent
+11-09-2025,Thursday,08:52,8,South Suburb,B-303,S2441,Present
+11-09-2025,Thursday,08:37,8,South Suburb,B-303,S2076,Present
+11-09-2025,Thursday,09:08,9,City Center,B-101,S2224,Present
+11-09-2025,Thursday,16:40,16,University,B-202,S2322,Present
+11-09-2025,Thursday,16:41,16,South Suburb,B-303,S2537,Present
+11-09-2025,Thursday,16:44,16,University,B-202,S2427,Present
+11-09-2025,Thursday,16:39,16,City Center,B-102,S2475,Present
+11-09-2025,Thursday,16:36,16,Express Dc,B-401,S2082,Present
+11-09-2025,Thursday,16:57,16,South Suburb,B-303,S2426,Present
+11-09-2025,Thursday,16:38,16,City Center,B-102,S2008,Present
+11-09-2025,Thursday,16:49,16,University,B-202,S2026,Present
+11-09-2025,Thursday,16:39,16,Express Dc,B-401,S2144,Present
+11-09-2025,Thursday,16:57,16,City Center,B-101,S2325,Present
+11-09-2025,Thursday,17:12,17,University,B-202,S2421,Present
+11-09-2025,Thursday,17:00,17,City Center,B-102,S2155,Present
+11-09-2025,Thursday,16:40,16,Express Dc,B-401,S2467,Present
+11-09-2025,Thursday,17:13,17,University,B-202,S2364,Present
+12-09-2025,Friday,08:37,8,South Suburb,B-303,S2352,Present
+12-09-2025,Friday,09:00,9,University,B-202,S2226,Present
+12-09-2025,Friday,08:37,8,South Suburb,B-303,S2242,Present
+12-09-2025,Friday,08:42,8,City Center,B-101,S2343,Present
+12-09-2025,Friday,08:51,8,South Suburb,B-303,S2397,Present
+12-09-2025,Friday,08:59,8,City Center,B-102,S2399,Present
+12-09-2025,Friday,08:57,8,Express Dc,B-401,S2565,Present
+12-09-2025,Friday,08:59,8,City Center,B-101,S2106,Present
+12-09-2025,Friday,08:42,8,City Center,B-101,S2392,Present
+12-09-2025,Friday,08:43,8,City Center,B-101,S2276,Present
+12-09-2025,Friday,09:13,9,City Center,B-101,S2066,Present
+12-09-2025,Friday,08:49,8,City Center,B-102,S2192,Present
+12-09-2025,Friday,09:00,9,University,B-202,S2488,Present
+12-09-2025,Friday,09:02,9,University,B-202,S2430,Present
+12-09-2025,Friday,13:32,13,Express Dc,B-401,S2466,Present
+12-09-2025,Friday,16:59,16,City Center,B-101,S2598,Present
+12-09-2025,Friday,17:09,17,City Center,B-102,S2577,Present
+12-09-2025,Friday,16:49,16,University,B-202,S2525,Present
+12-09-2025,Friday,17:13,17,City Center,B-101,S2185,Present
+12-09-2025,Friday,16:53,16,City Center,B-101,S2173,Present
+12-09-2025,Friday,16:33,16,South Suburb,B-303,S2283,Present
+12-09-2025,Friday,16:56,16,City Center,B-102,S2098,Present
+12-09-2025,Friday,17:12,17,Express Dc,B-401,S2521,Present
+12-09-2025,Friday,17:14,17,South Suburb,B-303,S2326,Present
+12-09-2025,Friday,16:35,16,City Center,B-101,S2120,Present
+12-09-2025,Friday,17:04,17,University,B-202,S2388,Present
+12-09-2025,Friday,16:53,16,University,B-202,S2336,Present
+12-09-2025,Friday,16:30,16,University,B-202,S2282,Present
+15-09-2025,Monday,08:40,8,University,B-202,S2155,Present
+15-09-2025,Monday,08:57,8,South Suburb,B-303,S2343,Present
+15-09-2025,Monday,09:09,9,City Center,B-101,S2129,Present
+15-09-2025,Monday,09:14,9,Express Dc,B-401,S2114,Present
+15-09-2025,Monday,08:35,8,South Suburb,B-303,S2193,Present
+15-09-2025,Monday,08:54,8,City Center,B-101,S2262,Present
+15-09-2025,Monday,08:38,8,South Suburb,B-303,S2230,Present
+15-09-2025,Monday,09:07,9,City Center,B-102,S2123,Present
+15-09-2025,Monday,08:58,8,Express Dc,B-401,S2291,Present
+15-09-2025,Monday,08:46,8,City Center,B-101,S2115,Present
+15-09-2025,Monday,16:30,16,Express Dc,B-401,S2572,Present
+15-09-2025,Monday,16:42,16,Express Dc,B-401,S2231,Present
+15-09-2025,Monday,17:08,17,Express Dc,B-401,S2185,Present
+15-09-2025,Monday,16:36,16,City Center,B-101,S2512,Present
+15-09-2025,Monday,17:04,17,Express Dc,B-401,S2544,Present
+15-09-2025,Monday,17:04,17,City Center,B-101,S2595,Present
+15-09-2025,Monday,17:15,17,University,B-202,S2471,Absent
+15-09-2025,Monday,16:51,16,University,B-202,S2100,Present
+15-09-2025,Monday,17:06,17,South Suburb,B-303,S2464,Present
+15-09-2025,Monday,17:14,17,City Center,B-101,S2433,Present
+15-09-2025,Monday,16:44,16,City Center,B-102,S2366,Present
+15-09-2025,Monday,16:45,16,Express Dc,B-401,S2309,Present
+16-09-2025,Tuesday,08:45,8,City Center,B-102,S2244,Present
+16-09-2025,Tuesday,08:34,8,University,B-202,S2567,Present
+16-09-2025,Tuesday,08:35,8,Express Dc,B-401,S2029,Present
+16-09-2025,Tuesday,08:41,8,City Center,B-102,S2491,Present
+16-09-2025,Tuesday,08:36,8,City Center,B-102,S2532,Present
+16-09-2025,Tuesday,08:33,8,University,B-202,S2075,Present
+16-09-2025,Tuesday,09:13,9,University,B-202,S2511,Present
+16-09-2025,Tuesday,08:58,8,City Center,B-102,S2431,Present
+16-09-2025,Tuesday,09:10,9,South Suburb,B-303,S2234,Present
+16-09-2025,Tuesday,09:01,9,University,B-202,S2388,Present
+16-09-2025,Tuesday,13:04,13,University,B-202,S2030,Present
+16-09-2025,Tuesday,17:15,17,Express Dc,B-401,S2092,Present
+16-09-2025,Tuesday,16:46,16,University,B-202,S2431,Present
+16-09-2025,Tuesday,16:53,16,City Center,B-101,S2342,Present
+16-09-2025,Tuesday,16:48,16,City Center,B-101,S2154,Present
+16-09-2025,Tuesday,16:32,16,University,B-202,S2371,Present
+16-09-2025,Tuesday,16:37,16,South Suburb,B-303,S2295,Absent
+16-09-2025,Tuesday,17:04,17,South Suburb,B-303,S2257,Present
+16-09-2025,Tuesday,17:01,17,City Center,B-101,S2492,Present
+16-09-2025,Tuesday,16:59,16,University,B-202,S2010,Present
+16-09-2025,Tuesday,17:06,17,City Center,B-102,S2089,Present
+16-09-2025,Tuesday,16:34,16,University,B-202,S2176,Present
+16-09-2025,Tuesday,16:57,16,City Center,B-102,S2497,Present
+16-09-2025,Tuesday,16:53,16,University,B-202,S2060,Present
+16-09-2025,Tuesday,16:50,16,Express Dc,B-401,S2077,Present
+17-09-2025,Wednesday,08:33,8,South Suburb,B-303,S2227,Present
+17-09-2025,Wednesday,08:47,8,University,B-202,S2577,Present
+17-09-2025,Wednesday,09:12,9,South Suburb,B-303,S2014,Present
+17-09-2025,Wednesday,08:52,8,University,B-202,S2393,Present
+17-09-2025,Wednesday,09:13,9,University,B-202,S2462,Present
+17-09-2025,Wednesday,08:38,8,City Center,B-102,S2102,Present
+17-09-2025,Wednesday,08:46,8,City Center,B-101,S2521,Present
+17-09-2025,Wednesday,08:41,8,City Center,B-102,S2232,Present
+17-09-2025,Wednesday,08:55,8,Express Dc,B-401,S2196,Present
+17-09-2025,Wednesday,08:53,8,City Center,B-101,S2210,Present
+17-09-2025,Wednesday,09:15,9,South Suburb,B-303,S2279,Present
+17-09-2025,Wednesday,08:43,8,University,B-202,S2508,Present
+17-09-2025,Wednesday,08:43,8,City Center,B-101,S2326,Present
+17-09-2025,Wednesday,08:57,8,University,B-202,S2131,Present
+17-09-2025,Wednesday,16:42,16,City Center,B-101,S2508,Present
+17-09-2025,Wednesday,16:48,16,South Suburb,B-303,S2498,Present
+17-09-2025,Wednesday,17:01,17,City Center,B-101,S2082,Present
+17-09-2025,Wednesday,16:54,16,City Center,B-101,S2229,Present
+17-09-2025,Wednesday,16:56,16,City Center,B-102,S2167,Present
+17-09-2025,Wednesday,17:01,17,University,B-202,S2233,Present
+17-09-2025,Wednesday,17:15,17,University,B-202,S2339,Present
+17-09-2025,Wednesday,16:54,16,City Center,B-101,S2232,Present
+17-09-2025,Wednesday,16:49,16,City Center,B-101,S2053,Present
+17-09-2025,Wednesday,17:00,17,City Center,B-102,S2028,Present
+17-09-2025,Wednesday,16:42,16,University,B-202,S2087,Present
+17-09-2025,Wednesday,16:58,16,City Center,B-102,S2449,Present
+18-09-2025,Thursday,08:38,8,South Suburb,B-303,S2520,Present
+18-09-2025,Thursday,09:15,9,South Suburb,B-303,S2202,Present
+18-09-2025,Thursday,09:11,9,City Center,B-101,S2288,Present
+18-09-2025,Thursday,09:02,9,South Suburb,B-303,S2545,Present
+18-09-2025,Thursday,08:52,8,South Suburb,B-303,S2279,Present
+18-09-2025,Thursday,08:49,8,South Suburb,B-303,S2071,Present
+18-09-2025,Thursday,08:40,8,Express Dc,B-401,S2120,Absent
+18-09-2025,Thursday,09:11,9,City Center,B-101,S2031,Present
+18-09-2025,Thursday,08:30,8,University,B-202,S2504,Present
+18-09-2025,Thursday,09:13,9,University,B-202,S2383,Present
+18-09-2025,Thursday,16:33,16,City Center,B-102,S2373,Present
+18-09-2025,Thursday,16:57,16,South Suburb,B-303,S2582,Present
+18-09-2025,Thursday,16:52,16,University,B-202,S2152,Absent
+18-09-2025,Thursday,16:58,16,City Center,B-102,S2555,Present
+18-09-2025,Thursday,17:02,17,South Suburb,B-303,S2475,Present
+18-09-2025,Thursday,16:47,16,City Center,B-102,S2381,Present
+18-09-2025,Thursday,16:42,16,City Center,B-101,S2284,Present
+18-09-2025,Thursday,16:49,16,City Center,B-102,S2067,Present
+18-09-2025,Thursday,16:54,16,University,B-202,S2579,Present
+18-09-2025,Thursday,16:31,16,South Suburb,B-303,S2084,Present
+18-09-2025,Thursday,16:56,16,University,B-202,S2572,Present
+18-09-2025,Thursday,16:48,16,Express Dc,B-401,S2525,Present
+18-09-2025,Thursday,16:56,16,City Center,B-102,S2076,Present
+18-09-2025,Thursday,16:52,16,University,B-202,S2172,Present
+18-09-2025,Thursday,17:03,17,University,B-202,S2025,Present
+19-09-2025,Friday,09:07,9,University,B-202,S2297,Present
+19-09-2025,Friday,09:05,9,City Center,B-102,S2294,Present
+19-09-2025,Friday,09:01,9,University,B-202,S2339,Present
+19-09-2025,Friday,08:33,8,University,B-202,S2095,Absent
+19-09-2025,Friday,08:47,8,City Center,B-101,S2578,Absent
+19-09-2025,Friday,09:02,9,University,B-202,S2447,Present
+19-09-2025,Friday,09:14,9,South Suburb,B-303,S2580,Present
+19-09-2025,Friday,09:13,9,City Center,B-101,S2577,Present
+19-09-2025,Friday,08:34,8,City Center,B-102,S2063,Present
+19-09-2025,Friday,08:56,8,City Center,B-102,S2193,Present
+19-09-2025,Friday,08:36,8,University,B-202,S2190,Present
+19-09-2025,Friday,08:34,8,Express Dc,B-401,S2258,Present
+19-09-2025,Friday,09:00,9,South Suburb,B-303,S2459,Present
+19-09-2025,Friday,08:49,8,South Suburb,B-303,S2098,Present
+19-09-2025,Friday,08:49,8,City Center,B-101,S2109,Present
+19-09-2025,Friday,16:59,16,Express Dc,B-401,S2503,Present
+19-09-2025,Friday,17:09,17,University,B-202,S2368,Present
+19-09-2025,Friday,16:31,16,South Suburb,B-303,S2091,Present
+19-09-2025,Friday,16:31,16,City Center,B-101,S2554,Present
+19-09-2025,Friday,16:56,16,University,B-202,S2451,Present
+19-09-2025,Friday,16:46,16,University,B-202,S2374,Present
+19-09-2025,Friday,17:01,17,City Center,B-101,S2330,Present
+19-09-2025,Friday,16:35,16,University,B-202,S2217,Present
+19-09-2025,Friday,16:46,16,Express Dc,B-401,S2442,Present
+19-09-2025,Friday,16:50,16,Express Dc,B-401,S2108,Present
+19-09-2025,Friday,16:49,16,City Center,B-102,S2109,Present
+19-09-2025,Friday,16:52,16,University,B-202,S2484,Present
+22-09-2025,Monday,08:45,8,City Center,B-102,S2005,Present
+22-09-2025,Monday,08:55,8,University,B-202,S2337,Present
+22-09-2025,Monday,09:09,9,South Suburb,B-303,S2471,Present
+22-09-2025,Monday,09:08,9,University,B-202,S2151,Present
+22-09-2025,Monday,08:34,8,City Center,B-102,S2014,Present
+22-09-2025,Monday,09:10,9,University,B-202,S2352,Present
+22-09-2025,Monday,09:05,9,Express Dc,B-401,S2459,Present
+22-09-2025,Monday,08:51,8,University,B-202,S2512,Present
+22-09-2025,Monday,09:13,9,University,B-202,S2205,Present
+22-09-2025,Monday,09:05,9,South Suburb,B-303,S2079,Present
+22-09-2025,Monday,08:40,8,University,B-202,S2392,Present
+22-09-2025,Monday,12:05,12,University,B-202,S2482,Present
+22-09-2025,Monday,16:52,16,City Center,B-102,S2414,Present
+22-09-2025,Monday,17:07,17,City Center,B-101,S2221,Present
+22-09-2025,Monday,16:37,16,City Center,B-102,S2109,Present
+22-09-2025,Monday,16:43,16,Express Dc,B-401,S2398,Present
+22-09-2025,Monday,17:09,17,City Center,B-101,S2551,Present
+22-09-2025,Monday,16:49,16,South Suburb,B-303,S2238,Present
+22-09-2025,Monday,17:12,17,City Center,B-101,S2031,Present
+22-09-2025,Monday,17:02,17,University,B-202,S2460,Present
+22-09-2025,Monday,16:59,16,South Suburb,B-303,S2323,Present
+22-09-2025,Monday,17:11,17,City Center,B-101,S2440,Present
+22-09-2025,Monday,17:09,17,City Center,B-102,S2328,Present
+22-09-2025,Monday,16:59,16,University,B-202,S2540,Present
+22-09-2025,Monday,16:41,16,City Center,B-102,S2189,Present
+22-09-2025,Monday,17:15,17,City Center,B-101,S2185,Present
+23-09-2025,Tuesday,08:42,8,City Center,B-102,S2033,Present
+23-09-2025,Tuesday,08:46,8,City Center,B-102,S2198,Present
+23-09-2025,Tuesday,08:45,8,South Suburb,B-303,S2330,Present
+23-09-2025,Tuesday,09:11,9,City Center,B-101,S2019,Present
+23-09-2025,Tuesday,08:47,8,City Center,B-102,S2555,Present
+23-09-2025,Tuesday,09:14,9,City Center,B-101,S2558,Absent
+23-09-2025,Tuesday,09:09,9,South Suburb,B-303,S2443,Present
+23-09-2025,Tuesday,09:09,9,South Suburb,B-303,S2478,Present
+23-09-2025,Tuesday,09:03,9,University,B-202,S2137,Present
+23-09-2025,Tuesday,08:49,8,South Suburb,B-303,S2282,Present
+23-09-2025,Tuesday,16:45,16,City Center,B-102,S2077,Present
+23-09-2025,Tuesday,17:14,17,University,B-202,S2081,Present
+23-09-2025,Tuesday,17:15,17,University,B-202,S2452,Present
+23-09-2025,Tuesday,16:48,16,City Center,B-101,S2064,Present
+23-09-2025,Tuesday,16:48,16,University,B-202,S2496,Present
+23-09-2025,Tuesday,16:58,16,Express Dc,B-401,S2255,Present
+23-09-2025,Tuesday,16:39,16,City Center,B-102,S2329,Present
+23-09-2025,Tuesday,17:08,17,Express Dc,B-401,S2572,Absent
+23-09-2025,Tuesday,16:59,16,University,B-202,S2412,Present
+23-09-2025,Tuesday,16:56,16,City Center,B-101,S2543,Present
+23-09-2025,Tuesday,16:49,16,Express Dc,B-401,S2259,Present
+23-09-2025,Tuesday,16:35,16,Express Dc,B-401,S2231,Present
+23-09-2025,Tuesday,16:59,16,South Suburb,B-303,S2129,Present
+23-09-2025,Tuesday,16:47,16,South Suburb,B-303,S2028,Present
+23-09-2025,Tuesday,17:07,17,City Center,B-101,S2299,Present
+24-09-2025,Wednesday,09:07,9,City Center,B-102,S2375,Present
+24-09-2025,Wednesday,08:36,8,City Center,B-102,S2312,Present
+24-09-2025,Wednesday,08:58,8,South Suburb,B-303,S2317,Present
+24-09-2025,Wednesday,08:50,8,South Suburb,B-303,S2211,Present
+24-09-2025,Wednesday,08:56,8,City Center,B-102,S2160,Present
+24-09-2025,Wednesday,09:02,9,Express Dc,B-401,S2072,Present
+24-09-2025,Wednesday,09:15,9,South Suburb,B-303,S2467,Present
+24-09-2025,Wednesday,09:08,9,South Suburb,B-303,S2307,Present
+24-09-2025,Wednesday,08:57,8,University,B-202,S2369,Present
+24-09-2025,Wednesday,08:40,8,City Center,B-102,S2213,Present
+24-09-2025,Wednesday,08:50,8,University,B-202,S2257,Present
+24-09-2025,Wednesday,08:42,8,University,B-202,S2307,Present
+24-09-2025,Wednesday,08:39,8,City Center,B-102,S2291,Present
+24-09-2025,Wednesday,16:49,16,University,B-202,S2266,Present
+24-09-2025,Wednesday,16:56,16,City Center,B-102,S2446,Present
+24-09-2025,Wednesday,16:58,16,South Suburb,B-303,S2016,Absent
+24-09-2025,Wednesday,16:54,16,South Suburb,B-303,S2507,Present
+24-09-2025,Wednesday,17:04,17,South Suburb,B-303,S2571,Present
+24-09-2025,Wednesday,16:36,16,City Center,B-102,S2470,Present
+24-09-2025,Wednesday,16:59,16,South Suburb,B-303,S2546,Present
+24-09-2025,Wednesday,16:42,16,City Center,B-102,S2115,Present
+24-09-2025,Wednesday,16:43,16,City Center,B-102,S2202,Present
+24-09-2025,Wednesday,16:31,16,South Suburb,B-303,S2255,Present
+24-09-2025,Wednesday,16:51,16,South Suburb,B-303,S2534,Present
+24-09-2025,Wednesday,17:14,17,Express Dc,B-401,S2205,Present
+24-09-2025,Wednesday,17:05,17,University,B-202,S2271,Present
+24-09-2025,Wednesday,17:06,17,South Suburb,B-303,S2052,Absent
+25-09-2025,Thursday,08:58,8,University,B-202,S2361,Present
+25-09-2025,Thursday,09:12,9,South Suburb,B-303,S2439,Present
+25-09-2025,Thursday,08:57,8,University,B-202,S2360,Present
+25-09-2025,Thursday,09:10,9,University,B-202,S2341,Present
+25-09-2025,Thursday,08:30,8,City Center,B-101,S2024,Present
+25-09-2025,Thursday,08:35,8,University,B-202,S2161,Present
+25-09-2025,Thursday,09:13,9,University,B-202,S2307,Present
+25-09-2025,Thursday,09:10,9,Express Dc,B-401,S2476,Present
+25-09-2025,Thursday,09:12,9,South Suburb,B-303,S2326,Present
+25-09-2025,Thursday,08:46,8,City Center,B-102,S2552,Present
+25-09-2025,Thursday,09:04,9,University,B-202,S2318,Present
+25-09-2025,Thursday,08:49,8,City Center,B-101,S2461,Present
+25-09-2025,Thursday,16:34,16,University,B-202,S2268,Absent
+25-09-2025,Thursday,16:55,16,City Center,B-102,S2527,Present
+25-09-2025,Thursday,16:56,16,University,B-202,S2352,Present
+25-09-2025,Thursday,16:40,16,University,B-202,S2332,Present
+25-09-2025,Thursday,16:53,16,University,B-202,S2132,Present
+25-09-2025,Thursday,17:14,17,University,B-202,S2320,Present
+25-09-2025,Thursday,17:05,17,City Center,B-101,S2543,Present
+25-09-2025,Thursday,17:14,17,South Suburb,B-303,S2144,Present
+25-09-2025,Thursday,17:06,17,South Suburb,B-303,S2515,Present
+25-09-2025,Thursday,16:47,16,City Center,B-102,S2119,Present
+25-09-2025,Thursday,16:32,16,Express Dc,B-401,S2559,Present
+25-09-2025,Thursday,16:40,16,University,B-202,S2081,Present
+25-09-2025,Thursday,16:52,16,City Center,B-102,S2521,Present
+25-09-2025,Thursday,16:53,16,Express Dc,B-401,S2508,Absent
+25-09-2025,Thursday,17:12,17,University,B-202,S2421,Present
+26-09-2025,Friday,08:50,8,City Center,B-102,S2103,Present
+26-09-2025,Friday,08:51,8,University,B-202,S2563,Present
+26-09-2025,Friday,09:15,9,South Suburb,B-303,S2404,Absent
+26-09-2025,Friday,08:47,8,South Suburb,B-303,S2330,Present
+26-09-2025,Friday,09:11,9,University,B-202,S2036,Present
+26-09-2025,Friday,08:55,8,Express Dc,B-401,S2204,Present
+26-09-2025,Friday,08:54,8,South Suburb,B-303,S2437,Present
+26-09-2025,Friday,08:53,8,South Suburb,B-303,S2075,Present
+26-09-2025,Friday,09:09,9,City Center,B-102,S2598,Present
+26-09-2025,Friday,09:07,9,University,B-202,S2547,Present
+26-09-2025,Friday,08:35,8,City Center,B-101,S2357,Present
+26-09-2025,Friday,08:52,8,South Suburb,B-303,S2401,Present
+26-09-2025,Friday,13:21,13,Express Dc,B-401,S2515,Present
+26-09-2025,Friday,16:42,16,City Center,B-101,S2476,Present
+26-09-2025,Friday,16:44,16,City Center,B-102,S2467,Present
+26-09-2025,Friday,16:48,16,City Center,B-102,S2579,Present
+26-09-2025,Friday,16:43,16,University,B-202,S2212,Present
+26-09-2025,Friday,17:04,17,Express Dc,B-401,S2427,Present
+26-09-2025,Friday,16:45,16,City Center,B-102,S2192,Present
+26-09-2025,Friday,16:52,16,South Suburb,B-303,S2523,Present
+26-09-2025,Friday,16:49,16,Express Dc,B-401,S2162,Present
+26-09-2025,Friday,16:55,16,University,B-202,S2444,Present
+26-09-2025,Friday,16:30,16,South Suburb,B-303,S2124,Present
+26-09-2025,Friday,16:42,16,University,B-202,S2256,Present
+26-09-2025,Friday,17:01,17,City Center,B-102,S2324,Present
+29-09-2025,Monday,08:45,8,South Suburb,B-303,S2038,Present
+29-09-2025,Monday,08:47,8,City Center,B-102,S2420,Present
+29-09-2025,Monday,08:59,8,South Suburb,B-303,S2438,Present
+29-09-2025,Monday,08:32,8,University,B-202,S2080,Present
+29-09-2025,Monday,08:51,8,City Center,B-101,S2001,Present
+29-09-2025,Monday,08:52,8,University,B-202,S2182,Present
+29-09-2025,Monday,09:07,9,City Center,B-101,S2325,Present
+29-09-2025,Monday,08:34,8,City Center,B-101,S2581,Present
+29-09-2025,Monday,08:56,8,City Center,B-101,S2461,Present
+29-09-2025,Monday,08:49,8,City Center,B-101,S2333,Absent
+29-09-2025,Monday,08:55,8,City Center,B-101,S2082,Present
+29-09-2025,Monday,08:53,8,South Suburb,B-303,S2332,Absent
+29-09-2025,Monday,13:14,13,South Suburb,B-303,S2236,Present
+29-09-2025,Monday,16:59,16,University,B-202,S2119,Present
+29-09-2025,Monday,16:58,16,City Center,B-102,S2406,Present
+29-09-2025,Monday,17:11,17,Express Dc,B-401,S2319,Present
+29-09-2025,Monday,17:09,17,South Suburb,B-303,S2523,Present
+29-09-2025,Monday,16:42,16,City Center,B-101,S2065,Present
+29-09-2025,Monday,16:30,16,University,B-202,S2195,Present
+29-09-2025,Monday,17:08,17,Express Dc,B-401,S2314,Present
+29-09-2025,Monday,16:33,16,City Center,B-101,S2599,Present
+29-09-2025,Monday,17:01,17,Express Dc,B-401,S2294,Present
+29-09-2025,Monday,16:42,16,City Center,B-102,S2342,Present
+29-09-2025,Monday,16:34,16,University,B-202,S2421,Present
+29-09-2025,Monday,16:46,16,Express Dc,B-401,S2498,Present
+29-09-2025,Monday,17:07,17,University,B-202,S2132,Present
+29-09-2025,Monday,17:07,17,City Center,B-102,S2160,Present
+29-09-2025,Monday,16:39,16,City Center,B-102,S2318,Present
+30-09-2025,Tuesday,08:59,8,South Suburb,B-303,S2255,Absent
+30-09-2025,Tuesday,08:39,8,University,B-202,S2507,Present
+30-09-2025,Tuesday,09:05,9,City Center,B-101,S2495,Absent
+30-09-2025,Tuesday,09:04,9,City Center,B-102,S2403,Absent
+30-09-2025,Tuesday,09:01,9,City Center,B-102,S2011,Present
+30-09-2025,Tuesday,09:03,9,South Suburb,B-303,S2530,Present
+30-09-2025,Tuesday,08:59,8,University,B-202,S2336,Present
+30-09-2025,Tuesday,08:44,8,City Center,B-102,S2545,Present
+30-09-2025,Tuesday,08:34,8,University,B-202,S2275,Present
+30-09-2025,Tuesday,09:07,9,City Center,B-102,S2497,Present
+30-09-2025,Tuesday,08:45,8,University,B-202,S2115,Present
+30-09-2025,Tuesday,08:53,8,City Center,B-101,S2542,Present
+30-09-2025,Tuesday,08:46,8,University,B-202,S2221,Present
+30-09-2025,Tuesday,09:05,9,City Center,B-101,S2438,Present
+30-09-2025,Tuesday,16:45,16,University,B-202,S2169,Present
+30-09-2025,Tuesday,17:00,17,University,B-202,S2135,Present
+30-09-2025,Tuesday,17:03,17,City Center,B-102,S2184,Present
+30-09-2025,Tuesday,17:05,17,University,B-202,S2570,Present
+30-09-2025,Tuesday,16:56,16,University,B-202,S2330,Absent
+30-09-2025,Tuesday,17:07,17,University,B-202,S2502,Absent
+30-09-2025,Tuesday,16:55,16,University,B-202,S2253,Present
+30-09-2025,Tuesday,16:46,16,City Center,B-102,S2527,Present
+30-09-2025,Tuesday,17:02,17,City Center,B-102,S2282,Present
+30-09-2025,Tuesday,16:40,16,City Center,B-102,S2167,Present
+30-09-2025,Tuesday,17:07,17,Express Dc,B-401,S2107,Present
+30-09-2025,Tuesday,17:02,17,University,B-202,S2445,Present
+01-10-2025,Wednesday,08:58,8,City Center,B-102,S2466,Present
+01-10-2025,Wednesday,08:43,8,South Suburb,B-303,S2299,Present
+01-10-2025,Wednesday,09:05,9,South Suburb,B-303,S2021,Present
+01-10-2025,Wednesday,09:01,9,South Suburb,B-303,S2146,Present
+01-10-2025,Wednesday,08:51,8,University,B-202,S2108,Present
+01-10-2025,Wednesday,09:01,9,City Center,B-101,S2319,Present
+01-10-2025,Wednesday,08:32,8,South Suburb,B-303,S2459,Present
+01-10-2025,Wednesday,08:47,8,University,B-202,S2353,Present
+01-10-2025,Wednesday,08:42,8,University,B-202,S2263,Present
+01-10-2025,Wednesday,08:58,8,University,B-202,S2349,Present
+01-10-2025,Wednesday,08:35,8,South Suburb,B-303,S2591,Present
+01-10-2025,Wednesday,08:59,8,City Center,B-101,S2015,Present
+01-10-2025,Wednesday,09:04,9,City Center,B-101,S2036,Present
+01-10-2025,Wednesday,17:11,17,City Center,B-102,S2326,Present
+01-10-2025,Wednesday,16:32,16,City Center,B-102,S2300,Present
+01-10-2025,Wednesday,17:10,17,City Center,B-102,S2464,Present
+01-10-2025,Wednesday,17:07,17,Express Dc,B-401,S2068,Present
+01-10-2025,Wednesday,16:57,16,University,B-202,S2298,Present
+01-10-2025,Wednesday,16:59,16,University,B-202,S2343,Present
+01-10-2025,Wednesday,16:55,16,City Center,B-102,S2501,Present
+01-10-2025,Wednesday,16:33,16,South Suburb,B-303,S2059,Present
+01-10-2025,Wednesday,16:43,16,City Center,B-102,S2599,Present
+01-10-2025,Wednesday,16:53,16,City Center,B-101,S2404,Present
+01-10-2025,Wednesday,16:30,16,City Center,B-102,S2128,Present
+01-10-2025,Wednesday,17:12,17,City Center,B-101,S2008,Present
+01-10-2025,Wednesday,16:43,16,City Center,B-102,S2377,Present
+01-10-2025,Wednesday,16:44,16,City Center,B-101,S2050,Present
+02-10-2025,Thursday,08:55,8,City Center,B-101,S2300,Present
+02-10-2025,Thursday,08:42,8,South Suburb,B-303,S2068,Present
+02-10-2025,Thursday,09:09,9,City Center,B-102,S2417,Present
+02-10-2025,Thursday,08:37,8,University,B-202,S2084,Present
+02-10-2025,Thursday,09:10,9,University,B-202,S2194,Present
+02-10-2025,Thursday,09:12,9,University,B-202,S2220,Present
+02-10-2025,Thursday,08:51,8,City Center,B-102,S2565,Present
+02-10-2025,Thursday,08:37,8,City Center,B-102,S2133,Present
+02-10-2025,Thursday,08:51,8,City Center,B-101,S2588,Present
+02-10-2025,Thursday,08:53,8,City Center,B-101,S2185,Present
+02-10-2025,Thursday,08:36,8,South Suburb,B-303,S2182,Present
+02-10-2025,Thursday,08:56,8,South Suburb,B-303,S2339,Present
+02-10-2025,Thursday,17:04,17,South Suburb,B-303,S2207,Present
+02-10-2025,Thursday,16:41,16,South Suburb,B-303,S2408,Present
+02-10-2025,Thursday,16:42,16,City Center,B-101,S2337,Present
+02-10-2025,Thursday,16:34,16,University,B-202,S2578,Present
+02-10-2025,Thursday,16:49,16,University,B-202,S2043,Present
+02-10-2025,Thursday,16:43,16,City Center,B-102,S2414,Present
+02-10-2025,Thursday,17:08,17,University,B-202,S2373,Present
+02-10-2025,Thursday,17:14,17,South Suburb,B-303,S2538,Present
+02-10-2025,Thursday,17:13,17,University,B-202,S2386,Present
+02-10-2025,Thursday,17:12,17,South Suburb,B-303,S2398,Present
+02-10-2025,Thursday,16:57,16,Express Dc,B-401,S2411,Present
+02-10-2025,Thursday,16:39,16,Express Dc,B-401,S2472,Present
+02-10-2025,Thursday,16:47,16,University,B-202,S2207,Present
+02-10-2025,Thursday,17:04,17,City Center,B-101,S2078,Present
+03-10-2025,Friday,08:31,8,City Center,B-101,S2495,Present
+03-10-2025,Friday,08:59,8,University,B-202,S2241,Present
+03-10-2025,Friday,08:41,8,South Suburb,B-303,S2322,Present
+03-10-2025,Friday,09:09,9,City Center,B-101,S2275,Present
+03-10-2025,Friday,08:56,8,Express Dc,B-401,S2444,Present
+03-10-2025,Friday,09:08,9,South Suburb,B-303,S2458,Present
+03-10-2025,Friday,08:53,8,City Center,B-101,S2497,Present
+03-10-2025,Friday,09:11,9,Express Dc,B-401,S2515,Present
+03-10-2025,Friday,09:00,9,University,B-202,S2342,Present
+03-10-2025,Friday,08:48,8,South Suburb,B-303,S2337,Present
+03-10-2025,Friday,08:53,8,University,B-202,S2483,Present
+03-10-2025,Friday,08:53,8,Express Dc,B-401,S2390,Present
+03-10-2025,Friday,09:08,9,City Center,B-101,S2370,Present
+03-10-2025,Friday,08:57,8,University,B-202,S2455,Present
+03-10-2025,Friday,16:30,16,South Suburb,B-303,S2454,Present
+03-10-2025,Friday,16:55,16,University,B-202,S2164,Present
+03-10-2025,Friday,16:37,16,University,B-202,S2172,Present
+03-10-2025,Friday,17:02,17,South Suburb,B-303,S2000,Present
+03-10-2025,Friday,17:08,17,City Center,B-101,S2489,Present
+03-10-2025,Friday,17:12,17,University,B-202,S2394,Present
+03-10-2025,Friday,17:09,17,City Center,B-101,S2240,Present
+03-10-2025,Friday,16:48,16,University,B-202,S2253,Present
+03-10-2025,Friday,16:30,16,South Suburb,B-303,S2127,Present
+03-10-2025,Friday,16:39,16,City Center,B-101,S2074,Present
+03-10-2025,Friday,17:14,17,City Center,B-102,S2321,Present
+03-10-2025,Friday,16:53,16,Express Dc,B-401,S2429,Present
+06-10-2025,Monday,09:06,9,City Center,B-101,S2229,Present
+06-10-2025,Monday,09:01,9,South Suburb,B-303,S2147,Present
+06-10-2025,Monday,08:43,8,University,B-202,S2192,Present
+06-10-2025,Monday,09:04,9,City Center,B-101,S2084,Present
+06-10-2025,Monday,08:45,8,South Suburb,B-303,S2595,Present
+06-10-2025,Monday,08:57,8,City Center,B-102,S2472,Present
+06-10-2025,Monday,08:30,8,City Center,B-102,S2050,Present
+06-10-2025,Monday,09:12,9,Express Dc,B-401,S2426,Present
+06-10-2025,Monday,09:03,9,City Center,B-102,S2109,Present
+06-10-2025,Monday,08:55,8,University,B-202,S2037,Present
+06-10-2025,Monday,08:49,8,City Center,B-101,S2242,Present
+06-10-2025,Monday,09:06,9,City Center,B-102,S2302,Present
+06-10-2025,Monday,08:59,8,City Center,B-101,S2395,Present
+06-10-2025,Monday,12:10,12,City Center,B-101,S2240,Present
+06-10-2025,Monday,16:33,16,University,B-202,S2283,Present
+06-10-2025,Monday,16:33,16,City Center,B-101,S2034,Present
+06-10-2025,Monday,16:30,16,South Suburb,B-303,S2024,Present
+06-10-2025,Monday,16:39,16,University,B-202,S2350,Present
+06-10-2025,Monday,16:33,16,University,B-202,S2445,Present
+06-10-2025,Monday,16:49,16,Express Dc,B-401,S2507,Present
+06-10-2025,Monday,16:51,16,City Center,B-101,S2194,Present
+06-10-2025,Monday,17:11,17,City Center,B-102,S2295,Present
+06-10-2025,Monday,17:05,17,Express Dc,B-401,S2347,Present
+06-10-2025,Monday,16:47,16,University,B-202,S2288,Present
+06-10-2025,Monday,17:02,17,South Suburb,B-303,S2123,Present
+06-10-2025,Monday,17:05,17,City Center,B-101,S2249,Present
+07-10-2025,Tuesday,08:52,8,City Center,B-101,S2228,Present
+07-10-2025,Tuesday,08:50,8,City Center,B-101,S2395,Present
+07-10-2025,Tuesday,08:47,8,University,B-202,S2036,Present
+07-10-2025,Tuesday,08:34,8,Express Dc,B-401,S2518,Present
+07-10-2025,Tuesday,08:38,8,University,B-202,S2507,Present
+07-10-2025,Tuesday,09:06,9,City Center,B-102,S2015,Present
+07-10-2025,Tuesday,08:37,8,South Suburb,B-303,S2064,Present
+07-10-2025,Tuesday,08:49,8,City Center,B-102,S2446,Present
+07-10-2025,Tuesday,09:06,9,South Suburb,B-303,S2042,Present
+07-10-2025,Tuesday,08:58,8,City Center,B-102,S2048,Present
+07-10-2025,Tuesday,13:45,13,University,B-202,S2360,Present
+07-10-2025,Tuesday,16:53,16,University,B-202,S2310,Present
+07-10-2025,Tuesday,16:44,16,City Center,B-101,S2258,Present
+07-10-2025,Tuesday,16:48,16,University,B-202,S2440,Present
+07-10-2025,Tuesday,17:03,17,South Suburb,B-303,S2403,Present
+07-10-2025,Tuesday,17:09,17,City Center,B-101,S2355,Present
+07-10-2025,Tuesday,16:59,16,University,B-202,S2506,Present
+07-10-2025,Tuesday,16:54,16,University,B-202,S2004,Present
+07-10-2025,Tuesday,16:56,16,University,B-202,S2303,Present
+07-10-2025,Tuesday,17:09,17,City Center,B-101,S2498,Present
+07-10-2025,Tuesday,16:42,16,University,B-202,S2547,Present
+07-10-2025,Tuesday,16:50,16,University,B-202,S2125,Present
+07-10-2025,Tuesday,16:31,16,Express Dc,B-401,S2359,Present
+07-10-2025,Tuesday,17:08,17,City Center,B-101,S2559,Present
+07-10-2025,Tuesday,16:58,16,City Center,B-102,S2535,Present
+07-10-2025,Tuesday,17:06,17,City Center,B-101,S2050,Present
+08-10-2025,Wednesday,08:44,8,University,B-202,S2441,Absent
+08-10-2025,Wednesday,08:51,8,University,B-202,S2089,Present
+08-10-2025,Wednesday,08:39,8,City Center,B-101,S2122,Present
+08-10-2025,Wednesday,09:11,9,City Center,B-102,S2476,Present
+08-10-2025,Wednesday,08:43,8,South Suburb,B-303,S2002,Present
+08-10-2025,Wednesday,08:49,8,University,B-202,S2483,Present
+08-10-2025,Wednesday,08:33,8,University,B-202,S2183,Absent
+08-10-2025,Wednesday,08:49,8,Express Dc,B-401,S2544,Present
+08-10-2025,Wednesday,08:39,8,Express Dc,B-401,S2529,Present
+08-10-2025,Wednesday,09:13,9,University,B-202,S2040,Present
+08-10-2025,Wednesday,16:46,16,City Center,B-101,S2532,Present
+08-10-2025,Wednesday,16:32,16,University,B-202,S2255,Present
+08-10-2025,Wednesday,16:34,16,City Center,B-102,S2178,Present
+08-10-2025,Wednesday,17:13,17,Express Dc,B-401,S2429,Present
+08-10-2025,Wednesday,16:43,16,University,B-202,S2600,Present
+08-10-2025,Wednesday,16:47,16,City Center,B-101,S2111,Present
+08-10-2025,Wednesday,16:56,16,City Center,B-101,S2219,Present
+08-10-2025,Wednesday,16:51,16,South Suburb,B-303,S2583,Present
+08-10-2025,Wednesday,16:47,16,City Center,B-102,S2158,Present
+08-10-2025,Wednesday,16:44,16,University,B-202,S2075,Present
+08-10-2025,Wednesday,16:30,16,University,B-202,S2340,Present
+08-10-2025,Wednesday,16:40,16,University,B-202,S2296,Present
+09-10-2025,Thursday,08:56,8,University,B-202,S2243,Present
+09-10-2025,Thursday,08:57,8,University,B-202,S2267,Present
+09-10-2025,Thursday,08:58,8,City Center,B-102,S2302,Present
+09-10-2025,Thursday,09:02,9,South Suburb,B-303,S2259,Present
+09-10-2025,Thursday,09:07,9,South Suburb,B-303,S2334,Present
+09-10-2025,Thursday,08:41,8,City Center,B-102,S2027,Present
+09-10-2025,Thursday,08:43,8,University,B-202,S2482,Present
+09-10-2025,Thursday,09:12,9,University,B-202,S2191,Present
+09-10-2025,Thursday,08:58,8,City Center,B-102,S2068,Present
+09-10-2025,Thursday,09:10,9,University,B-202,S2492,Present
+09-10-2025,Thursday,08:39,8,University,B-202,S2070,Present
+09-10-2025,Thursday,08:41,8,University,B-202,S2568,Present
+09-10-2025,Thursday,16:50,16,City Center,B-102,S2420,Present
+09-10-2025,Thursday,17:11,17,South Suburb,B-303,S2030,Present
+09-10-2025,Thursday,16:54,16,University,B-202,S2417,Present
+09-10-2025,Thursday,16:37,16,University,B-202,S2011,Present
+09-10-2025,Thursday,17:07,17,City Center,B-102,S2535,Present
+09-10-2025,Thursday,16:30,16,University,B-202,S2380,Present
+09-10-2025,Thursday,16:49,16,City Center,B-101,S2235,Present
+09-10-2025,Thursday,17:08,17,City Center,B-101,S2425,Present
+09-10-2025,Thursday,16:31,16,Express Dc,B-401,S2028,Present
+09-10-2025,Thursday,17:13,17,City Center,B-102,S2168,Present
+09-10-2025,Thursday,16:42,16,City Center,B-101,S2353,Present
+09-10-2025,Thursday,16:42,16,University,B-202,S2342,Present
+09-10-2025,Thursday,16:40,16,South Suburb,B-303,S2589,Present
+09-10-2025,Thursday,17:06,17,University,B-202,S2336,Present
+09-10-2025,Thursday,16:58,16,City Center,B-102,S2352,Present
+10-10-2025,Friday,09:11,9,City Center,B-102,S2049,Present
+10-10-2025,Friday,08:52,8,University,B-202,S2062,Present
+10-10-2025,Friday,09:01,9,City Center,B-101,S2147,Present
+10-10-2025,Friday,08:38,8,Express Dc,B-401,S2265,Present
+10-10-2025,Friday,08:55,8,City Center,B-102,S2481,Present
+10-10-2025,Friday,08:43,8,South Suburb,B-303,S2490,Present
+10-10-2025,Friday,09:07,9,South Suburb,B-303,S2355,Absent
+10-10-2025,Friday,08:38,8,South Suburb,B-303,S2342,Present
+10-10-2025,Friday,08:49,8,South Suburb,B-303,S2404,Present
+10-10-2025,Friday,08:31,8,Express Dc,B-401,S2020,Present
+10-10-2025,Friday,08:49,8,Express Dc,B-401,S2181,Present
+10-10-2025,Friday,17:08,17,University,B-202,S2393,Present
+10-10-2025,Friday,16:33,16,University,B-202,S2412,Present
+10-10-2025,Friday,16:46,16,City Center,B-101,S2268,Present
+10-10-2025,Friday,16:41,16,South Suburb,B-303,S2104,Present
+10-10-2025,Friday,16:58,16,City Center,B-102,S2299,Present
+10-10-2025,Friday,16:32,16,University,B-202,S2064,Present
+10-10-2025,Friday,16:48,16,South Suburb,B-303,S2160,Present
+10-10-2025,Friday,17:00,17,City Center,B-101,S2154,Present
+10-10-2025,Friday,16:51,16,University,B-202,S2503,Present
+10-10-2025,Friday,16:49,16,University,B-202,S2229,Present
+10-10-2025,Friday,16:31,16,South Suburb,B-303,S2367,Present
+10-10-2025,Friday,17:03,17,University,B-202,S2570,Present
+10-10-2025,Friday,16:53,16,City Center,B-101,S2278,Present
+10-10-2025,Friday,16:36,16,City Center,B-102,S2477,Present
+10-10-2025,Friday,17:08,17,South Suburb,B-303,S2552,Present
+13-10-2025,Monday,09:01,9,University,B-202,S2201,Present
+13-10-2025,Monday,08:54,8,Express Dc,B-401,S2416,Present
+13-10-2025,Monday,09:04,9,City Center,B-101,S2282,Present
+13-10-2025,Monday,08:44,8,City Center,B-101,S2293,Present
+13-10-2025,Monday,08:59,8,Express Dc,B-401,S2267,Present
+13-10-2025,Monday,08:54,8,University,B-202,S2053,Present
+13-10-2025,Monday,09:05,9,South Suburb,B-303,S2435,Present
+13-10-2025,Monday,08:48,8,University,B-202,S2081,Present
+13-10-2025,Monday,08:40,8,City Center,B-102,S2098,Present
+13-10-2025,Monday,08:31,8,City Center,B-102,S2435,Present
+13-10-2025,Monday,16:52,16,University,B-202,S2563,Present
+13-10-2025,Monday,16:36,16,City Center,B-102,S2392,Present
+13-10-2025,Monday,16:39,16,South Suburb,B-303,S2234,Present
+13-10-2025,Monday,16:36,16,City Center,B-102,S2368,Present
+13-10-2025,Monday,17:14,17,University,B-202,S2112,Absent
+13-10-2025,Monday,16:53,16,City Center,B-102,S2265,Present
+13-10-2025,Monday,16:54,16,City Center,B-101,S2118,Present
+13-10-2025,Monday,16:34,16,University,B-202,S2378,Present
+13-10-2025,Monday,16:30,16,University,B-202,S2278,Present
+13-10-2025,Monday,17:15,17,South Suburb,B-303,S2544,Present
+14-10-2025,Tuesday,08:33,8,City Center,B-101,S2172,Present
+14-10-2025,Tuesday,08:56,8,City Center,B-101,S2203,Present
+14-10-2025,Tuesday,09:15,9,City Center,B-101,S2092,Present
+14-10-2025,Tuesday,08:42,8,South Suburb,B-303,S2090,Absent
+14-10-2025,Tuesday,09:06,9,City Center,B-102,S2489,Present
+14-10-2025,Tuesday,09:10,9,City Center,B-101,S2291,Present
+14-10-2025,Tuesday,09:05,9,Express Dc,B-401,S2564,Present
+14-10-2025,Tuesday,08:36,8,City Center,B-101,S2119,Present
+14-10-2025,Tuesday,08:50,8,Express Dc,B-401,S2039,Present
+14-10-2025,Tuesday,09:03,9,City Center,B-102,S2144,Absent
+14-10-2025,Tuesday,09:09,9,University,B-202,S2595,Present
+14-10-2025,Tuesday,09:08,9,City Center,B-101,S2120,Present
+14-10-2025,Tuesday,09:11,9,South Suburb,B-303,S2391,Present
+14-10-2025,Tuesday,08:48,8,Express Dc,B-401,S2308,Present
+14-10-2025,Tuesday,08:31,8,South Suburb,B-303,S2067,Present
+14-10-2025,Tuesday,12:27,12,Express Dc,B-401,S2128,Present
+14-10-2025,Tuesday,16:31,16,South Suburb,B-303,S2253,Present
+14-10-2025,Tuesday,16:38,16,University,B-202,S2157,Present
+14-10-2025,Tuesday,16:36,16,City Center,B-101,S2194,Present
+14-10-2025,Tuesday,17:03,17,City Center,B-102,S2148,Present
+14-10-2025,Tuesday,17:13,17,City Center,B-101,S2439,Present
+14-10-2025,Tuesday,17:07,17,South Suburb,B-303,S2464,Present
+14-10-2025,Tuesday,16:44,16,University,B-202,S2328,Present
+14-10-2025,Tuesday,16:40,16,University,B-202,S2249,Present
+14-10-2025,Tuesday,16:48,16,Express Dc,B-401,S2417,Present
+14-10-2025,Tuesday,16:34,16,Express Dc,B-401,S2170,Present
+14-10-2025,Tuesday,16:59,16,University,B-202,S2194,Present
+15-10-2025,Wednesday,09:09,9,City Center,B-101,S2396,Present
+15-10-2025,Wednesday,09:00,9,City Center,B-102,S2559,Present
+15-10-2025,Wednesday,09:05,9,City Center,B-101,S2555,Present
+15-10-2025,Wednesday,08:35,8,City Center,B-102,S2392,Present
+15-10-2025,Wednesday,08:45,8,University,B-202,S2134,Absent
+15-10-2025,Wednesday,08:59,8,University,B-202,S2099,Present
+15-10-2025,Wednesday,09:11,9,University,B-202,S2205,Present
+15-10-2025,Wednesday,08:55,8,City Center,B-102,S2405,Absent
+15-10-2025,Wednesday,08:36,8,University,B-202,S2214,Present
+15-10-2025,Wednesday,08:42,8,City Center,B-102,S2014,Present
+15-10-2025,Wednesday,09:12,9,City Center,B-101,S2346,Present
+15-10-2025,Wednesday,08:41,8,Express Dc,B-401,S2254,Present
+15-10-2025,Wednesday,13:34,13,University,B-202,S2412,Present
+15-10-2025,Wednesday,16:32,16,Express Dc,B-401,S2063,Present
+15-10-2025,Wednesday,17:00,17,University,B-202,S2250,Present
+15-10-2025,Wednesday,16:35,16,South Suburb,B-303,S2265,Present
+15-10-2025,Wednesday,16:33,16,City Center,B-102,S2109,Present
+15-10-2025,Wednesday,16:30,16,University,B-202,S2372,Present
+15-10-2025,Wednesday,16:55,16,University,B-202,S2136,Present
+15-10-2025,Wednesday,16:49,16,South Suburb,B-303,S2117,Present
+15-10-2025,Wednesday,17:15,17,University,B-202,S2285,Present
+15-10-2025,Wednesday,17:02,17,City Center,B-101,S2360,Present
+15-10-2025,Wednesday,16:57,16,City Center,B-102,S2069,Present
+15-10-2025,Wednesday,17:01,17,Express Dc,B-401,S2415,Present
+15-10-2025,Wednesday,16:31,16,University,B-202,S2210,Present
+15-10-2025,Wednesday,16:39,16,City Center,B-101,S2262,Present
+15-10-2025,Wednesday,16:31,16,City Center,B-101,S2111,Present
+16-10-2025,Thursday,08:34,8,South Suburb,B-303,S2159,Present
+16-10-2025,Thursday,08:57,8,South Suburb,B-303,S2455,Present
+16-10-2025,Thursday,09:11,9,University,B-202,S2175,Present
+16-10-2025,Thursday,08:37,8,South Suburb,B-303,S2095,Absent
+16-10-2025,Thursday,09:13,9,University,B-202,S2568,Present
+16-10-2025,Thursday,08:54,8,City Center,B-102,S2482,Present
+16-10-2025,Thursday,09:11,9,City Center,B-101,S2421,Present
+16-10-2025,Thursday,09:02,9,City Center,B-101,S2423,Present
+16-10-2025,Thursday,08:42,8,City Center,B-102,S2553,Present
+16-10-2025,Thursday,08:36,8,Express Dc,B-401,S2530,Present
+16-10-2025,Thursday,16:46,16,University,B-202,S2345,Present
+16-10-2025,Thursday,17:12,17,City Center,B-101,S2182,Present
+16-10-2025,Thursday,16:39,16,City Center,B-102,S2433,Present
+16-10-2025,Thursday,17:10,17,City Center,B-102,S2046,Present
+16-10-2025,Thursday,16:44,16,City Center,B-102,S2013,Present
+16-10-2025,Thursday,16:36,16,City Center,B-101,S2267,Present
+16-10-2025,Thursday,17:13,17,Express Dc,B-401,S2538,Present
+16-10-2025,Thursday,16:47,16,Express Dc,B-401,S2167,Present
+16-10-2025,Thursday,16:35,16,University,B-202,S2155,Present
+16-10-2025,Thursday,16:31,16,South Suburb,B-303,S2339,Absent
+16-10-2025,Thursday,17:05,17,Express Dc,B-401,S2421,Present
+16-10-2025,Thursday,16:34,16,University,B-202,S2168,Present
+16-10-2025,Thursday,16:51,16,City Center,B-101,S2539,Present
+17-10-2025,Friday,09:08,9,City Center,B-101,S2256,Present
+17-10-2025,Friday,08:30,8,University,B-202,S2457,Present
+17-10-2025,Friday,09:08,9,City Center,B-102,S2206,Present
+17-10-2025,Friday,08:49,8,South Suburb,B-303,S2160,Present
+17-10-2025,Friday,09:11,9,City Center,B-101,S2368,Present
+17-10-2025,Friday,08:45,8,City Center,B-101,S2191,Present
+17-10-2025,Friday,08:53,8,City Center,B-102,S2055,Present
+17-10-2025,Friday,09:07,9,City Center,B-101,S2369,Present
+17-10-2025,Friday,08:32,8,City Center,B-102,S2085,Present
+17-10-2025,Friday,08:53,8,City Center,B-102,S2568,Present
+17-10-2025,Friday,09:10,9,University,B-202,S2387,Present
+17-10-2025,Friday,08:38,8,City Center,B-101,S2381,Present
+17-10-2025,Friday,16:54,16,University,B-202,S2425,Present
+17-10-2025,Friday,16:42,16,City Center,B-102,S2317,Present
+17-10-2025,Friday,16:35,16,Express Dc,B-401,S2539,Present
+17-10-2025,Friday,17:09,17,Express Dc,B-401,S2361,Present
+17-10-2025,Friday,17:10,17,City Center,B-102,S2190,Present
+17-10-2025,Friday,16:34,16,City Center,B-101,S2397,Present
+17-10-2025,Friday,16:51,16,University,B-202,S2228,Present
+17-10-2025,Friday,17:11,17,University,B-202,S2463,Present
+17-10-2025,Friday,17:05,17,South Suburb,B-303,S2063,Present
+17-10-2025,Friday,16:39,16,University,B-202,S2169,Present
+17-10-2025,Friday,17:11,17,City Center,B-101,S2288,Present
+17-10-2025,Friday,16:58,16,City Center,B-101,S2302,Present
+17-10-2025,Friday,16:50,16,South Suburb,B-303,S2085,Present
+17-10-2025,Friday,16:50,16,City Center,B-102,S2337,Present
+20-10-2025,Monday,09:00,9,South Suburb,B-303,S2557,Present
+20-10-2025,Monday,08:56,8,South Suburb,B-303,S2218,Present
+20-10-2025,Monday,08:49,8,Express Dc,B-401,S2081,Present
+20-10-2025,Monday,08:59,8,City Center,B-102,S2310,Present
+20-10-2025,Monday,09:13,9,City Center,B-101,S2214,Present
+20-10-2025,Monday,08:38,8,South Suburb,B-303,S2569,Present
+20-10-2025,Monday,09:01,9,City Center,B-102,S2107,Absent
+20-10-2025,Monday,08:34,8,South Suburb,B-303,S2275,Present
+20-10-2025,Monday,08:41,8,City Center,B-102,S2244,Present
+20-10-2025,Monday,09:14,9,City Center,B-102,S2108,Present
+20-10-2025,Monday,09:06,9,University,B-202,S2580,Present
+20-10-2025,Monday,08:44,8,City Center,B-102,S2257,Present
+20-10-2025,Monday,13:39,13,Express Dc,B-401,S2046,Present
+20-10-2025,Monday,17:04,17,City Center,B-102,S2575,Present
+20-10-2025,Monday,16:38,16,University,B-202,S2344,Present
+20-10-2025,Monday,17:15,17,University,B-202,S2474,Present
+20-10-2025,Monday,16:38,16,Express Dc,B-401,S2486,Present
+20-10-2025,Monday,16:38,16,City Center,B-101,S2257,Present
+20-10-2025,Monday,16:58,16,City Center,B-102,S2324,Present
+20-10-2025,Monday,17:01,17,University,B-202,S2404,Present
+20-10-2025,Monday,16:33,16,University,B-202,S2409,Present
+20-10-2025,Monday,16:43,16,University,B-202,S2439,Absent
+20-10-2025,Monday,17:04,17,University,B-202,S2365,Present
+20-10-2025,Monday,17:04,17,University,B-202,S2076,Present
+21-10-2025,Tuesday,08:44,8,University,B-202,S2307,Absent
+21-10-2025,Tuesday,08:41,8,City Center,B-102,S2118,Present
+21-10-2025,Tuesday,09:00,9,University,B-202,S2104,Present
+21-10-2025,Tuesday,09:13,9,University,B-202,S2517,Present
+21-10-2025,Tuesday,08:53,8,City Center,B-102,S2578,Present
+21-10-2025,Tuesday,09:09,9,City Center,B-102,S2097,Absent
+21-10-2025,Tuesday,09:06,9,University,B-202,S2132,Present
+21-10-2025,Tuesday,09:01,9,South Suburb,B-303,S2292,Present
+21-10-2025,Tuesday,09:00,9,University,B-202,S2182,Present
+21-10-2025,Tuesday,09:09,9,City Center,B-101,S2394,Present
+21-10-2025,Tuesday,08:49,8,City Center,B-102,S2071,Present
+21-10-2025,Tuesday,13:48,13,University,B-202,S2429,Present
+21-10-2025,Tuesday,16:48,16,University,B-202,S2523,Present
+21-10-2025,Tuesday,16:41,16,University,B-202,S2201,Present
+21-10-2025,Tuesday,16:57,16,Express Dc,B-401,S2316,Absent
+21-10-2025,Tuesday,16:43,16,City Center,B-101,S2276,Present
+21-10-2025,Tuesday,16:38,16,South Suburb,B-303,S2508,Present
+21-10-2025,Tuesday,17:00,17,City Center,B-101,S2057,Present
+21-10-2025,Tuesday,16:34,16,Express Dc,B-401,S2591,Present
+21-10-2025,Tuesday,16:30,16,University,B-202,S2082,Present
+21-10-2025,Tuesday,16:52,16,South Suburb,B-303,S2205,Present
+21-10-2025,Tuesday,16:30,16,City Center,B-102,S2190,Present
+21-10-2025,Tuesday,16:54,16,University,B-202,S2511,Present
+22-10-2025,Wednesday,08:46,8,University,B-202,S2318,Absent
+22-10-2025,Wednesday,09:07,9,University,B-202,S2417,Present
+22-10-2025,Wednesday,09:07,9,City Center,B-101,S2284,Present
+22-10-2025,Wednesday,09:04,9,City Center,B-101,S2422,Present
+22-10-2025,Wednesday,08:53,8,South Suburb,B-303,S2044,Present
+22-10-2025,Wednesday,09:14,9,South Suburb,B-303,S2473,Present
+22-10-2025,Wednesday,08:33,8,South Suburb,B-303,S2329,Present
+22-10-2025,Wednesday,09:04,9,University,B-202,S2288,Present
+22-10-2025,Wednesday,09:03,9,South Suburb,B-303,S2190,Present
+22-10-2025,Wednesday,08:43,8,South Suburb,B-303,S2497,Present
+22-10-2025,Wednesday,08:48,8,University,B-202,S2048,Present
+22-10-2025,Wednesday,09:10,9,South Suburb,B-303,S2561,Present
+22-10-2025,Wednesday,09:03,9,City Center,B-102,S2584,Present
+22-10-2025,Wednesday,08:45,8,City Center,B-101,S2475,Present
+22-10-2025,Wednesday,08:38,8,Express Dc,B-401,S2094,Present
+22-10-2025,Wednesday,16:46,16,University,B-202,S2458,Present
+22-10-2025,Wednesday,16:46,16,City Center,B-102,S2161,Present
+22-10-2025,Wednesday,16:56,16,Express Dc,B-401,S2346,Present
+22-10-2025,Wednesday,16:43,16,Express Dc,B-401,S2334,Present
+22-10-2025,Wednesday,16:43,16,University,B-202,S2166,Present
+22-10-2025,Wednesday,17:04,17,University,B-202,S2025,Present
+22-10-2025,Wednesday,16:57,16,City Center,B-102,S2364,Present
+22-10-2025,Wednesday,16:35,16,City Center,B-101,S2344,Present
+22-10-2025,Wednesday,16:52,16,City Center,B-101,S2242,Present
+22-10-2025,Wednesday,16:50,16,University,B-202,S2271,Present
+22-10-2025,Wednesday,16:30,16,University,B-202,S2152,Present
+22-10-2025,Wednesday,16:57,16,City Center,B-101,S2509,Present
+22-10-2025,Wednesday,17:08,17,South Suburb,B-303,S2318,Present
+22-10-2025,Wednesday,16:43,16,City Center,B-102,S2208,Present
+23-10-2025,Thursday,08:40,8,University,B-202,S2041,Present
+23-10-2025,Thursday,09:03,9,University,B-202,S2549,Present
+23-10-2025,Thursday,08:48,8,University,B-202,S2306,Present
+23-10-2025,Thursday,09:02,9,South Suburb,B-303,S2017,Absent
+23-10-2025,Thursday,08:46,8,University,B-202,S2331,Present
+23-10-2025,Thursday,08:53,8,Express Dc,B-401,S2413,Present
+23-10-2025,Thursday,09:06,9,South Suburb,B-303,S2461,Present
+23-10-2025,Thursday,08:53,8,University,B-202,S2298,Present
+23-10-2025,Thursday,08:49,8,City Center,B-101,S2076,Present
+23-10-2025,Thursday,08:52,8,South Suburb,B-303,S2405,Present
+23-10-2025,Thursday,08:54,8,City Center,B-102,S2018,Present
+23-10-2025,Thursday,08:34,8,City Center,B-101,S2310,Present
+23-10-2025,Thursday,08:34,8,Express Dc,B-401,S2076,Present
+23-10-2025,Thursday,08:32,8,South Suburb,B-303,S2577,Present
+23-10-2025,Thursday,16:49,16,City Center,B-102,S2087,Present
+23-10-2025,Thursday,17:00,17,South Suburb,B-303,S2084,Present
+23-10-2025,Thursday,16:56,16,City Center,B-102,S2201,Present
+23-10-2025,Thursday,16:49,16,University,B-202,S2302,Present
+23-10-2025,Thursday,17:06,17,University,B-202,S2243,Present
+23-10-2025,Thursday,16:43,16,City Center,B-102,S2019,Present
+23-10-2025,Thursday,16:41,16,City Center,B-101,S2292,Absent
+23-10-2025,Thursday,16:56,16,City Center,B-102,S2582,Present
+23-10-2025,Thursday,17:03,17,City Center,B-101,S2594,Present
+23-10-2025,Thursday,16:37,16,University,B-202,S2290,Present
+23-10-2025,Thursday,16:57,16,City Center,B-102,S2380,Present
+23-10-2025,Thursday,16:39,16,South Suburb,B-303,S2437,Present
+23-10-2025,Thursday,16:53,16,City Center,B-102,S2543,Present
+23-10-2025,Thursday,16:48,16,University,B-202,S2102,Present
+23-10-2025,Thursday,17:15,17,University,B-202,S2270,Present
+24-10-2025,Friday,09:06,9,City Center,B-102,S2026,Absent
+24-10-2025,Friday,09:00,9,University,B-202,S2444,Present
+24-10-2025,Friday,08:41,8,City Center,B-102,S2244,Present
+24-10-2025,Friday,09:06,9,South Suburb,B-303,S2184,Present
+24-10-2025,Friday,08:55,8,University,B-202,S2540,Present
+24-10-2025,Friday,08:37,8,University,B-202,S2322,Present
+24-10-2025,Friday,09:05,9,University,B-202,S2591,Present
+24-10-2025,Friday,08:48,8,City Center,B-101,S2262,Present
+24-10-2025,Friday,08:40,8,South Suburb,B-303,S2209,Present
+24-10-2025,Friday,09:07,9,University,B-202,S2558,Present
+24-10-2025,Friday,08:41,8,South Suburb,B-303,S2020,Present
+24-10-2025,Friday,08:51,8,City Center,B-102,S2249,Present
+24-10-2025,Friday,08:34,8,City Center,B-102,S2559,Present
+24-10-2025,Friday,16:46,16,Express Dc,B-401,S2233,Present
+24-10-2025,Friday,16:57,16,City Center,B-102,S2112,Present
+24-10-2025,Friday,16:48,16,City Center,B-101,S2582,Present
+24-10-2025,Friday,16:43,16,South Suburb,B-303,S2503,Present
+24-10-2025,Friday,16:53,16,City Center,B-102,S2200,Absent
+24-10-2025,Friday,16:55,16,South Suburb,B-303,S2161,Absent
+24-10-2025,Friday,16:47,16,City Center,B-101,S2032,Present
+24-10-2025,Friday,17:12,17,South Suburb,B-303,S2412,Present
+24-10-2025,Friday,17:08,17,University,B-202,S2465,Present
+24-10-2025,Friday,16:57,16,South Suburb,B-303,S2547,Present
+24-10-2025,Friday,17:11,17,University,B-202,S2094,Present
+24-10-2025,Friday,16:32,16,South Suburb,B-303,S2254,Present
+24-10-2025,Friday,16:58,16,Express Dc,B-401,S2033,Absent
+24-10-2025,Friday,17:02,17,City Center,B-101,S2077,Present
+27-10-2025,Monday,09:15,9,South Suburb,B-303,S2577,Absent
+27-10-2025,Monday,09:11,9,City Center,B-101,S2376,Present
+27-10-2025,Monday,08:39,8,City Center,B-101,S2239,Present
+27-10-2025,Monday,08:40,8,University,B-202,S2102,Present
+27-10-2025,Monday,08:38,8,University,B-202,S2150,Present
+27-10-2025,Monday,09:15,9,City Center,B-101,S2156,Present
+27-10-2025,Monday,08:55,8,City Center,B-101,S2503,Present
+27-10-2025,Monday,08:32,8,City Center,B-101,S2049,Absent
+27-10-2025,Monday,09:11,9,City Center,B-101,S2207,Present
+27-10-2025,Monday,08:47,8,City Center,B-102,S2329,Present
+27-10-2025,Monday,08:44,8,University,B-202,S2201,Present
+27-10-2025,Monday,08:30,8,Express Dc,B-401,S2410,Present
+27-10-2025,Monday,08:51,8,South Suburb,B-303,S2355,Present
+27-10-2025,Monday,08:50,8,Express Dc,B-401,S2453,Present
+27-10-2025,Monday,09:14,9,South Suburb,B-303,S2381,Present
+27-10-2025,Monday,17:14,17,City Center,B-102,S2153,Present
+27-10-2025,Monday,16:39,16,University,B-202,S2471,Absent
+27-10-2025,Monday,17:11,17,University,B-202,S2220,Present
+27-10-2025,Monday,16:58,16,City Center,B-101,S2074,Present
+27-10-2025,Monday,16:46,16,City Center,B-102,S2032,Present
+27-10-2025,Monday,16:53,16,South Suburb,B-303,S2547,Present
+27-10-2025,Monday,17:15,17,City Center,B-101,S2398,Present
+27-10-2025,Monday,16:45,16,University,B-202,S2303,Present
+27-10-2025,Monday,16:37,16,University,B-202,S2143,Present
+27-10-2025,Monday,16:46,16,University,B-202,S2563,Present
+27-10-2025,Monday,17:10,17,Express Dc,B-401,S2350,Present
+27-10-2025,Monday,17:03,17,South Suburb,B-303,S2477,Present
+28-10-2025,Tuesday,08:48,8,South Suburb,B-303,S2481,Present
+28-10-2025,Tuesday,09:06,9,University,B-202,S2584,Present
+28-10-2025,Tuesday,08:39,8,South Suburb,B-303,S2562,Present
+28-10-2025,Tuesday,08:47,8,University,B-202,S2429,Present
+28-10-2025,Tuesday,09:09,9,City Center,B-102,S2281,Present
+28-10-2025,Tuesday,09:15,9,City Center,B-102,S2019,Present
+28-10-2025,Tuesday,09:01,9,University,B-202,S2354,Present
+28-10-2025,Tuesday,09:04,9,City Center,B-102,S2506,Present
+28-10-2025,Tuesday,09:01,9,City Center,B-101,S2073,Present
+28-10-2025,Tuesday,08:44,8,City Center,B-101,S2410,Present
+28-10-2025,Tuesday,09:00,9,City Center,B-101,S2575,Present
+28-10-2025,Tuesday,08:40,8,South Suburb,B-303,S2098,Absent
+28-10-2025,Tuesday,08:37,8,University,B-202,S2476,Present
+28-10-2025,Tuesday,09:09,9,City Center,B-102,S2589,Present
+28-10-2025,Tuesday,09:02,9,South Suburb,B-303,S2369,Present
+28-10-2025,Tuesday,16:44,16,South Suburb,B-303,S2034,Present
+28-10-2025,Tuesday,16:51,16,Express Dc,B-401,S2183,Present
+28-10-2025,Tuesday,16:55,16,University,B-202,S2476,Present
+28-10-2025,Tuesday,17:10,17,University,B-202,S2196,Present
+28-10-2025,Tuesday,16:43,16,Express Dc,B-401,S2116,Present
+28-10-2025,Tuesday,16:43,16,University,B-202,S2399,Present
+28-10-2025,Tuesday,16:44,16,South Suburb,B-303,S2576,Present
+28-10-2025,Tuesday,16:45,16,University,B-202,S2102,Present
+28-10-2025,Tuesday,16:59,16,South Suburb,B-303,S2356,Present
+28-10-2025,Tuesday,17:06,17,City Center,B-102,S2442,Present
+28-10-2025,Tuesday,16:41,16,City Center,B-101,S2085,Present
+28-10-2025,Tuesday,16:55,16,City Center,B-101,S2534,Present
+28-10-2025,Tuesday,17:03,17,City Center,B-102,S2136,Present
+28-10-2025,Tuesday,16:47,16,University,B-202,S2364,Present
+29-10-2025,Wednesday,09:00,9,University,B-202,S2362,Present
+29-10-2025,Wednesday,09:15,9,South Suburb,B-303,S2067,Present
+29-10-2025,Wednesday,08:39,8,City Center,B-101,S2286,Present
+29-10-2025,Wednesday,08:53,8,South Suburb,B-303,S2041,Present
+29-10-2025,Wednesday,09:03,9,University,B-202,S2370,Present
+29-10-2025,Wednesday,08:40,8,City Center,B-102,S2295,Present
+29-10-2025,Wednesday,08:41,8,City Center,B-101,S2019,Present
+29-10-2025,Wednesday,08:57,8,University,B-202,S2587,Present
+29-10-2025,Wednesday,08:58,8,University,B-202,S2248,Present
+29-10-2025,Wednesday,08:47,8,University,B-202,S2574,Present
+29-10-2025,Wednesday,08:43,8,Express Dc,B-401,S2285,Present
+29-10-2025,Wednesday,08:51,8,South Suburb,B-303,S2505,Present
+29-10-2025,Wednesday,08:47,8,South Suburb,B-303,S2459,Present
+29-10-2025,Wednesday,16:48,16,University,B-202,S2305,Present
+29-10-2025,Wednesday,17:09,17,University,B-202,S2015,Present
+29-10-2025,Wednesday,16:34,16,City Center,B-102,S2338,Present
+29-10-2025,Wednesday,17:06,17,City Center,B-102,S2175,Present
+29-10-2025,Wednesday,17:13,17,City Center,B-101,S2169,Present
+29-10-2025,Wednesday,16:32,16,City Center,B-101,S2563,Present
+29-10-2025,Wednesday,17:07,17,City Center,B-101,S2355,Present
+29-10-2025,Wednesday,17:15,17,University,B-202,S2464,Present
+29-10-2025,Wednesday,16:38,16,City Center,B-101,S2084,Present
+29-10-2025,Wednesday,17:09,17,City Center,B-101,S2286,Present
+29-10-2025,Wednesday,16:58,16,South Suburb,B-303,S2171,Present
+29-10-2025,Wednesday,16:51,16,University,B-202,S2196,Present
+30-10-2025,Thursday,08:32,8,University,B-202,S2056,Present
+30-10-2025,Thursday,08:58,8,City Center,B-101,S2094,Present
+30-10-2025,Thursday,08:59,8,City Center,B-102,S2293,Present
+30-10-2025,Thursday,08:53,8,City Center,B-102,S2379,Present
+30-10-2025,Thursday,08:55,8,South Suburb,B-303,S2000,Present
+30-10-2025,Thursday,08:39,8,South Suburb,B-303,S2495,Present
+30-10-2025,Thursday,08:41,8,University,B-202,S2543,Present
+30-10-2025,Thursday,08:49,8,University,B-202,S2422,Present
+30-10-2025,Thursday,08:42,8,City Center,B-102,S2254,Present
+30-10-2025,Thursday,08:59,8,City Center,B-102,S2488,Present
+30-10-2025,Thursday,08:44,8,University,B-202,S2511,Present
+30-10-2025,Thursday,09:02,9,South Suburb,B-303,S2381,Present
+30-10-2025,Thursday,08:41,8,City Center,B-101,S2092,Present
+30-10-2025,Thursday,09:12,9,City Center,B-102,S2369,Present
+30-10-2025,Thursday,16:30,16,City Center,B-101,S2211,Absent
+30-10-2025,Thursday,16:50,16,City Center,B-102,S2000,Present
+30-10-2025,Thursday,17:02,17,City Center,B-102,S2596,Present
+30-10-2025,Thursday,16:35,16,City Center,B-102,S2290,Present
+30-10-2025,Thursday,16:41,16,South Suburb,B-303,S2121,Present
+30-10-2025,Thursday,16:48,16,City Center,B-102,S2500,Present
+30-10-2025,Thursday,16:59,16,Express Dc,B-401,S2151,Present
+30-10-2025,Thursday,16:36,16,City Center,B-102,S2093,Present
+30-10-2025,Thursday,17:05,17,City Center,B-102,S2486,Present
+30-10-2025,Thursday,16:59,16,City Center,B-102,S2387,Present
+30-10-2025,Thursday,16:44,16,City Center,B-101,S2565,Absent
+30-10-2025,Thursday,17:04,17,City Center,B-101,S2475,Present
+30-10-2025,Thursday,16:35,16,University,B-202,S2410,Present
+30-10-2025,Thursday,16:44,16,City Center,B-102,S2469,Present
+31-10-2025,Friday,08:35,8,University,B-202,S2245,Present
+31-10-2025,Friday,09:01,9,South Suburb,B-303,S2152,Present
+31-10-2025,Friday,08:38,8,City Center,B-102,S2552,Present
+31-10-2025,Friday,08:49,8,City Center,B-102,S2288,Present
+31-10-2025,Friday,09:13,9,South Suburb,B-303,S2080,Present
+31-10-2025,Friday,08:33,8,University,B-202,S2375,Present
+31-10-2025,Friday,08:56,8,University,B-202,S2210,Present
+31-10-2025,Friday,09:13,9,City Center,B-102,S2228,Present
+31-10-2025,Friday,09:11,9,South Suburb,B-303,S2445,Present
+31-10-2025,Friday,08:45,8,South Suburb,B-303,S2597,Present
+31-10-2025,Friday,08:54,8,City Center,B-101,S2494,Absent
+31-10-2025,Friday,08:44,8,South Suburb,B-303,S2552,Present
+31-10-2025,Friday,08:37,8,University,B-202,S2395,Present
+31-10-2025,Friday,08:36,8,City Center,B-102,S2319,Present
+31-10-2025,Friday,12:47,12,Express Dc,B-401,S2017,Present
+31-10-2025,Friday,16:48,16,University,B-202,S2436,Present
+31-10-2025,Friday,16:35,16,South Suburb,B-303,S2066,Present
+31-10-2025,Friday,17:06,17,City Center,B-101,S2263,Present
+31-10-2025,Friday,16:51,16,City Center,B-102,S2449,Present
+31-10-2025,Friday,17:13,17,South Suburb,B-303,S2494,Present
+31-10-2025,Friday,16:43,16,South Suburb,B-303,S2024,Present
+31-10-2025,Friday,16:42,16,University,B-202,S2418,Present
+31-10-2025,Friday,17:10,17,City Center,B-101,S2496,Present
+31-10-2025,Friday,17:11,17,University,B-202,S2229,Present
+31-10-2025,Friday,16:51,16,University,B-202,S2520,Present
+31-10-2025,Friday,16:45,16,University,B-202,S2065,Present
+31-10-2025,Friday,17:00,17,University,B-202,S2346,Present
+31-10-2025,Friday,16:31,16,South Suburb,B-303,S2165,Present
+31-10-2025,Friday,16:55,16,City Center,B-101,S2434,Present
+31-10-2025,Friday,17:06,17,City Center,B-102,S2439,Present
+03-11-2025,Monday,09:09,9,University,B-202,S2001,Present
+03-11-2025,Monday,09:06,9,University,B-202,S2279,Present
+03-11-2025,Monday,08:49,8,City Center,B-101,S2525,Present
+03-11-2025,Monday,09:03,9,City Center,B-101,S2061,Present
+03-11-2025,Monday,08:46,8,University,B-202,S2336,Present
+03-11-2025,Monday,09:11,9,South Suburb,B-303,S2281,Present
+03-11-2025,Monday,08:56,8,Express Dc,B-401,S2208,Present
+03-11-2025,Monday,09:13,9,University,B-202,S2261,Absent
+03-11-2025,Monday,08:38,8,City Center,B-102,S2141,Present
+03-11-2025,Monday,08:47,8,City Center,B-101,S2497,Present
+03-11-2025,Monday,08:33,8,City Center,B-102,S2437,Present
+03-11-2025,Monday,09:00,9,South Suburb,B-303,S2101,Present
+03-11-2025,Monday,08:40,8,Express Dc,B-401,S2013,Present
+03-11-2025,Monday,09:05,9,South Suburb,B-303,S2200,Present
+03-11-2025,Monday,08:43,8,University,B-202,S2118,Present
+03-11-2025,Monday,17:03,17,City Center,B-101,S2131,Present
+03-11-2025,Monday,16:59,16,University,B-202,S2536,Present
+03-11-2025,Monday,16:43,16,South Suburb,B-303,S2443,Present
+03-11-2025,Monday,16:32,16,University,B-202,S2081,Present
+03-11-2025,Monday,17:01,17,City Center,B-102,S2584,Present
+03-11-2025,Monday,16:58,16,Express Dc,B-401,S2121,Absent
+03-11-2025,Monday,17:07,17,South Suburb,B-303,S2495,Present
+03-11-2025,Monday,17:15,17,Express Dc,B-401,S2527,Present
+03-11-2025,Monday,17:10,17,University,B-202,S2091,Present
+03-11-2025,Monday,16:55,16,South Suburb,B-303,S2462,Present
+03-11-2025,Monday,17:08,17,University,B-202,S2214,Present
+03-11-2025,Monday,16:33,16,City Center,B-102,S2344,Present
+03-11-2025,Monday,16:54,16,University,B-202,S2424,Present
+03-11-2025,Monday,16:48,16,City Center,B-101,S2459,Present
+03-11-2025,Monday,16:50,16,City Center,B-102,S2289,Absent
+04-11-2025,Tuesday,08:52,8,City Center,B-102,S2111,Present
+04-11-2025,Tuesday,08:45,8,University,B-202,S2132,Present
+04-11-2025,Tuesday,09:05,9,University,B-202,S2015,Present
+04-11-2025,Tuesday,08:45,8,Express Dc,B-401,S2084,Present
+04-11-2025,Tuesday,09:06,9,South Suburb,B-303,S2572,Present
+04-11-2025,Tuesday,08:45,8,South Suburb,B-303,S2237,Present
+04-11-2025,Tuesday,08:46,8,Express Dc,B-401,S2365,Present
+04-11-2025,Tuesday,09:05,9,South Suburb,B-303,S2547,Present
+04-11-2025,Tuesday,08:58,8,Express Dc,B-401,S2568,Present
+04-11-2025,Tuesday,08:34,8,University,B-202,S2489,Present
+04-11-2025,Tuesday,13:58,13,Express Dc,B-401,S2410,Present
+04-11-2025,Tuesday,16:44,16,South Suburb,B-303,S2169,Present
+04-11-2025,Tuesday,16:47,16,University,B-202,S2232,Present
+04-11-2025,Tuesday,16:34,16,City Center,B-102,S2202,Present
+04-11-2025,Tuesday,16:44,16,University,B-202,S2457,Present
+04-11-2025,Tuesday,16:51,16,University,B-202,S2358,Absent
+04-11-2025,Tuesday,17:12,17,South Suburb,B-303,S2005,Present
+04-11-2025,Tuesday,16:31,16,Express Dc,B-401,S2269,Present
+04-11-2025,Tuesday,17:15,17,University,B-202,S2093,Absent
+04-11-2025,Tuesday,17:10,17,University,B-202,S2565,Present
+04-11-2025,Tuesday,17:02,17,City Center,B-101,S2064,Present
+04-11-2025,Tuesday,17:15,17,Express Dc,B-401,S2039,Present
+04-11-2025,Tuesday,16:50,16,South Suburb,B-303,S2448,Present
+04-11-2025,Tuesday,17:04,17,University,B-202,S2117,Present
+04-11-2025,Tuesday,17:09,17,City Center,B-102,S2190,Present
+04-11-2025,Tuesday,16:32,16,University,B-202,S2196,Present
+05-11-2025,Wednesday,08:30,8,City Center,B-101,S2496,Present
+05-11-2025,Wednesday,08:41,8,Express Dc,B-401,S2102,Present
+05-11-2025,Wednesday,08:44,8,University,B-202,S2286,Present
+05-11-2025,Wednesday,08:48,8,University,B-202,S2554,Present
+05-11-2025,Wednesday,08:39,8,University,B-202,S2418,Present
+05-11-2025,Wednesday,08:32,8,City Center,B-102,S2551,Present
+05-11-2025,Wednesday,08:50,8,City Center,B-101,S2383,Present
+05-11-2025,Wednesday,08:37,8,University,B-202,S2145,Present
+05-11-2025,Wednesday,09:12,9,University,B-202,S2301,Present
+05-11-2025,Wednesday,08:41,8,City Center,B-101,S2303,Present
+05-11-2025,Wednesday,16:37,16,South Suburb,B-303,S2500,Present
+05-11-2025,Wednesday,16:50,16,University,B-202,S2353,Present
+05-11-2025,Wednesday,16:45,16,University,B-202,S2255,Present
+05-11-2025,Wednesday,16:53,16,South Suburb,B-303,S2041,Present
+05-11-2025,Wednesday,16:41,16,City Center,B-102,S2063,Present
+05-11-2025,Wednesday,16:32,16,Express Dc,B-401,S2570,Present
+05-11-2025,Wednesday,17:15,17,City Center,B-101,S2557,Present
+05-11-2025,Wednesday,17:05,17,City Center,B-101,S2302,Present
+05-11-2025,Wednesday,16:36,16,Express Dc,B-401,S2079,Present
+05-11-2025,Wednesday,16:33,16,City Center,B-102,S2257,Present
+05-11-2025,Wednesday,16:50,16,City Center,B-101,S2074,Present
+06-11-2025,Thursday,08:51,8,University,B-202,S2547,Present
+06-11-2025,Thursday,09:11,9,South Suburb,B-303,S2259,Present
+06-11-2025,Thursday,08:33,8,South Suburb,B-303,S2564,Present
+06-11-2025,Thursday,08:59,8,University,B-202,S2239,Present
+06-11-2025,Thursday,09:03,9,University,B-202,S2561,Present
+06-11-2025,Thursday,09:15,9,South Suburb,B-303,S2183,Present
+06-11-2025,Thursday,08:36,8,City Center,B-102,S2375,Present
+06-11-2025,Thursday,09:05,9,South Suburb,B-303,S2323,Present
+06-11-2025,Thursday,08:57,8,South Suburb,B-303,S2256,Present
+06-11-2025,Thursday,08:45,8,University,B-202,S2446,Present
+06-11-2025,Thursday,08:40,8,City Center,B-101,S2238,Present
+06-11-2025,Thursday,09:09,9,City Center,B-101,S2194,Present
+06-11-2025,Thursday,08:35,8,South Suburb,B-303,S2418,Present
+06-11-2025,Thursday,12:40,12,City Center,B-101,S2494,Present
+06-11-2025,Thursday,16:35,16,City Center,B-101,S2597,Present
+06-11-2025,Thursday,16:39,16,Express Dc,B-401,S2256,Present
+06-11-2025,Thursday,16:48,16,City Center,B-102,S2107,Present
+06-11-2025,Thursday,16:46,16,South Suburb,B-303,S2208,Present
+06-11-2025,Thursday,17:14,17,City Center,B-102,S2136,Present
+06-11-2025,Thursday,16:34,16,South Suburb,B-303,S2248,Absent
+06-11-2025,Thursday,16:41,16,University,B-202,S2184,Present
+06-11-2025,Thursday,16:38,16,City Center,B-102,S2368,Present
+06-11-2025,Thursday,16:37,16,Express Dc,B-401,S2024,Present
+06-11-2025,Thursday,16:42,16,South Suburb,B-303,S2129,Present
+06-11-2025,Thursday,17:09,17,City Center,B-102,S2209,Present
+07-11-2025,Friday,08:42,8,South Suburb,B-303,S2401,Present
+07-11-2025,Friday,08:46,8,City Center,B-102,S2201,Present
+07-11-2025,Friday,09:08,9,City Center,B-101,S2533,Present
+07-11-2025,Friday,09:05,9,University,B-202,S2273,Present
+07-11-2025,Friday,09:09,9,City Center,B-102,S2487,Present
+07-11-2025,Friday,08:58,8,South Suburb,B-303,S2269,Absent
+07-11-2025,Friday,08:53,8,City Center,B-101,S2305,Present
+07-11-2025,Friday,08:54,8,University,B-202,S2315,Present
+07-11-2025,Friday,08:51,8,South Suburb,B-303,S2239,Present
+07-11-2025,Friday,08:36,8,City Center,B-101,S2437,Present
+07-11-2025,Friday,08:52,8,South Suburb,B-303,S2542,Present
+07-11-2025,Friday,08:38,8,City Center,B-102,S2406,Present
+07-11-2025,Friday,08:48,8,University,B-202,S2560,Present
+07-11-2025,Friday,08:42,8,City Center,B-102,S2399,Present
+07-11-2025,Friday,12:58,12,Express Dc,B-401,S2052,Present
+07-11-2025,Friday,17:01,17,City Center,B-101,S2314,Present
+07-11-2025,Friday,17:02,17,South Suburb,B-303,S2182,Present
+07-11-2025,Friday,17:09,17,South Suburb,B-303,S2600,Present
+07-11-2025,Friday,17:04,17,South Suburb,B-303,S2135,Present
+07-11-2025,Friday,16:57,16,City Center,B-102,S2181,Present
+07-11-2025,Friday,17:02,17,University,B-202,S2515,Present
+07-11-2025,Friday,16:47,16,University,B-202,S2062,Absent
+07-11-2025,Friday,16:49,16,University,B-202,S2080,Present
+07-11-2025,Friday,16:51,16,City Center,B-102,S2298,Present
+07-11-2025,Friday,16:35,16,City Center,B-102,S2195,Present
+07-11-2025,Friday,17:01,17,University,B-202,S2547,Present
+07-11-2025,Friday,17:02,17,University,B-202,S2148,Present
+07-11-2025,Friday,17:08,17,University,B-202,S2150,Present
+10-11-2025,Monday,08:57,8,City Center,B-102,S2322,Present
+10-11-2025,Monday,09:05,9,South Suburb,B-303,S2600,Present
+10-11-2025,Monday,08:53,8,City Center,B-102,S2410,Present
+10-11-2025,Monday,08:37,8,City Center,B-102,S2106,Present
+10-11-2025,Monday,08:59,8,City Center,B-101,S2246,Present
+10-11-2025,Monday,09:05,9,City Center,B-101,S2384,Present
+10-11-2025,Monday,09:01,9,University,B-202,S2025,Present
+10-11-2025,Monday,08:40,8,City Center,B-102,S2581,Present
+10-11-2025,Monday,09:13,9,Express Dc,B-401,S2099,Present
+10-11-2025,Monday,09:02,9,City Center,B-101,S2452,Absent
+10-11-2025,Monday,08:44,8,City Center,B-101,S2010,Present
+10-11-2025,Monday,09:06,9,South Suburb,B-303,S2147,Present
+10-11-2025,Monday,09:00,9,City Center,B-102,S2248,Present
+10-11-2025,Monday,09:05,9,City Center,B-102,S2462,Present
+10-11-2025,Monday,12:21,12,Express Dc,B-401,S2528,Present
+10-11-2025,Monday,16:35,16,City Center,B-102,S2316,Absent
+10-11-2025,Monday,16:46,16,University,B-202,S2080,Present
+10-11-2025,Monday,16:30,16,University,B-202,S2368,Present
+10-11-2025,Monday,16:55,16,Express Dc,B-401,S2485,Present
+10-11-2025,Monday,16:43,16,City Center,B-102,S2229,Present
+10-11-2025,Monday,17:08,17,University,B-202,S2303,Present
+10-11-2025,Monday,16:46,16,University,B-202,S2337,Present
+10-11-2025,Monday,16:31,16,University,B-202,S2546,Present
+10-11-2025,Monday,16:50,16,South Suburb,B-303,S2331,Present
+10-11-2025,Monday,16:31,16,City Center,B-101,S2134,Present
+11-11-2025,Tuesday,08:52,8,City Center,B-102,S2255,Present
+11-11-2025,Tuesday,08:40,8,South Suburb,B-303,S2102,Present
+11-11-2025,Tuesday,08:32,8,South Suburb,B-303,S2256,Present
+11-11-2025,Tuesday,09:15,9,South Suburb,B-303,S2165,Present
+11-11-2025,Tuesday,08:44,8,University,B-202,S2196,Present
+11-11-2025,Tuesday,08:31,8,City Center,B-101,S2151,Present
+11-11-2025,Tuesday,08:35,8,University,B-202,S2254,Present
+11-11-2025,Tuesday,08:45,8,City Center,B-101,S2557,Absent
+11-11-2025,Tuesday,09:09,9,City Center,B-102,S2235,Present
+11-11-2025,Tuesday,08:59,8,City Center,B-101,S2286,Present
+11-11-2025,Tuesday,12:05,12,Express Dc,B-401,S2394,Present
+11-11-2025,Tuesday,16:52,16,City Center,B-101,S2135,Present
+11-11-2025,Tuesday,16:46,16,South Suburb,B-303,S2528,Absent
+11-11-2025,Tuesday,17:11,17,University,B-202,S2247,Present
+11-11-2025,Tuesday,16:45,16,University,B-202,S2426,Present
+11-11-2025,Tuesday,16:51,16,Express Dc,B-401,S2526,Present
+11-11-2025,Tuesday,16:48,16,City Center,B-102,S2450,Present
+11-11-2025,Tuesday,17:08,17,South Suburb,B-303,S2224,Present
+11-11-2025,Tuesday,16:58,16,City Center,B-102,S2159,Present
+11-11-2025,Tuesday,16:38,16,City Center,B-101,S2361,Present
+11-11-2025,Tuesday,16:36,16,University,B-202,S2523,Present
+11-11-2025,Tuesday,16:39,16,South Suburb,B-303,S2263,Present
+12-11-2025,Wednesday,08:40,8,City Center,B-102,S2121,Present
+12-11-2025,Wednesday,08:36,8,University,B-202,S2516,Present
+12-11-2025,Wednesday,08:49,8,University,B-202,S2497,Present
+12-11-2025,Wednesday,09:09,9,South Suburb,B-303,S2360,Present
+12-11-2025,Wednesday,09:02,9,South Suburb,B-303,S2491,Present
+12-11-2025,Wednesday,08:56,8,South Suburb,B-303,S2484,Present
+12-11-2025,Wednesday,09:00,9,South Suburb,B-303,S2513,Present
+12-11-2025,Wednesday,08:35,8,City Center,B-101,S2225,Present
+12-11-2025,Wednesday,09:00,9,University,B-202,S2173,Present
+12-11-2025,Wednesday,08:58,8,University,B-202,S2438,Present
+12-11-2025,Wednesday,16:57,16,University,B-202,S2157,Present
+12-11-2025,Wednesday,16:48,16,City Center,B-102,S2217,Present
+12-11-2025,Wednesday,16:42,16,University,B-202,S2063,Present
+12-11-2025,Wednesday,16:31,16,University,B-202,S2174,Present
+12-11-2025,Wednesday,17:07,17,Express Dc,B-401,S2485,Absent
+12-11-2025,Wednesday,17:11,17,City Center,B-102,S2430,Present
+12-11-2025,Wednesday,17:02,17,South Suburb,B-303,S2051,Present
+12-11-2025,Wednesday,17:08,17,University,B-202,S2195,Present
+12-11-2025,Wednesday,16:37,16,University,B-202,S2435,Present
+12-11-2025,Wednesday,16:55,16,University,B-202,S2460,Present
+12-11-2025,Wednesday,16:31,16,Express Dc,B-401,S2224,Present
+12-11-2025,Wednesday,16:46,16,City Center,B-102,S2393,Present
+12-11-2025,Wednesday,16:38,16,University,B-202,S2471,Present
+12-11-2025,Wednesday,16:30,16,University,B-202,S2566,Present
+12-11-2025,Wednesday,16:35,16,University,B-202,S2044,Present
+13-11-2025,Thursday,08:56,8,University,B-202,S2248,Present
+13-11-2025,Thursday,08:44,8,Express Dc,B-401,S2023,Present
+13-11-2025,Thursday,09:07,9,City Center,B-101,S2360,Absent
+13-11-2025,Thursday,09:02,9,South Suburb,B-303,S2550,Present
+13-11-2025,Thursday,08:46,8,City Center,B-101,S2174,Present
+13-11-2025,Thursday,09:10,9,Express Dc,B-401,S2390,Present
+13-11-2025,Thursday,08:58,8,City Center,B-102,S2478,Present
+13-11-2025,Thursday,09:13,9,University,B-202,S2118,Present
+13-11-2025,Thursday,08:58,8,City Center,B-101,S2183,Present
+13-11-2025,Thursday,08:38,8,City Center,B-102,S2506,Present
+13-11-2025,Thursday,08:57,8,University,B-202,S2480,Present
+13-11-2025,Thursday,08:57,8,University,B-202,S2134,Present
+13-11-2025,Thursday,08:38,8,City Center,B-101,S2360,Present
+13-11-2025,Thursday,08:30,8,University,B-202,S2581,Present
+13-11-2025,Thursday,16:53,16,University,B-202,S2109,Present
+13-11-2025,Thursday,17:01,17,University,B-202,S2256,Present
+13-11-2025,Thursday,17:14,17,City Center,B-101,S2053,Present
+13-11-2025,Thursday,17:06,17,City Center,B-101,S2249,Present
+13-11-2025,Thursday,17:00,17,City Center,B-102,S2130,Present
+13-11-2025,Thursday,16:44,16,University,B-202,S2475,Present
+13-11-2025,Thursday,16:43,16,University,B-202,S2044,Present
+13-11-2025,Thursday,16:41,16,South Suburb,B-303,S2291,Present
+13-11-2025,Thursday,16:33,16,University,B-202,S2042,Present
+13-11-2025,Thursday,16:49,16,City Center,B-101,S2086,Present
+13-11-2025,Thursday,16:52,16,Express Dc,B-401,S2291,Present
+13-11-2025,Thursday,16:43,16,City Center,B-101,S2303,Present
+14-11-2025,Friday,08:48,8,City Center,B-102,S2446,Present
+14-11-2025,Friday,08:55,8,City Center,B-101,S2455,Present
+14-11-2025,Friday,08:46,8,South Suburb,B-303,S2145,Present
+14-11-2025,Friday,08:47,8,South Suburb,B-303,S2372,Present
+14-11-2025,Friday,08:39,8,City Center,B-102,S2583,Present
+14-11-2025,Friday,08:34,8,University,B-202,S2495,Present
+14-11-2025,Friday,08:53,8,South Suburb,B-303,S2581,Present
+14-11-2025,Friday,08:39,8,City Center,B-101,S2229,Present
+14-11-2025,Friday,08:38,8,South Suburb,B-303,S2178,Present
+14-11-2025,Friday,09:13,9,South Suburb,B-303,S2427,Present
+14-11-2025,Friday,08:44,8,University,B-202,S2188,Present
+14-11-2025,Friday,09:06,9,City Center,B-101,S2414,Present
+14-11-2025,Friday,09:15,9,South Suburb,B-303,S2274,Absent
+14-11-2025,Friday,13:13,13,University,B-202,S2111,Present
+14-11-2025,Friday,16:53,16,City Center,B-101,S2307,Present
+14-11-2025,Friday,16:45,16,South Suburb,B-303,S2585,Present
+14-11-2025,Friday,17:04,17,University,B-202,S2467,Present
+14-11-2025,Friday,16:41,16,City Center,B-101,S2342,Present
+14-11-2025,Friday,16:38,16,City Center,B-102,S2511,Present
+14-11-2025,Friday,16:41,16,South Suburb,B-303,S2247,Present
+14-11-2025,Friday,17:14,17,University,B-202,S2026,Present
+14-11-2025,Friday,16:33,16,City Center,B-102,S2255,Present
+14-11-2025,Friday,16:39,16,City Center,B-101,S2097,Present
+14-11-2025,Friday,16:34,16,City Center,B-102,S2108,Present
+14-11-2025,Friday,16:38,16,South Suburb,B-303,S2093,Present
+14-11-2025,Friday,16:30,16,City Center,B-102,S2272,Present
+17-11-2025,Monday,08:46,8,City Center,B-101,S2133,Present
+17-11-2025,Monday,08:59,8,South Suburb,B-303,S2198,Present
+17-11-2025,Monday,09:05,9,University,B-202,S2209,Absent
+17-11-2025,Monday,08:30,8,University,B-202,S2416,Present
+17-11-2025,Monday,08:55,8,Express Dc,B-401,S2496,Present
+17-11-2025,Monday,08:45,8,Express Dc,B-401,S2530,Present
+17-11-2025,Monday,08:45,8,City Center,B-102,S2452,Present
+17-11-2025,Monday,08:52,8,University,B-202,S2229,Present
+17-11-2025,Monday,08:52,8,City Center,B-102,S2551,Present
+17-11-2025,Monday,08:33,8,City Center,B-102,S2166,Present
+17-11-2025,Monday,17:11,17,University,B-202,S2334,Present
+17-11-2025,Monday,16:42,16,South Suburb,B-303,S2251,Present
+17-11-2025,Monday,16:32,16,Express Dc,B-401,S2029,Present
+17-11-2025,Monday,16:55,16,Express Dc,B-401,S2463,Present
+17-11-2025,Monday,16:35,16,City Center,B-101,S2087,Absent
+17-11-2025,Monday,16:52,16,City Center,B-101,S2102,Present
+17-11-2025,Monday,17:14,17,City Center,B-101,S2197,Absent
+17-11-2025,Monday,16:58,16,City Center,B-102,S2373,Present
+17-11-2025,Monday,17:13,17,Express Dc,B-401,S2170,Present
+17-11-2025,Monday,16:33,16,City Center,B-101,S2249,Present
+17-11-2025,Monday,16:42,16,University,B-202,S2547,Present
+17-11-2025,Monday,17:05,17,University,B-202,S2458,Present
+17-11-2025,Monday,17:03,17,University,B-202,S2588,Present
+17-11-2025,Monday,16:44,16,University,B-202,S2232,Present
+18-11-2025,Tuesday,09:05,9,South Suburb,B-303,S2574,Present
+18-11-2025,Tuesday,08:49,8,City Center,B-102,S2315,Present
+18-11-2025,Tuesday,08:42,8,University,B-202,S2155,Present
+18-11-2025,Tuesday,08:31,8,South Suburb,B-303,S2131,Present
+18-11-2025,Tuesday,08:52,8,City Center,B-101,S2204,Present
+18-11-2025,Tuesday,09:02,9,City Center,B-102,S2585,Present
+18-11-2025,Tuesday,09:12,9,City Center,B-102,S2316,Present
+18-11-2025,Tuesday,08:34,8,South Suburb,B-303,S2456,Absent
+18-11-2025,Tuesday,08:32,8,City Center,B-102,S2404,Present
+18-11-2025,Tuesday,08:36,8,City Center,B-102,S2163,Present
+18-11-2025,Tuesday,08:34,8,City Center,B-102,S2129,Present
+18-11-2025,Tuesday,13:23,13,Express Dc,B-401,S2069,Present
+18-11-2025,Tuesday,16:39,16,City Center,B-101,S2108,Present
+18-11-2025,Tuesday,16:48,16,University,B-202,S2212,Present
+18-11-2025,Tuesday,16:30,16,City Center,B-101,S2209,Present
+18-11-2025,Tuesday,16:32,16,University,B-202,S2292,Present
+18-11-2025,Tuesday,16:50,16,University,B-202,S2410,Present
+18-11-2025,Tuesday,17:00,17,University,B-202,S2175,Present
+18-11-2025,Tuesday,16:47,16,University,B-202,S2498,Absent
+18-11-2025,Tuesday,16:50,16,City Center,B-101,S2302,Present
+18-11-2025,Tuesday,17:06,17,City Center,B-102,S2535,Present
+18-11-2025,Tuesday,17:07,17,University,B-202,S2291,Present
+19-11-2025,Wednesday,08:32,8,University,B-202,S2095,Present
+19-11-2025,Wednesday,09:00,9,University,B-202,S2144,Present
+19-11-2025,Wednesday,08:33,8,University,B-202,S2024,Present
+19-11-2025,Wednesday,08:59,8,City Center,B-101,S2044,Present
+19-11-2025,Wednesday,08:39,8,South Suburb,B-303,S2364,Present
+19-11-2025,Wednesday,08:50,8,City Center,B-102,S2257,Present
+19-11-2025,Wednesday,08:38,8,University,B-202,S2215,Present
+19-11-2025,Wednesday,08:58,8,South Suburb,B-303,S2249,Present
+19-11-2025,Wednesday,08:50,8,South Suburb,B-303,S2521,Absent
+19-11-2025,Wednesday,09:15,9,University,B-202,S2171,Present
+19-11-2025,Wednesday,09:02,9,University,B-202,S2319,Present
+19-11-2025,Wednesday,08:41,8,City Center,B-102,S2000,Present
+19-11-2025,Wednesday,13:19,13,Express Dc,B-401,S2563,Present
+19-11-2025,Wednesday,17:02,17,University,B-202,S2246,Absent
+19-11-2025,Wednesday,17:03,17,City Center,B-102,S2028,Present
+19-11-2025,Wednesday,16:32,16,University,B-202,S2422,Present
+19-11-2025,Wednesday,17:12,17,University,B-202,S2529,Present
+19-11-2025,Wednesday,17:06,17,University,B-202,S2490,Present
+19-11-2025,Wednesday,16:45,16,University,B-202,S2212,Present
+19-11-2025,Wednesday,16:43,16,University,B-202,S2165,Present
+19-11-2025,Wednesday,16:32,16,City Center,B-102,S2514,Present
+19-11-2025,Wednesday,16:46,16,City Center,B-102,S2135,Present
+19-11-2025,Wednesday,17:05,17,City Center,B-101,S2538,Present
+19-11-2025,Wednesday,16:38,16,South Suburb,B-303,S2136,Present
+19-11-2025,Wednesday,16:31,16,City Center,B-101,S2270,Present
+20-11-2025,Thursday,09:00,9,City Center,B-102,S2454,Present
+20-11-2025,Thursday,08:47,8,Express Dc,B-401,S2271,Present
+20-11-2025,Thursday,08:32,8,City Center,B-102,S2074,Present
+20-11-2025,Thursday,08:55,8,University,B-202,S2121,Present
+20-11-2025,Thursday,09:12,9,Express Dc,B-401,S2599,Present
+20-11-2025,Thursday,08:30,8,City Center,B-102,S2012,Absent
+20-11-2025,Thursday,08:50,8,Express Dc,B-401,S2299,Present
+20-11-2025,Thursday,08:33,8,City Center,B-101,S2493,Present
+20-11-2025,Thursday,08:45,8,University,B-202,S2197,Present
+20-11-2025,Thursday,08:41,8,City Center,B-101,S2118,Present
+20-11-2025,Thursday,08:55,8,City Center,B-101,S2178,Present
+20-11-2025,Thursday,08:31,8,South Suburb,B-303,S2572,Present
+20-11-2025,Thursday,08:31,8,City Center,B-101,S2136,Present
+20-11-2025,Thursday,13:02,13,Express Dc,B-401,S2305,Absent
+20-11-2025,Thursday,16:36,16,City Center,B-101,S2016,Present
+20-11-2025,Thursday,16:36,16,City Center,B-102,S2341,Present
+20-11-2025,Thursday,16:46,16,South Suburb,B-303,S2332,Present
+20-11-2025,Thursday,17:07,17,South Suburb,B-303,S2458,Present
+20-11-2025,Thursday,17:14,17,City Center,B-102,S2241,Present
+20-11-2025,Thursday,17:04,17,University,B-202,S2449,Present
+20-11-2025,Thursday,16:51,16,City Center,B-102,S2424,Present
+20-11-2025,Thursday,16:40,16,City Center,B-102,S2270,Present
+20-11-2025,Thursday,16:36,16,City Center,B-102,S2408,Present
+20-11-2025,Thursday,17:11,17,City Center,B-101,S2441,Present
+20-11-2025,Thursday,16:36,16,South Suburb,B-303,S2394,Absent
+21-11-2025,Friday,09:01,9,University,B-202,S2596,Present
+21-11-2025,Friday,08:35,8,City Center,B-102,S2402,Present
+21-11-2025,Friday,09:11,9,Express Dc,B-401,S2319,Present
+21-11-2025,Friday,09:14,9,University,B-202,S2027,Present
+21-11-2025,Friday,09:08,9,Express Dc,B-401,S2517,Present
+21-11-2025,Friday,08:58,8,South Suburb,B-303,S2493,Present
+21-11-2025,Friday,09:02,9,University,B-202,S2425,Present
+21-11-2025,Friday,08:31,8,Express Dc,B-401,S2223,Present
+21-11-2025,Friday,08:30,8,City Center,B-102,S2304,Present
+21-11-2025,Friday,08:39,8,Express Dc,B-401,S2472,Present
+21-11-2025,Friday,08:48,8,South Suburb,B-303,S2436,Present
+21-11-2025,Friday,09:13,9,University,B-202,S2051,Present
+21-11-2025,Friday,09:05,9,City Center,B-102,S2360,Present
+21-11-2025,Friday,08:46,8,Express Dc,B-401,S2064,Absent
+21-11-2025,Friday,13:11,13,South Suburb,B-303,S2016,Present
+21-11-2025,Friday,17:04,17,City Center,B-102,S2328,Present
+21-11-2025,Friday,17:02,17,City Center,B-101,S2417,Present
+21-11-2025,Friday,17:02,17,University,B-202,S2069,Present
+21-11-2025,Friday,17:08,17,City Center,B-102,S2346,Present
+21-11-2025,Friday,17:05,17,South Suburb,B-303,S2235,Present
+21-11-2025,Friday,17:03,17,City Center,B-102,S2300,Present
+21-11-2025,Friday,16:59,16,City Center,B-101,S2016,Present
+21-11-2025,Friday,16:44,16,City Center,B-102,S2291,Present
+21-11-2025,Friday,17:15,17,City Center,B-101,S2469,Present
+21-11-2025,Friday,16:54,16,City Center,B-102,S2132,Present
+21-11-2025,Friday,16:43,16,City Center,B-101,S2306,Present
+21-11-2025,Friday,17:07,17,City Center,B-101,S2173,Absent
+21-11-2025,Friday,17:14,17,Express Dc,B-401,S2592,Present
+21-11-2025,Friday,16:47,16,University,B-202,S2183,Present
+24-11-2025,Monday,09:07,9,City Center,B-101,S2068,Present
+24-11-2025,Monday,09:01,9,University,B-202,S2485,Present
+24-11-2025,Monday,09:02,9,Express Dc,B-401,S2283,Present
+24-11-2025,Monday,08:52,8,City Center,B-101,S2512,Present
+24-11-2025,Monday,08:45,8,University,B-202,S2539,Present
+24-11-2025,Monday,09:09,9,University,B-202,S2256,Absent
+24-11-2025,Monday,08:45,8,University,B-202,S2248,Present
+24-11-2025,Monday,09:00,9,City Center,B-101,S2379,Present
+24-11-2025,Monday,08:51,8,City Center,B-102,S2446,Present
+24-11-2025,Monday,08:36,8,City Center,B-102,S2520,Present
+24-11-2025,Monday,08:43,8,City Center,B-101,S2102,Present
+24-11-2025,Monday,08:58,8,South Suburb,B-303,S2532,Present
+24-11-2025,Monday,08:33,8,University,B-202,S2393,Present
+24-11-2025,Monday,09:12,9,South Suburb,B-303,S2364,Present
+24-11-2025,Monday,08:47,8,South Suburb,B-303,S2432,Present
+24-11-2025,Monday,17:06,17,University,B-202,S2542,Present
+24-11-2025,Monday,17:06,17,City Center,B-101,S2581,Present
+24-11-2025,Monday,16:56,16,South Suburb,B-303,S2321,Present
+24-11-2025,Monday,17:02,17,Express Dc,B-401,S2417,Present
+24-11-2025,Monday,16:52,16,City Center,B-101,S2209,Present
+24-11-2025,Monday,16:45,16,University,B-202,S2534,Present
+24-11-2025,Monday,17:04,17,South Suburb,B-303,S2018,Present
+24-11-2025,Monday,16:44,16,University,B-202,S2045,Present
+24-11-2025,Monday,16:56,16,South Suburb,B-303,S2048,Present
+24-11-2025,Monday,16:35,16,City Center,B-102,S2193,Present
+24-11-2025,Monday,17:15,17,Express Dc,B-401,S2581,Present
+24-11-2025,Monday,17:07,17,South Suburb,B-303,S2425,Present
+25-11-2025,Tuesday,08:59,8,University,B-202,S2394,Present
+25-11-2025,Tuesday,08:57,8,South Suburb,B-303,S2239,Present
+25-11-2025,Tuesday,08:38,8,City Center,B-101,S2341,Present
+25-11-2025,Tuesday,09:14,9,University,B-202,S2119,Present
+25-11-2025,Tuesday,09:03,9,City Center,B-102,S2142,Present
+25-11-2025,Tuesday,08:39,8,University,B-202,S2316,Present
+25-11-2025,Tuesday,08:54,8,South Suburb,B-303,S2236,Present
+25-11-2025,Tuesday,09:00,9,South Suburb,B-303,S2000,Present
+25-11-2025,Tuesday,08:40,8,City Center,B-102,S2552,Absent
+25-11-2025,Tuesday,08:44,8,City Center,B-102,S2181,Absent
+25-11-2025,Tuesday,08:41,8,University,B-202,S2281,Present
+25-11-2025,Tuesday,08:35,8,City Center,B-102,S2497,Absent
+25-11-2025,Tuesday,08:48,8,City Center,B-102,S2369,Present
+25-11-2025,Tuesday,08:56,8,University,B-202,S2109,Present
+25-11-2025,Tuesday,09:02,9,City Center,B-101,S2599,Present
+25-11-2025,Tuesday,13:43,13,University,B-202,S2372,Present
+25-11-2025,Tuesday,16:41,16,City Center,B-101,S2567,Present
+25-11-2025,Tuesday,17:13,17,University,B-202,S2263,Present
+25-11-2025,Tuesday,16:30,16,City Center,B-101,S2600,Present
+25-11-2025,Tuesday,17:14,17,Express Dc,B-401,S2429,Absent
+25-11-2025,Tuesday,16:38,16,South Suburb,B-303,S2167,Present
+25-11-2025,Tuesday,16:56,16,City Center,B-102,S2478,Present
+25-11-2025,Tuesday,16:35,16,University,B-202,S2388,Present
+25-11-2025,Tuesday,16:38,16,City Center,B-101,S2311,Present
+25-11-2025,Tuesday,16:32,16,University,B-202,S2127,Present
+25-11-2025,Tuesday,16:43,16,City Center,B-102,S2297,Present
+25-11-2025,Tuesday,16:58,16,City Center,B-102,S2410,Present
+26-11-2025,Wednesday,08:30,8,City Center,B-102,S2099,Present
+26-11-2025,Wednesday,08:47,8,City Center,B-101,S2375,Present
+26-11-2025,Wednesday,08:56,8,University,B-202,S2138,Present
+26-11-2025,Wednesday,08:41,8,City Center,B-102,S2578,Present
+26-11-2025,Wednesday,08:46,8,South Suburb,B-303,S2383,Present
+26-11-2025,Wednesday,08:34,8,South Suburb,B-303,S2388,Present
+26-11-2025,Wednesday,08:46,8,University,B-202,S2577,Present
+26-11-2025,Wednesday,08:52,8,City Center,B-102,S2084,Present
+26-11-2025,Wednesday,08:48,8,University,B-202,S2240,Present
+26-11-2025,Wednesday,08:57,8,University,B-202,S2013,Present
+26-11-2025,Wednesday,08:47,8,South Suburb,B-303,S2500,Present
+26-11-2025,Wednesday,16:31,16,City Center,B-102,S2469,Present
+26-11-2025,Wednesday,16:55,16,University,B-202,S2043,Present
+26-11-2025,Wednesday,16:58,16,City Center,B-102,S2176,Present
+26-11-2025,Wednesday,16:55,16,University,B-202,S2144,Present
+26-11-2025,Wednesday,16:51,16,University,B-202,S2523,Present
+26-11-2025,Wednesday,16:43,16,City Center,B-101,S2323,Present
+26-11-2025,Wednesday,16:42,16,City Center,B-101,S2474,Present
+26-11-2025,Wednesday,17:08,17,University,B-202,S2519,Present
+26-11-2025,Wednesday,17:03,17,City Center,B-102,S2175,Present
+26-11-2025,Wednesday,16:30,16,City Center,B-102,S2115,Present
+26-11-2025,Wednesday,16:54,16,University,B-202,S2163,Present
+26-11-2025,Wednesday,16:41,16,South Suburb,B-303,S2261,Present
+26-11-2025,Wednesday,16:37,16,South Suburb,B-303,S2539,Present
+26-11-2025,Wednesday,16:59,16,Express Dc,B-401,S2064,Present
+26-11-2025,Wednesday,17:13,17,University,B-202,S2426,Present
+27-11-2025,Thursday,09:15,9,South Suburb,B-303,S2095,Present
+27-11-2025,Thursday,08:59,8,South Suburb,B-303,S2263,Present
+27-11-2025,Thursday,08:49,8,City Center,B-102,S2020,Present
+27-11-2025,Thursday,08:46,8,City Center,B-101,S2453,Present
+27-11-2025,Thursday,08:34,8,University,B-202,S2176,Present
+27-11-2025,Thursday,08:59,8,City Center,B-102,S2166,Present
+27-11-2025,Thursday,08:53,8,City Center,B-101,S2472,Present
+27-11-2025,Thursday,08:42,8,University,B-202,S2081,Present
+27-11-2025,Thursday,08:52,8,University,B-202,S2515,Present
+27-11-2025,Thursday,09:05,9,University,B-202,S2210,Present
+27-11-2025,Thursday,08:57,8,South Suburb,B-303,S2411,Present
+27-11-2025,Thursday,08:41,8,City Center,B-101,S2148,Absent
+27-11-2025,Thursday,08:45,8,South Suburb,B-303,S2137,Present
+27-11-2025,Thursday,08:54,8,City Center,B-102,S2004,Present
+27-11-2025,Thursday,16:58,16,City Center,B-101,S2499,Absent
+27-11-2025,Thursday,16:45,16,South Suburb,B-303,S2045,Present
+27-11-2025,Thursday,17:12,17,Express Dc,B-401,S2106,Present
+27-11-2025,Thursday,16:59,16,City Center,B-101,S2529,Present
+27-11-2025,Thursday,16:49,16,South Suburb,B-303,S2595,Present
+27-11-2025,Thursday,16:52,16,Express Dc,B-401,S2478,Present
+27-11-2025,Thursday,16:57,16,City Center,B-102,S2037,Present
+27-11-2025,Thursday,17:15,17,City Center,B-102,S2443,Present
+27-11-2025,Thursday,17:00,17,Express Dc,B-401,S2545,Present
+27-11-2025,Thursday,16:50,16,City Center,B-102,S2317,Present
+27-11-2025,Thursday,16:57,16,City Center,B-102,S2568,Present
+27-11-2025,Thursday,16:31,16,South Suburb,B-303,S2097,Present
+28-11-2025,Friday,08:34,8,City Center,B-101,S2466,Present
+28-11-2025,Friday,08:49,8,University,B-202,S2196,Present
+28-11-2025,Friday,09:11,9,University,B-202,S2427,Present
+28-11-2025,Friday,08:38,8,City Center,B-102,S2456,Present
+28-11-2025,Friday,09:01,9,City Center,B-101,S2069,Present
+28-11-2025,Friday,09:13,9,University,B-202,S2544,Present
+28-11-2025,Friday,09:08,9,University,B-202,S2165,Present
+28-11-2025,Friday,09:01,9,Express Dc,B-401,S2302,Present
+28-11-2025,Friday,09:00,9,South Suburb,B-303,S2462,Present
+28-11-2025,Friday,08:32,8,South Suburb,B-303,S2245,Present
+28-11-2025,Friday,17:13,17,University,B-202,S2402,Present
+28-11-2025,Friday,17:05,17,South Suburb,B-303,S2286,Present
+28-11-2025,Friday,16:56,16,City Center,B-101,S2074,Present
+28-11-2025,Friday,16:30,16,City Center,B-102,S2580,Present
+28-11-2025,Friday,17:00,17,City Center,B-101,S2446,Present
+28-11-2025,Friday,17:12,17,University,B-202,S2355,Present
+28-11-2025,Friday,16:48,16,City Center,B-102,S2160,Present
+28-11-2025,Friday,17:00,17,South Suburb,B-303,S2289,Present
+28-11-2025,Friday,17:15,17,City Center,B-101,S2058,Present
+28-11-2025,Friday,16:48,16,City Center,B-102,S2572,Present
+28-11-2025,Friday,17:04,17,Express Dc,B-401,S2271,Present
+28-11-2025,Friday,17:09,17,University,B-202,S2059,Present
+01-12-2025,Monday,08:30,8,City Center,B-102,S2276,Present
+01-12-2025,Monday,08:54,8,University,B-202,S2292,Present
+01-12-2025,Monday,08:59,8,City Center,B-102,S2077,Present
+01-12-2025,Monday,08:30,8,University,B-202,S2405,Present
+01-12-2025,Monday,08:49,8,South Suburb,B-303,S2464,Present
+01-12-2025,Monday,08:46,8,University,B-202,S2299,Present
+01-12-2025,Monday,08:39,8,City Center,B-101,S2491,Present
+01-12-2025,Monday,09:14,9,South Suburb,B-303,S2574,Present
+01-12-2025,Monday,09:05,9,University,B-202,S2037,Present
+01-12-2025,Monday,08:57,8,University,B-202,S2016,Present
+01-12-2025,Monday,09:05,9,City Center,B-101,S2302,Present
+01-12-2025,Monday,09:00,9,Express Dc,B-401,S2419,Present
+01-12-2025,Monday,17:06,17,City Center,B-101,S2249,Present
+01-12-2025,Monday,16:46,16,South Suburb,B-303,S2175,Present
+01-12-2025,Monday,17:04,17,City Center,B-102,S2373,Present
+01-12-2025,Monday,17:03,17,City Center,B-102,S2374,Present
+01-12-2025,Monday,17:04,17,University,B-202,S2156,Present
+01-12-2025,Monday,16:32,16,City Center,B-101,S2438,Present
+01-12-2025,Monday,16:40,16,University,B-202,S2436,Present
+01-12-2025,Monday,17:09,17,University,B-202,S2461,Present
+01-12-2025,Monday,16:39,16,University,B-202,S2028,Present
+01-12-2025,Monday,17:11,17,City Center,B-101,S2129,Present
+01-12-2025,Monday,17:14,17,University,B-202,S2386,Present
+01-12-2025,Monday,16:51,16,South Suburb,B-303,S2515,Present
+01-12-2025,Monday,16:32,16,City Center,B-102,S2552,Present
+02-12-2025,Tuesday,08:38,8,Express Dc,B-401,S2375,Present
+02-12-2025,Tuesday,09:08,9,University,B-202,S2250,Present
+02-12-2025,Tuesday,09:14,9,City Center,B-101,S2423,Present
+02-12-2025,Tuesday,09:11,9,South Suburb,B-303,S2270,Absent
+02-12-2025,Tuesday,08:58,8,City Center,B-102,S2420,Present
+02-12-2025,Tuesday,08:48,8,City Center,B-102,S2083,Present
+02-12-2025,Tuesday,08:47,8,City Center,B-101,S2519,Present
+02-12-2025,Tuesday,09:11,9,University,B-202,S2239,Present
+02-12-2025,Tuesday,09:03,9,Express Dc,B-401,S2111,Present
+02-12-2025,Tuesday,08:54,8,City Center,B-101,S2554,Present
+02-12-2025,Tuesday,09:09,9,Express Dc,B-401,S2246,Present
+02-12-2025,Tuesday,17:08,17,Express Dc,B-401,S2237,Present
+02-12-2025,Tuesday,16:34,16,City Center,B-101,S2247,Present
+02-12-2025,Tuesday,16:50,16,City Center,B-101,S2206,Present
+02-12-2025,Tuesday,17:10,17,City Center,B-102,S2552,Present
+02-12-2025,Tuesday,16:35,16,Express Dc,B-401,S2129,Present
+02-12-2025,Tuesday,16:39,16,City Center,B-101,S2570,Present
+02-12-2025,Tuesday,16:51,16,South Suburb,B-303,S2290,Present
+02-12-2025,Tuesday,16:48,16,City Center,B-102,S2293,Present
+02-12-2025,Tuesday,16:51,16,City Center,B-102,S2378,Present
+02-12-2025,Tuesday,16:53,16,City Center,B-101,S2281,Present
+02-12-2025,Tuesday,16:31,16,South Suburb,B-303,S2249,Present
+02-12-2025,Tuesday,17:04,17,University,B-202,S2477,Present
+02-12-2025,Tuesday,16:31,16,University,B-202,S2412,Absent
+02-12-2025,Tuesday,16:59,16,City Center,B-101,S2512,Present
+02-12-2025,Tuesday,16:38,16,South Suburb,B-303,S2577,Present
+03-12-2025,Wednesday,09:08,9,University,B-202,S2433,Present
+03-12-2025,Wednesday,08:58,8,University,B-202,S2510,Present
+03-12-2025,Wednesday,08:33,8,City Center,B-101,S2596,Present
+03-12-2025,Wednesday,09:02,9,Express Dc,B-401,S2334,Present
+03-12-2025,Wednesday,08:38,8,University,B-202,S2234,Present
+03-12-2025,Wednesday,08:49,8,University,B-202,S2054,Present
+03-12-2025,Wednesday,08:40,8,City Center,B-101,S2388,Present
+03-12-2025,Wednesday,08:31,8,City Center,B-101,S2289,Present
+03-12-2025,Wednesday,08:33,8,City Center,B-101,S2329,Present
+03-12-2025,Wednesday,08:39,8,University,B-202,S2104,Present
+03-12-2025,Wednesday,08:31,8,City Center,B-101,S2206,Present
+03-12-2025,Wednesday,09:09,9,City Center,B-102,S2175,Present
+03-12-2025,Wednesday,09:11,9,South Suburb,B-303,S2386,Present
+03-12-2025,Wednesday,17:04,17,City Center,B-102,S2468,Present
+03-12-2025,Wednesday,16:50,16,South Suburb,B-303,S2318,Present
+03-12-2025,Wednesday,17:03,17,South Suburb,B-303,S2400,Absent
+03-12-2025,Wednesday,16:47,16,Express Dc,B-401,S2016,Present
+03-12-2025,Wednesday,16:31,16,City Center,B-102,S2377,Present
+03-12-2025,Wednesday,17:04,17,South Suburb,B-303,S2358,Present
+03-12-2025,Wednesday,17:15,17,City Center,B-102,S2515,Present
+03-12-2025,Wednesday,17:10,17,City Center,B-101,S2324,Present
+03-12-2025,Wednesday,16:57,16,University,B-202,S2523,Present
+03-12-2025,Wednesday,17:09,17,City Center,B-101,S2118,Present
+03-12-2025,Wednesday,16:36,16,University,B-202,S2563,Present
+03-12-2025,Wednesday,17:08,17,University,B-202,S2229,Present
+03-12-2025,Wednesday,16:54,16,University,B-202,S2362,Present
+03-12-2025,Wednesday,17:10,17,South Suburb,B-303,S2014,Present
+03-12-2025,Wednesday,16:44,16,University,B-202,S2122,Present
+04-12-2025,Thursday,09:07,9,Express Dc,B-401,S2235,Present
+04-12-2025,Thursday,08:52,8,University,B-202,S2481,Present
+04-12-2025,Thursday,09:13,9,City Center,B-101,S2094,Present
+04-12-2025,Thursday,08:32,8,University,B-202,S2578,Present
+04-12-2025,Thursday,09:12,9,South Suburb,B-303,S2370,Present
+04-12-2025,Thursday,09:10,9,Express Dc,B-401,S2087,Present
+04-12-2025,Thursday,08:54,8,University,B-202,S2147,Present
+04-12-2025,Thursday,09:14,9,City Center,B-102,S2292,Present
+04-12-2025,Thursday,09:08,9,City Center,B-101,S2046,Present
+04-12-2025,Thursday,08:39,8,City Center,B-102,S2299,Present
+04-12-2025,Thursday,09:13,9,City Center,B-102,S2042,Absent
+04-12-2025,Thursday,08:30,8,South Suburb,B-303,S2185,Present
+04-12-2025,Thursday,08:52,8,South Suburb,B-303,S2391,Present
+04-12-2025,Thursday,09:11,9,South Suburb,B-303,S2171,Present
+04-12-2025,Thursday,08:41,8,South Suburb,B-303,S2570,Present
+04-12-2025,Thursday,17:11,17,City Center,B-101,S2282,Present
+04-12-2025,Thursday,16:36,16,University,B-202,S2268,Present
+04-12-2025,Thursday,16:49,16,South Suburb,B-303,S2420,Present
+04-12-2025,Thursday,16:58,16,University,B-202,S2136,Present
+04-12-2025,Thursday,16:57,16,South Suburb,B-303,S2380,Present
+04-12-2025,Thursday,16:34,16,City Center,B-101,S2367,Present
+04-12-2025,Thursday,16:32,16,City Center,B-101,S2334,Present
+04-12-2025,Thursday,16:45,16,South Suburb,B-303,S2528,Present
+04-12-2025,Thursday,17:05,17,City Center,B-102,S2316,Present
+04-12-2025,Thursday,16:39,16,City Center,B-102,S2283,Present
+05-12-2025,Friday,08:59,8,Express Dc,B-401,S2385,Present
+05-12-2025,Friday,09:15,9,University,B-202,S2317,Present
+05-12-2025,Friday,09:03,9,South Suburb,B-303,S2528,Present
+05-12-2025,Friday,09:11,9,South Suburb,B-303,S2181,Present
+05-12-2025,Friday,08:33,8,City Center,B-102,S2490,Present
+05-12-2025,Friday,09:12,9,City Center,B-101,S2556,Absent
+05-12-2025,Friday,09:11,9,City Center,B-101,S2232,Present
+05-12-2025,Friday,09:05,9,Express Dc,B-401,S2221,Present
+05-12-2025,Friday,08:54,8,University,B-202,S2228,Present
+05-12-2025,Friday,09:09,9,South Suburb,B-303,S2321,Present
+05-12-2025,Friday,09:00,9,University,B-202,S2331,Present
+05-12-2025,Friday,09:00,9,City Center,B-102,S2417,Present
+05-12-2025,Friday,09:09,9,City Center,B-102,S2507,Present
+05-12-2025,Friday,08:58,8,Express Dc,B-401,S2188,Present
+05-12-2025,Friday,16:51,16,University,B-202,S2362,Present
+05-12-2025,Friday,16:55,16,South Suburb,B-303,S2209,Present
+05-12-2025,Friday,16:38,16,Express Dc,B-401,S2546,Present
+05-12-2025,Friday,17:15,17,South Suburb,B-303,S2064,Present
+05-12-2025,Friday,17:05,17,City Center,B-101,S2417,Present
+05-12-2025,Friday,16:33,16,City Center,B-102,S2538,Present
+05-12-2025,Friday,17:05,17,Express Dc,B-401,S2428,Present
+05-12-2025,Friday,16:41,16,South Suburb,B-303,S2517,Present
+05-12-2025,Friday,17:13,17,University,B-202,S2199,Present
+05-12-2025,Friday,17:00,17,South Suburb,B-303,S2066,Present
+05-12-2025,Friday,16:38,16,University,B-202,S2266,Present
+08-12-2025,Monday,08:30,8,City Center,B-101,S2569,Present
+08-12-2025,Monday,08:35,8,University,B-202,S2559,Present
+08-12-2025,Monday,09:06,9,City Center,B-101,S2208,Present
+08-12-2025,Monday,08:44,8,University,B-202,S2545,Present
+08-12-2025,Monday,09:11,9,City Center,B-102,S2314,Present
+08-12-2025,Monday,08:36,8,City Center,B-101,S2143,Present
+08-12-2025,Monday,08:50,8,University,B-202,S2318,Present
+08-12-2025,Monday,09:11,9,University,B-202,S2117,Present
+08-12-2025,Monday,08:35,8,University,B-202,S2040,Present
+08-12-2025,Monday,08:41,8,University,B-202,S2587,Present
+08-12-2025,Monday,09:10,9,City Center,B-101,S2385,Present
+08-12-2025,Monday,09:08,9,University,B-202,S2440,Present
+08-12-2025,Monday,09:12,9,Express Dc,B-401,S2177,Present
+08-12-2025,Monday,09:12,9,City Center,B-102,S2567,Present
+08-12-2025,Monday,13:30,13,University,B-202,S2358,Present
+08-12-2025,Monday,16:46,16,South Suburb,B-303,S2496,Present
+08-12-2025,Monday,16:37,16,City Center,B-101,S2150,Present
+08-12-2025,Monday,17:05,17,City Center,B-101,S2449,Present
+08-12-2025,Monday,16:31,16,City Center,B-101,S2352,Present
+08-12-2025,Monday,16:46,16,City Center,B-101,S2517,Present
+08-12-2025,Monday,16:56,16,University,B-202,S2155,Present
+08-12-2025,Monday,17:00,17,South Suburb,B-303,S2271,Present
+08-12-2025,Monday,16:34,16,City Center,B-102,S2098,Absent
+08-12-2025,Monday,16:32,16,City Center,B-101,S2011,Present
+08-12-2025,Monday,17:08,17,South Suburb,B-303,S2338,Present
+08-12-2025,Monday,17:03,17,City Center,B-102,S2167,Present
+09-12-2025,Tuesday,08:57,8,Express Dc,B-401,S2387,Absent
+09-12-2025,Tuesday,08:55,8,City Center,B-102,S2123,Present
+09-12-2025,Tuesday,08:57,8,South Suburb,B-303,S2084,Absent
+09-12-2025,Tuesday,09:09,9,South Suburb,B-303,S2364,Present
+09-12-2025,Tuesday,08:58,8,University,B-202,S2199,Present
+09-12-2025,Tuesday,08:52,8,South Suburb,B-303,S2299,Present
+09-12-2025,Tuesday,09:04,9,South Suburb,B-303,S2103,Present
+09-12-2025,Tuesday,08:34,8,City Center,B-101,S2097,Present
+09-12-2025,Tuesday,08:59,8,University,B-202,S2329,Present
+09-12-2025,Tuesday,08:50,8,University,B-202,S2501,Present
+09-12-2025,Tuesday,08:57,8,University,B-202,S2540,Present
+09-12-2025,Tuesday,08:46,8,South Suburb,B-303,S2545,Present
+09-12-2025,Tuesday,08:54,8,City Center,B-101,S2087,Present
+09-12-2025,Tuesday,09:04,9,City Center,B-101,S2092,Present
+09-12-2025,Tuesday,08:37,8,City Center,B-101,S2029,Present
+09-12-2025,Tuesday,17:09,17,South Suburb,B-303,S2531,Present
+09-12-2025,Tuesday,16:44,16,South Suburb,B-303,S2057,Present
+09-12-2025,Tuesday,17:15,17,University,B-202,S2308,Present
+09-12-2025,Tuesday,17:07,17,University,B-202,S2497,Present
+09-12-2025,Tuesday,17:08,17,City Center,B-101,S2214,Present
+09-12-2025,Tuesday,16:51,16,University,B-202,S2454,Present
+09-12-2025,Tuesday,16:53,16,South Suburb,B-303,S2340,Present
+09-12-2025,Tuesday,16:40,16,University,B-202,S2378,Present
+09-12-2025,Tuesday,16:39,16,South Suburb,B-303,S2541,Present
+09-12-2025,Tuesday,17:14,17,City Center,B-102,S2364,Present
+09-12-2025,Tuesday,16:33,16,University,B-202,S2013,Present
+10-12-2025,Wednesday,08:59,8,University,B-202,S2060,Present
+10-12-2025,Wednesday,08:51,8,South Suburb,B-303,S2103,Present
+10-12-2025,Wednesday,08:34,8,University,B-202,S2234,Present
+10-12-2025,Wednesday,09:10,9,City Center,B-102,S2369,Present
+10-12-2025,Wednesday,09:05,9,University,B-202,S2104,Absent
+10-12-2025,Wednesday,09:03,9,University,B-202,S2584,Present
+10-12-2025,Wednesday,08:50,8,City Center,B-102,S2096,Present
+10-12-2025,Wednesday,08:59,8,South Suburb,B-303,S2402,Present
+10-12-2025,Wednesday,09:12,9,University,B-202,S2566,Present
+10-12-2025,Wednesday,09:10,9,University,B-202,S2267,Present
+10-12-2025,Wednesday,08:57,8,City Center,B-102,S2300,Present
+10-12-2025,Wednesday,12:58,12,University,B-202,S2292,Present
+10-12-2025,Wednesday,16:34,16,South Suburb,B-303,S2510,Present
+10-12-2025,Wednesday,16:52,16,Express Dc,B-401,S2023,Present
+10-12-2025,Wednesday,16:50,16,University,B-202,S2023,Present
+10-12-2025,Wednesday,16:31,16,University,B-202,S2560,Present
+10-12-2025,Wednesday,17:04,17,City Center,B-101,S2486,Present
+10-12-2025,Wednesday,16:30,16,University,B-202,S2248,Present
+10-12-2025,Wednesday,16:32,16,City Center,B-101,S2510,Present
+10-12-2025,Wednesday,17:03,17,University,B-202,S2578,Present
+10-12-2025,Wednesday,16:49,16,City Center,B-101,S2459,Present
+10-12-2025,Wednesday,16:39,16,University,B-202,S2541,Present
+10-12-2025,Wednesday,16:59,16,University,B-202,S2229,Present
+10-12-2025,Wednesday,16:59,16,South Suburb,B-303,S2542,Present
+11-12-2025,Thursday,09:00,9,City Center,B-102,S2376,Absent
+11-12-2025,Thursday,08:44,8,University,B-202,S2277,Present
+11-12-2025,Thursday,09:04,9,South Suburb,B-303,S2377,Absent
+11-12-2025,Thursday,08:44,8,South Suburb,B-303,S2345,Present
+11-12-2025,Thursday,08:58,8,City Center,B-101,S2320,Present
+11-12-2025,Thursday,09:03,9,City Center,B-102,S2526,Present
+11-12-2025,Thursday,09:07,9,Express Dc,B-401,S2505,Absent
+11-12-2025,Thursday,08:38,8,City Center,B-102,S2175,Present
+11-12-2025,Thursday,09:15,9,City Center,B-101,S2391,Present
+11-12-2025,Thursday,08:31,8,South Suburb,B-303,S2375,Present
+11-12-2025,Thursday,08:31,8,City Center,B-101,S2223,Present
+11-12-2025,Thursday,08:31,8,City Center,B-102,S2266,Present
+11-12-2025,Thursday,08:39,8,City Center,B-101,S2271,Present
+11-12-2025,Thursday,08:34,8,City Center,B-102,S2245,Present
+11-12-2025,Thursday,08:42,8,University,B-202,S2592,Present
+11-12-2025,Thursday,13:37,13,Express Dc,B-401,S2210,Absent
+11-12-2025,Thursday,17:00,17,City Center,B-101,S2520,Present
+11-12-2025,Thursday,16:58,16,University,B-202,S2502,Present
+11-12-2025,Thursday,16:30,16,South Suburb,B-303,S2213,Present
+11-12-2025,Thursday,16:36,16,City Center,B-102,S2594,Present
+11-12-2025,Thursday,16:34,16,South Suburb,B-303,S2023,Present
+11-12-2025,Thursday,16:49,16,South Suburb,B-303,S2380,Present
+11-12-2025,Thursday,16:59,16,South Suburb,B-303,S2036,Present
+11-12-2025,Thursday,16:56,16,University,B-202,S2273,Present
+11-12-2025,Thursday,16:49,16,City Center,B-102,S2433,Present
+11-12-2025,Thursday,16:38,16,City Center,B-102,S2445,Present
+12-12-2025,Friday,08:48,8,Express Dc,B-401,S2134,Present
+12-12-2025,Friday,09:14,9,University,B-202,S2120,Present
+12-12-2025,Friday,09:02,9,University,B-202,S2491,Absent
+12-12-2025,Friday,08:50,8,South Suburb,B-303,S2126,Present
+12-12-2025,Friday,09:09,9,City Center,B-102,S2387,Present
+12-12-2025,Friday,08:55,8,University,B-202,S2403,Present
+12-12-2025,Friday,08:32,8,University,B-202,S2256,Present
+12-12-2025,Friday,09:11,9,City Center,B-101,S2144,Present
+12-12-2025,Friday,08:59,8,City Center,B-102,S2390,Present
+12-12-2025,Friday,09:15,9,University,B-202,S2093,Present
+12-12-2025,Friday,12:11,12,South Suburb,B-303,S2116,Present
+12-12-2025,Friday,16:45,16,University,B-202,S2483,Present
+12-12-2025,Friday,16:46,16,Express Dc,B-401,S2400,Absent
+12-12-2025,Friday,16:41,16,University,B-202,S2247,Present
+12-12-2025,Friday,16:40,16,University,B-202,S2192,Present
+12-12-2025,Friday,16:43,16,South Suburb,B-303,S2490,Present
+12-12-2025,Friday,17:10,17,University,B-202,S2486,Present
+12-12-2025,Friday,17:06,17,City Center,B-102,S2472,Present
+12-12-2025,Friday,16:42,16,South Suburb,B-303,S2065,Present
+12-12-2025,Friday,17:02,17,City Center,B-102,S2335,Present
+12-12-2025,Friday,16:34,16,University,B-202,S2388,Present
+12-12-2025,Friday,16:34,16,University,B-202,S2042,Present
+12-12-2025,Friday,16:50,16,University,B-202,S2589,Present
+12-12-2025,Friday,16:36,16,University,B-202,S2227,Absent
+12-12-2025,Friday,17:13,17,City Center,B-102,S2000,Present
+15-12-2025,Monday,09:11,9,City Center,B-102,S2315,Absent
+15-12-2025,Monday,08:44,8,Express Dc,B-401,S2343,Present
+15-12-2025,Monday,09:00,9,City Center,B-102,S2386,Present
+15-12-2025,Monday,08:32,8,South Suburb,B-303,S2225,Present
+15-12-2025,Monday,09:12,9,University,B-202,S2436,Present
+15-12-2025,Monday,08:59,8,Express Dc,B-401,S2119,Present
+15-12-2025,Monday,09:07,9,City Center,B-101,S2231,Present
+15-12-2025,Monday,08:42,8,City Center,B-101,S2158,Present
+15-12-2025,Monday,09:02,9,City Center,B-101,S2203,Present
+15-12-2025,Monday,09:06,9,University,B-202,S2549,Present
+15-12-2025,Monday,08:48,8,City Center,B-102,S2110,Present
+15-12-2025,Monday,08:56,8,University,B-202,S2089,Present
+15-12-2025,Monday,08:40,8,City Center,B-101,S2600,Present
+15-12-2025,Monday,09:09,9,City Center,B-101,S2398,Present
+15-12-2025,Monday,09:14,9,City Center,B-101,S2312,Present
+15-12-2025,Monday,13:33,13,Express Dc,B-401,S2095,Present
+15-12-2025,Monday,16:53,16,University,B-202,S2513,Present
+15-12-2025,Monday,16:39,16,City Center,B-101,S2239,Absent
+15-12-2025,Monday,16:36,16,City Center,B-102,S2158,Present
+15-12-2025,Monday,16:35,16,Express Dc,B-401,S2424,Present
+15-12-2025,Monday,17:13,17,University,B-202,S2422,Present
+15-12-2025,Monday,16:58,16,South Suburb,B-303,S2265,Present
+15-12-2025,Monday,16:47,16,Express Dc,B-401,S2241,Present
+15-12-2025,Monday,16:57,16,City Center,B-101,S2305,Present
+15-12-2025,Monday,16:52,16,University,B-202,S2550,Present
+15-12-2025,Monday,16:51,16,University,B-202,S2307,Present
+15-12-2025,Monday,16:33,16,City Center,B-102,S2084,Present
+15-12-2025,Monday,16:37,16,University,B-202,S2189,Present
+15-12-2025,Monday,16:35,16,City Center,B-102,S2515,Present
+15-12-2025,Monday,16:37,16,University,B-202,S2069,Present
+16-12-2025,Tuesday,08:49,8,South Suburb,B-303,S2023,Present
+16-12-2025,Tuesday,09:09,9,South Suburb,B-303,S2525,Present
+16-12-2025,Tuesday,08:42,8,City Center,B-101,S2556,Present
+16-12-2025,Tuesday,08:43,8,City Center,B-101,S2587,Present
+16-12-2025,Tuesday,09:02,9,City Center,B-102,S2586,Present
+16-12-2025,Tuesday,09:04,9,City Center,B-101,S2110,Present
+16-12-2025,Tuesday,09:08,9,City Center,B-101,S2350,Present
+16-12-2025,Tuesday,09:15,9,City Center,B-101,S2379,Present
+16-12-2025,Tuesday,08:37,8,South Suburb,B-303,S2140,Present
+16-12-2025,Tuesday,09:06,9,University,B-202,S2114,Present
+16-12-2025,Tuesday,09:09,9,University,B-202,S2041,Present
+16-12-2025,Tuesday,08:48,8,University,B-202,S2250,Present
+16-12-2025,Tuesday,17:05,17,City Center,B-101,S2557,Present
+16-12-2025,Tuesday,17:11,17,City Center,B-102,S2044,Present
+16-12-2025,Tuesday,16:44,16,City Center,B-102,S2473,Present
+16-12-2025,Tuesday,16:39,16,City Center,B-101,S2484,Present
+16-12-2025,Tuesday,16:50,16,University,B-202,S2179,Present
+16-12-2025,Tuesday,16:49,16,University,B-202,S2370,Present
+16-12-2025,Tuesday,16:57,16,South Suburb,B-303,S2564,Present
+16-12-2025,Tuesday,16:31,16,University,B-202,S2399,Absent
+16-12-2025,Tuesday,16:44,16,University,B-202,S2578,Present
+16-12-2025,Tuesday,16:42,16,Express Dc,B-401,S2408,Present
+16-12-2025,Tuesday,17:13,17,University,B-202,S2155,Present
+16-12-2025,Tuesday,16:39,16,University,B-202,S2269,Present
+16-12-2025,Tuesday,16:35,16,City Center,B-102,S2292,Present
+16-12-2025,Tuesday,16:50,16,University,B-202,S2046,Present
+17-12-2025,Wednesday,09:03,9,Express Dc,B-401,S2321,Present
+17-12-2025,Wednesday,08:57,8,City Center,B-102,S2506,Present
+17-12-2025,Wednesday,08:45,8,South Suburb,B-303,S2050,Present
+17-12-2025,Wednesday,09:10,9,University,B-202,S2192,Present
+17-12-2025,Wednesday,08:47,8,South Suburb,B-303,S2359,Present
+17-12-2025,Wednesday,08:34,8,University,B-202,S2432,Present
+17-12-2025,Wednesday,08:38,8,University,B-202,S2103,Present
+17-12-2025,Wednesday,09:02,9,University,B-202,S2471,Present
+17-12-2025,Wednesday,08:32,8,City Center,B-101,S2519,Present
+17-12-2025,Wednesday,08:46,8,Express Dc,B-401,S2034,Absent
+17-12-2025,Wednesday,17:06,17,Express Dc,B-401,S2537,Present
+17-12-2025,Wednesday,16:47,16,South Suburb,B-303,S2186,Present
+17-12-2025,Wednesday,16:57,16,University,B-202,S2128,Present
+17-12-2025,Wednesday,16:38,16,City Center,B-101,S2298,Present
+17-12-2025,Wednesday,16:35,16,University,B-202,S2452,Present
+17-12-2025,Wednesday,16:57,16,University,B-202,S2359,Present
+17-12-2025,Wednesday,16:54,16,City Center,B-101,S2119,Present
+17-12-2025,Wednesday,16:57,16,University,B-202,S2422,Present
+17-12-2025,Wednesday,17:13,17,City Center,B-101,S2405,Present
+17-12-2025,Wednesday,16:57,16,City Center,B-101,S2367,Present
+17-12-2025,Wednesday,17:05,17,South Suburb,B-303,S2051,Present
+18-12-2025,Thursday,08:48,8,South Suburb,B-303,S2265,Present
+18-12-2025,Thursday,08:40,8,Express Dc,B-401,S2303,Present
+18-12-2025,Thursday,09:13,9,Express Dc,B-401,S2054,Present
+18-12-2025,Thursday,08:56,8,City Center,B-102,S2147,Present
+18-12-2025,Thursday,08:41,8,Express Dc,B-401,S2107,Present
+18-12-2025,Thursday,08:31,8,South Suburb,B-303,S2582,Present
+18-12-2025,Thursday,09:14,9,University,B-202,S2461,Present
+18-12-2025,Thursday,08:36,8,Express Dc,B-401,S2054,Present
+18-12-2025,Thursday,08:40,8,City Center,B-101,S2491,Present
+18-12-2025,Thursday,08:30,8,City Center,B-102,S2044,Present
+18-12-2025,Thursday,08:32,8,South Suburb,B-303,S2507,Present
+18-12-2025,Thursday,09:07,9,City Center,B-102,S2586,Present
+18-12-2025,Thursday,08:39,8,City Center,B-101,S2063,Absent
+18-12-2025,Thursday,16:50,16,Express Dc,B-401,S2021,Present
+18-12-2025,Thursday,17:09,17,University,B-202,S2449,Present
+18-12-2025,Thursday,16:58,16,Express Dc,B-401,S2105,Present
+18-12-2025,Thursday,17:03,17,Express Dc,B-401,S2553,Present
+18-12-2025,Thursday,16:51,16,University,B-202,S2394,Present
+18-12-2025,Thursday,17:10,17,City Center,B-101,S2045,Present
+18-12-2025,Thursday,17:05,17,University,B-202,S2180,Present
+18-12-2025,Thursday,17:07,17,South Suburb,B-303,S2542,Present
+18-12-2025,Thursday,16:59,16,Express Dc,B-401,S2295,Present
+18-12-2025,Thursday,17:01,17,University,B-202,S2452,Present
+18-12-2025,Thursday,17:09,17,University,B-202,S2157,Present
+18-12-2025,Thursday,16:49,16,City Center,B-102,S2244,Present
+18-12-2025,Thursday,17:07,17,Express Dc,B-401,S2530,Present
+19-12-2025,Friday,08:58,8,South Suburb,B-303,S2348,Present
+19-12-2025,Friday,08:51,8,City Center,B-102,S2569,Present
+19-12-2025,Friday,09:05,9,University,B-202,S2167,Present
+19-12-2025,Friday,08:31,8,City Center,B-101,S2254,Absent
+19-12-2025,Friday,08:59,8,Express Dc,B-401,S2232,Present
+19-12-2025,Friday,09:02,9,City Center,B-101,S2584,Present
+19-12-2025,Friday,08:35,8,City Center,B-101,S2223,Present
+19-12-2025,Friday,08:45,8,City Center,B-102,S2220,Present
+19-12-2025,Friday,08:39,8,Express Dc,B-401,S2151,Present
+19-12-2025,Friday,08:47,8,University,B-202,S2342,Present
+19-12-2025,Friday,08:51,8,Express Dc,B-401,S2157,Present
+19-12-2025,Friday,08:57,8,City Center,B-102,S2156,Present
+19-12-2025,Friday,08:49,8,South Suburb,B-303,S2153,Present
+19-12-2025,Friday,08:57,8,University,B-202,S2432,Present
+19-12-2025,Friday,08:33,8,University,B-202,S2141,Present
+19-12-2025,Friday,16:34,16,City Center,B-101,S2204,Present
+19-12-2025,Friday,16:39,16,South Suburb,B-303,S2193,Present
+19-12-2025,Friday,16:41,16,South Suburb,B-303,S2307,Present
+19-12-2025,Friday,16:37,16,City Center,B-101,S2000,Present
+19-12-2025,Friday,17:11,17,South Suburb,B-303,S2181,Absent
+19-12-2025,Friday,17:14,17,Express Dc,B-401,S2582,Present
+19-12-2025,Friday,16:44,16,University,B-202,S2474,Present
+19-12-2025,Friday,17:02,17,South Suburb,B-303,S2070,Present
+19-12-2025,Friday,16:36,16,Express Dc,B-401,S2220,Present
+19-12-2025,Friday,17:04,17,South Suburb,B-303,S2377,Present
+19-12-2025,Friday,17:01,17,University,B-202,S2492,Present
+19-12-2025,Friday,17:11,17,University,B-202,S2542,Present
+19-12-2025,Friday,16:37,16,University,B-202,S2553,Present
+19-12-2025,Friday,17:10,17,City Center,B-101,S2533,Present
+19-12-2025,Friday,16:37,16,City Center,B-102,S2131,Present
+22-12-2025,Monday,08:57,8,Express Dc,B-401,S2517,Present
+22-12-2025,Monday,09:04,9,City Center,B-101,S2319,Present
+22-12-2025,Monday,08:55,8,South Suburb,B-303,S2186,Present
+22-12-2025,Monday,08:52,8,University,B-202,S2558,Present
+22-12-2025,Monday,08:34,8,South Suburb,B-303,S2109,Present
+22-12-2025,Monday,08:33,8,University,B-202,S2096,Present
+22-12-2025,Monday,08:53,8,University,B-202,S2402,Present
+22-12-2025,Monday,08:47,8,University,B-202,S2333,Absent
+22-12-2025,Monday,08:48,8,South Suburb,B-303,S2101,Absent
+22-12-2025,Monday,08:35,8,University,B-202,S2490,Present
+22-12-2025,Monday,08:53,8,Express Dc,B-401,S2122,Present
+22-12-2025,Monday,08:43,8,City Center,B-102,S2307,Present
+22-12-2025,Monday,16:55,16,University,B-202,S2286,Present
+22-12-2025,Monday,16:53,16,City Center,B-102,S2243,Present
+22-12-2025,Monday,16:40,16,Express Dc,B-401,S2065,Present
+22-12-2025,Monday,16:32,16,South Suburb,B-303,S2379,Present
+22-12-2025,Monday,17:12,17,Express Dc,B-401,S2060,Present
+22-12-2025,Monday,17:09,17,South Suburb,B-303,S2017,Present
+22-12-2025,Monday,17:10,17,City Center,B-101,S2152,Present
+22-12-2025,Monday,17:03,17,City Center,B-102,S2326,Present
+22-12-2025,Monday,17:09,17,Express Dc,B-401,S2252,Present
+22-12-2025,Monday,17:08,17,University,B-202,S2096,Present
+22-12-2025,Monday,17:15,17,Express Dc,B-401,S2448,Present
+22-12-2025,Monday,17:08,17,South Suburb,B-303,S2046,Absent
+22-12-2025,Monday,17:13,17,City Center,B-102,S2123,Present
+22-12-2025,Monday,16:37,16,South Suburb,B-303,S2095,Present
+23-12-2025,Tuesday,08:56,8,City Center,B-102,S2425,Present
+23-12-2025,Tuesday,08:56,8,City Center,B-102,S2305,Absent
+23-12-2025,Tuesday,08:53,8,University,B-202,S2242,Present
+23-12-2025,Tuesday,08:44,8,University,B-202,S2178,Present
+23-12-2025,Tuesday,08:45,8,City Center,B-102,S2039,Present
+23-12-2025,Tuesday,09:15,9,University,B-202,S2124,Present
+23-12-2025,Tuesday,08:36,8,City Center,B-101,S2562,Present
+23-12-2025,Tuesday,08:33,8,University,B-202,S2091,Present
+23-12-2025,Tuesday,08:50,8,Express Dc,B-401,S2113,Present
+23-12-2025,Tuesday,08:50,8,University,B-202,S2177,Present
+23-12-2025,Tuesday,09:12,9,City Center,B-102,S2030,Present
+23-12-2025,Tuesday,08:36,8,South Suburb,B-303,S2484,Present
+23-12-2025,Tuesday,08:52,8,University,B-202,S2084,Present
+23-12-2025,Tuesday,08:51,8,University,B-202,S2191,Absent
+23-12-2025,Tuesday,08:51,8,City Center,B-101,S2457,Present
+23-12-2025,Tuesday,16:39,16,City Center,B-102,S2122,Present
+23-12-2025,Tuesday,16:38,16,South Suburb,B-303,S2181,Present
+23-12-2025,Tuesday,16:30,16,City Center,B-102,S2499,Present
+23-12-2025,Tuesday,16:33,16,University,B-202,S2177,Present
+23-12-2025,Tuesday,16:47,16,City Center,B-101,S2059,Present
+23-12-2025,Tuesday,16:43,16,City Center,B-101,S2347,Present
+23-12-2025,Tuesday,16:54,16,University,B-202,S2137,Present
+23-12-2025,Tuesday,17:07,17,University,B-202,S2159,Present
+23-12-2025,Tuesday,16:30,16,City Center,B-102,S2238,Present
+23-12-2025,Tuesday,17:01,17,City Center,B-102,S2055,Present
+23-12-2025,Tuesday,17:00,17,City Center,B-102,S2521,Present
+23-12-2025,Tuesday,16:31,16,City Center,B-101,S2314,Present
+23-12-2025,Tuesday,16:40,16,City Center,B-102,S2129,Present
+23-12-2025,Tuesday,17:05,17,University,B-202,S2267,Present
+24-12-2025,Wednesday,08:56,8,University,B-202,S2403,Present
+24-12-2025,Wednesday,09:08,9,South Suburb,B-303,S2152,Present
+24-12-2025,Wednesday,08:58,8,City Center,B-101,S2177,Present
+24-12-2025,Wednesday,08:44,8,University,B-202,S2286,Present
+24-12-2025,Wednesday,09:12,9,City Center,B-101,S2059,Present
+24-12-2025,Wednesday,08:49,8,City Center,B-102,S2591,Present
+24-12-2025,Wednesday,08:37,8,City Center,B-101,S2237,Present
+24-12-2025,Wednesday,08:43,8,City Center,B-102,S2412,Present
+24-12-2025,Wednesday,09:08,9,City Center,B-102,S2548,Present
+24-12-2025,Wednesday,09:09,9,University,B-202,S2353,Present
+24-12-2025,Wednesday,09:00,9,South Suburb,B-303,S2445,Absent
+24-12-2025,Wednesday,12:29,12,Express Dc,B-401,S2274,Present
+24-12-2025,Wednesday,17:07,17,Express Dc,B-401,S2348,Present
+24-12-2025,Wednesday,17:13,17,University,B-202,S2380,Present
+24-12-2025,Wednesday,17:00,17,City Center,B-102,S2126,Present
+24-12-2025,Wednesday,17:02,17,University,B-202,S2550,Present
+24-12-2025,Wednesday,16:46,16,Express Dc,B-401,S2471,Present
+24-12-2025,Wednesday,16:31,16,City Center,B-101,S2227,Present
+24-12-2025,Wednesday,16:48,16,City Center,B-102,S2503,Present
+24-12-2025,Wednesday,16:41,16,University,B-202,S2305,Present
+24-12-2025,Wednesday,17:06,17,City Center,B-102,S2245,Present
+24-12-2025,Wednesday,16:43,16,City Center,B-102,S2311,Present
+24-12-2025,Wednesday,16:45,16,Express Dc,B-401,S2026,Present
+24-12-2025,Wednesday,16:45,16,University,B-202,S2443,Present
+24-12-2025,Wednesday,16:57,16,South Suburb,B-303,S2584,Present
+24-12-2025,Wednesday,16:52,16,South Suburb,B-303,S2010,Present
+25-12-2025,Thursday,09:04,9,University,B-202,S2046,Present
+25-12-2025,Thursday,08:55,8,City Center,B-102,S2266,Present
+25-12-2025,Thursday,09:15,9,Express Dc,B-401,S2449,Present
+25-12-2025,Thursday,09:07,9,South Suburb,B-303,S2000,Present
+25-12-2025,Thursday,08:31,8,City Center,B-101,S2418,Present
+25-12-2025,Thursday,08:56,8,City Center,B-102,S2152,Present
+25-12-2025,Thursday,09:14,9,City Center,B-102,S2344,Present
+25-12-2025,Thursday,09:15,9,University,B-202,S2334,Present
+25-12-2025,Thursday,08:39,8,University,B-202,S2020,Present
+25-12-2025,Thursday,08:56,8,City Center,B-101,S2143,Present
+25-12-2025,Thursday,09:02,9,City Center,B-101,S2231,Present
+25-12-2025,Thursday,09:13,9,City Center,B-102,S2140,Present
+25-12-2025,Thursday,08:47,8,City Center,B-101,S2377,Present
+25-12-2025,Thursday,08:34,8,City Center,B-101,S2426,Absent
+25-12-2025,Thursday,16:40,16,City Center,B-102,S2402,Present
+25-12-2025,Thursday,17:05,17,Express Dc,B-401,S2538,Present
+25-12-2025,Thursday,16:39,16,South Suburb,B-303,S2541,Present
+25-12-2025,Thursday,17:13,17,Express Dc,B-401,S2449,Present
+25-12-2025,Thursday,16:59,16,South Suburb,B-303,S2135,Absent
+25-12-2025,Thursday,16:54,16,City Center,B-101,S2157,Present
+25-12-2025,Thursday,16:51,16,University,B-202,S2278,Present
+25-12-2025,Thursday,16:39,16,City Center,B-101,S2546,Present
+25-12-2025,Thursday,16:53,16,City Center,B-101,S2124,Present
+25-12-2025,Thursday,16:35,16,South Suburb,B-303,S2137,Present
+26-12-2025,Friday,09:12,9,University,B-202,S2500,Present
+26-12-2025,Friday,09:08,9,South Suburb,B-303,S2008,Present
+26-12-2025,Friday,08:43,8,South Suburb,B-303,S2033,Present
+26-12-2025,Friday,08:45,8,South Suburb,B-303,S2336,Present
+26-12-2025,Friday,08:50,8,City Center,B-101,S2217,Present
+26-12-2025,Friday,09:12,9,University,B-202,S2481,Present
+26-12-2025,Friday,09:01,9,City Center,B-101,S2276,Present
+26-12-2025,Friday,08:31,8,South Suburb,B-303,S2203,Present
+26-12-2025,Friday,09:00,9,Express Dc,B-401,S2208,Present
+26-12-2025,Friday,09:13,9,City Center,B-102,S2540,Present
+26-12-2025,Friday,17:05,17,City Center,B-102,S2166,Present
+26-12-2025,Friday,16:41,16,City Center,B-102,S2068,Present
+26-12-2025,Friday,16:36,16,University,B-202,S2397,Present
+26-12-2025,Friday,16:38,16,University,B-202,S2320,Present
+26-12-2025,Friday,16:36,16,City Center,B-102,S2522,Present
+26-12-2025,Friday,17:11,17,South Suburb,B-303,S2493,Present
+26-12-2025,Friday,16:34,16,South Suburb,B-303,S2253,Present
+26-12-2025,Friday,16:49,16,City Center,B-101,S2038,Present
+26-12-2025,Friday,16:57,16,South Suburb,B-303,S2130,Present
+26-12-2025,Friday,16:38,16,City Center,B-102,S2393,Present
+26-12-2025,Friday,16:37,16,University,B-202,S2283,Present
+26-12-2025,Friday,16:56,16,University,B-202,S2584,Present
+26-12-2025,Friday,16:40,16,City Center,B-101,S2587,Present
+29-12-2025,Monday,08:43,8,City Center,B-101,S2349,Present
+29-12-2025,Monday,08:30,8,Express Dc,B-401,S2512,Present
+29-12-2025,Monday,09:11,9,City Center,B-102,S2106,Absent
+29-12-2025,Monday,08:36,8,City Center,B-101,S2362,Present
+29-12-2025,Monday,09:09,9,City Center,B-102,S2037,Present
+29-12-2025,Monday,08:31,8,City Center,B-102,S2573,Present
+29-12-2025,Monday,09:10,9,City Center,B-101,S2597,Present
+29-12-2025,Monday,08:57,8,City Center,B-102,S2463,Present
+29-12-2025,Monday,08:50,8,University,B-202,S2136,Present
+29-12-2025,Monday,09:13,9,Express Dc,B-401,S2091,Present
+29-12-2025,Monday,17:11,17,City Center,B-102,S2205,Present
+29-12-2025,Monday,17:12,17,University,B-202,S2460,Present
+29-12-2025,Monday,16:44,16,Express Dc,B-401,S2481,Present
+29-12-2025,Monday,17:04,17,City Center,B-101,S2293,Present
+29-12-2025,Monday,16:38,16,University,B-202,S2319,Present
+29-12-2025,Monday,16:33,16,City Center,B-101,S2325,Present
+29-12-2025,Monday,17:14,17,City Center,B-102,S2231,Present
+29-12-2025,Monday,16:40,16,Express Dc,B-401,S2552,Present
+29-12-2025,Monday,17:08,17,City Center,B-101,S2231,Present
+29-12-2025,Monday,17:11,17,City Center,B-101,S2155,Present
+29-12-2025,Monday,17:01,17,City Center,B-101,S2299,Present
+30-12-2025,Tuesday,09:06,9,South Suburb,B-303,S2140,Present
+30-12-2025,Tuesday,08:40,8,University,B-202,S2370,Present
+30-12-2025,Tuesday,08:41,8,South Suburb,B-303,S2579,Present
+30-12-2025,Tuesday,08:53,8,South Suburb,B-303,S2339,Present
+30-12-2025,Tuesday,09:15,9,University,B-202,S2309,Present
+30-12-2025,Tuesday,08:39,8,South Suburb,B-303,S2093,Present
+30-12-2025,Tuesday,08:31,8,University,B-202,S2453,Present
+30-12-2025,Tuesday,08:34,8,South Suburb,B-303,S2010,Present
+30-12-2025,Tuesday,08:51,8,City Center,B-102,S2364,Present
+30-12-2025,Tuesday,09:12,9,City Center,B-101,S2236,Present
+30-12-2025,Tuesday,08:57,8,South Suburb,B-303,S2135,Present
+30-12-2025,Tuesday,08:45,8,South Suburb,B-303,S2573,Present
+30-12-2025,Tuesday,16:59,16,University,B-202,S2300,Present
+30-12-2025,Tuesday,16:52,16,City Center,B-101,S2063,Present
+30-12-2025,Tuesday,17:06,17,South Suburb,B-303,S2333,Present
+30-12-2025,Tuesday,16:34,16,Express Dc,B-401,S2025,Present
+30-12-2025,Tuesday,16:58,16,City Center,B-101,S2541,Present
+30-12-2025,Tuesday,16:50,16,City Center,B-101,S2418,Absent
+30-12-2025,Tuesday,17:10,17,University,B-202,S2166,Present
+30-12-2025,Tuesday,16:37,16,South Suburb,B-303,S2256,Absent
+30-12-2025,Tuesday,17:01,17,City Center,B-102,S2080,Present
+30-12-2025,Tuesday,16:58,16,City Center,B-101,S2307,Present
+31-12-2025,Wednesday,08:46,8,City Center,B-102,S2224,Present
+31-12-2025,Wednesday,08:50,8,City Center,B-101,S2173,Present
+31-12-2025,Wednesday,08:44,8,City Center,B-102,S2418,Present
+31-12-2025,Wednesday,09:06,9,University,B-202,S2334,Present
+31-12-2025,Wednesday,08:34,8,South Suburb,B-303,S2055,Present
+31-12-2025,Wednesday,08:58,8,South Suburb,B-303,S2070,Present
+31-12-2025,Wednesday,08:40,8,University,B-202,S2550,Present
+31-12-2025,Wednesday,09:10,9,City Center,B-101,S2569,Present
+31-12-2025,Wednesday,08:39,8,Express Dc,B-401,S2110,Present
+31-12-2025,Wednesday,09:05,9,University,B-202,S2151,Present
+31-12-2025,Wednesday,08:52,8,South Suburb,B-303,S2541,Present
+31-12-2025,Wednesday,08:40,8,South Suburb,B-303,S2035,Present
+31-12-2025,Wednesday,08:44,8,City Center,B-102,S2413,Present
+31-12-2025,Wednesday,08:37,8,University,B-202,S2472,Present
+31-12-2025,Wednesday,09:14,9,City Center,B-102,S2295,Present
+31-12-2025,Wednesday,12:02,12,City Center,B-102,S2303,Present
+31-12-2025,Wednesday,16:51,16,University,B-202,S2508,Present
+31-12-2025,Wednesday,16:43,16,City Center,B-101,S2265,Present
+31-12-2025,Wednesday,17:14,17,City Center,B-101,S2387,Present
+31-12-2025,Wednesday,17:15,17,City Center,B-102,S2484,Present
+31-12-2025,Wednesday,16:49,16,City Center,B-101,S2401,Absent
+31-12-2025,Wednesday,16:36,16,City Center,B-102,S2268,Present
+31-12-2025,Wednesday,17:10,17,City Center,B-102,S2056,Present
+31-12-2025,Wednesday,16:42,16,University,B-202,S2236,Present
+31-12-2025,Wednesday,17:06,17,University,B-202,S2551,Present
+31-12-2025,Wednesday,16:53,16,University,B-202,S2106,Present
+31-12-2025,Wednesday,17:07,17,University,B-202,S2598,Absent
+31-12-2025,Wednesday,17:15,17,South Suburb,B-303,S2533,Present
+31-12-2025,Wednesday,17:05,17,University,B-202,S2429,Present
+01-01-2026,Thursday,08:51,8,Express Dc,B-401,S2329,Present
+01-01-2026,Thursday,08:57,8,South Suburb,B-303,S2036,Present
+01-01-2026,Thursday,08:35,8,City Center,B-101,S2567,Present
+01-01-2026,Thursday,08:49,8,University,B-202,S2487,Absent
+01-01-2026,Thursday,09:02,9,Express Dc,B-401,S2135,Present
+01-01-2026,Thursday,09:06,9,City Center,B-102,S2598,Present
+01-01-2026,Thursday,09:10,9,Express Dc,B-401,S2131,Absent
+01-01-2026,Thursday,09:02,9,University,B-202,S2595,Present
+01-01-2026,Thursday,08:40,8,Express Dc,B-401,S2056,Absent
+01-01-2026,Thursday,09:04,9,University,B-202,S2153,Present
+01-01-2026,Thursday,08:49,8,South Suburb,B-303,S2502,Present
+01-01-2026,Thursday,17:03,17,Express Dc,B-401,S2304,Present
+01-01-2026,Thursday,16:53,16,University,B-202,S2482,Present
+01-01-2026,Thursday,16:49,16,South Suburb,B-303,S2533,Present
+01-01-2026,Thursday,16:57,16,University,B-202,S2345,Present
+01-01-2026,Thursday,16:34,16,Express Dc,B-401,S2292,Present
+01-01-2026,Thursday,16:44,16,City Center,B-102,S2234,Present
+01-01-2026,Thursday,16:34,16,City Center,B-101,S2549,Present
+01-01-2026,Thursday,16:49,16,City Center,B-101,S2026,Present
+01-01-2026,Thursday,17:09,17,Express Dc,B-401,S2099,Absent
+01-01-2026,Thursday,16:52,16,City Center,B-102,S2442,Present
+01-01-2026,Thursday,16:57,16,University,B-202,S2118,Present
+01-01-2026,Thursday,16:57,16,City Center,B-102,S2361,Present
+01-01-2026,Thursday,17:09,17,South Suburb,B-303,S2032,Absent
+02-01-2026,Friday,08:56,8,City Center,B-101,S2114,Present
+02-01-2026,Friday,08:46,8,University,B-202,S2484,Present
+02-01-2026,Friday,09:02,9,South Suburb,B-303,S2098,Present
+02-01-2026,Friday,08:35,8,Express Dc,B-401,S2157,Present
+02-01-2026,Friday,09:08,9,City Center,B-102,S2589,Present
+02-01-2026,Friday,08:34,8,South Suburb,B-303,S2375,Present
+02-01-2026,Friday,08:48,8,City Center,B-101,S2010,Present
+02-01-2026,Friday,09:04,9,South Suburb,B-303,S2519,Present
+02-01-2026,Friday,08:53,8,City Center,B-101,S2002,Present
+02-01-2026,Friday,08:41,8,South Suburb,B-303,S2191,Present
+02-01-2026,Friday,08:35,8,University,B-202,S2330,Present
+02-01-2026,Friday,13:28,13,Express Dc,B-401,S2263,Present
+02-01-2026,Friday,16:58,16,Express Dc,B-401,S2467,Present
+02-01-2026,Friday,16:44,16,University,B-202,S2520,Present
+02-01-2026,Friday,17:00,17,City Center,B-101,S2302,Present
+02-01-2026,Friday,16:58,16,City Center,B-102,S2216,Present
+02-01-2026,Friday,16:51,16,City Center,B-102,S2383,Present
+02-01-2026,Friday,16:38,16,South Suburb,B-303,S2292,Present
+02-01-2026,Friday,16:45,16,University,B-202,S2261,Present
+02-01-2026,Friday,16:36,16,City Center,B-102,S2383,Present
+02-01-2026,Friday,17:00,17,South Suburb,B-303,S2424,Present
+02-01-2026,Friday,16:54,16,University,B-202,S2180,Present
+02-01-2026,Friday,17:04,17,City Center,B-101,S2195,Absent
+02-01-2026,Friday,16:53,16,City Center,B-101,S2497,Present
+02-01-2026,Friday,16:33,16,City Center,B-101,S2128,Present
+02-01-2026,Friday,16:41,16,University,B-202,S2304,Present
+05-01-2026,Monday,08:53,8,South Suburb,B-303,S2128,Present
+05-01-2026,Monday,08:59,8,Express Dc,B-401,S2274,Present
+05-01-2026,Monday,08:59,8,University,B-202,S2154,Present
+05-01-2026,Monday,09:07,9,University,B-202,S2194,Present
+05-01-2026,Monday,08:30,8,Express Dc,B-401,S2165,Present
+05-01-2026,Monday,08:39,8,Express Dc,B-401,S2548,Present
+05-01-2026,Monday,08:32,8,City Center,B-102,S2582,Present
+05-01-2026,Monday,08:32,8,Express Dc,B-401,S2574,Present
+05-01-2026,Monday,08:36,8,City Center,B-101,S2465,Present
+05-01-2026,Monday,08:32,8,City Center,B-101,S2587,Present
+05-01-2026,Monday,08:45,8,City Center,B-102,S2490,Present
+05-01-2026,Monday,08:54,8,City Center,B-101,S2256,Present
+05-01-2026,Monday,08:37,8,City Center,B-101,S2276,Present
+05-01-2026,Monday,12:26,12,South Suburb,B-303,S2498,Present
+05-01-2026,Monday,17:03,17,South Suburb,B-303,S2227,Present
+05-01-2026,Monday,16:56,16,University,B-202,S2548,Present
+05-01-2026,Monday,17:09,17,University,B-202,S2067,Present
+05-01-2026,Monday,16:54,16,South Suburb,B-303,S2189,Present
+05-01-2026,Monday,16:49,16,University,B-202,S2117,Present
+05-01-2026,Monday,16:43,16,University,B-202,S2013,Present
+05-01-2026,Monday,16:50,16,City Center,B-102,S2045,Present
+05-01-2026,Monday,16:34,16,South Suburb,B-303,S2482,Present
+05-01-2026,Monday,16:59,16,City Center,B-101,S2465,Present
+05-01-2026,Monday,17:07,17,City Center,B-101,S2372,Present
+05-01-2026,Monday,17:10,17,University,B-202,S2013,Present
+05-01-2026,Monday,16:31,16,City Center,B-101,S2279,Present
+06-01-2026,Tuesday,08:48,8,South Suburb,B-303,S2202,Present
+06-01-2026,Tuesday,08:30,8,South Suburb,B-303,S2568,Present
+06-01-2026,Tuesday,08:34,8,City Center,B-102,S2392,Present
+06-01-2026,Tuesday,09:15,9,University,B-202,S2123,Present
+06-01-2026,Tuesday,08:41,8,University,B-202,S2172,Present
+06-01-2026,Tuesday,08:49,8,City Center,B-102,S2065,Present
+06-01-2026,Tuesday,09:02,9,City Center,B-102,S2375,Present
+06-01-2026,Tuesday,09:11,9,South Suburb,B-303,S2102,Present
+06-01-2026,Tuesday,08:30,8,University,B-202,S2596,Present
+06-01-2026,Tuesday,08:36,8,City Center,B-101,S2368,Present
+06-01-2026,Tuesday,09:08,9,University,B-202,S2473,Present
+06-01-2026,Tuesday,08:53,8,South Suburb,B-303,S2524,Present
+06-01-2026,Tuesday,08:46,8,City Center,B-101,S2033,Present
+06-01-2026,Tuesday,08:39,8,City Center,B-102,S2550,Present
+06-01-2026,Tuesday,08:45,8,University,B-202,S2509,Present
+06-01-2026,Tuesday,12:35,12,University,B-202,S2440,Present
+06-01-2026,Tuesday,16:47,16,University,B-202,S2578,Present
+06-01-2026,Tuesday,17:02,17,City Center,B-102,S2024,Present
+06-01-2026,Tuesday,16:51,16,City Center,B-101,S2495,Present
+06-01-2026,Tuesday,16:53,16,City Center,B-101,S2024,Present
+06-01-2026,Tuesday,17:04,17,South Suburb,B-303,S2131,Present
+06-01-2026,Tuesday,17:10,17,Express Dc,B-401,S2085,Present
+06-01-2026,Tuesday,16:51,16,University,B-202,S2321,Present
+06-01-2026,Tuesday,16:42,16,University,B-202,S2403,Present
+06-01-2026,Tuesday,17:11,17,City Center,B-102,S2072,Present
+06-01-2026,Tuesday,16:58,16,South Suburb,B-303,S2032,Present
+06-01-2026,Tuesday,16:56,16,South Suburb,B-303,S2024,Present
+06-01-2026,Tuesday,16:49,16,City Center,B-101,S2052,Present
+06-01-2026,Tuesday,16:40,16,City Center,B-102,S2201,Present
+06-01-2026,Tuesday,17:00,17,South Suburb,B-303,S2215,Present
+07-01-2026,Wednesday,08:33,8,City Center,B-101,S2334,Present
+07-01-2026,Wednesday,08:43,8,City Center,B-101,S2123,Present
+07-01-2026,Wednesday,08:42,8,University,B-202,S2177,Present
+07-01-2026,Wednesday,08:36,8,City Center,B-102,S2211,Present
+07-01-2026,Wednesday,08:46,8,South Suburb,B-303,S2047,Present
+07-01-2026,Wednesday,09:07,9,University,B-202,S2560,Present
+07-01-2026,Wednesday,08:57,8,Express Dc,B-401,S2548,Present
+07-01-2026,Wednesday,08:45,8,South Suburb,B-303,S2111,Present
+07-01-2026,Wednesday,09:06,9,City Center,B-102,S2210,Present
+07-01-2026,Wednesday,08:59,8,City Center,B-102,S2203,Present
+07-01-2026,Wednesday,09:13,9,University,B-202,S2493,Present
+07-01-2026,Wednesday,08:54,8,University,B-202,S2231,Present
+07-01-2026,Wednesday,08:30,8,University,B-202,S2511,Present
+07-01-2026,Wednesday,08:46,8,South Suburb,B-303,S2079,Present
+07-01-2026,Wednesday,17:07,17,City Center,B-101,S2067,Present
+07-01-2026,Wednesday,17:09,17,University,B-202,S2510,Present
+07-01-2026,Wednesday,16:47,16,Express Dc,B-401,S2085,Present
+07-01-2026,Wednesday,16:38,16,Express Dc,B-401,S2156,Present
+07-01-2026,Wednesday,16:45,16,City Center,B-101,S2456,Present
+07-01-2026,Wednesday,16:55,16,University,B-202,S2296,Present
+07-01-2026,Wednesday,17:06,17,University,B-202,S2526,Present
+07-01-2026,Wednesday,16:39,16,City Center,B-102,S2157,Present
+07-01-2026,Wednesday,17:08,17,University,B-202,S2584,Present
+07-01-2026,Wednesday,16:55,16,City Center,B-102,S2334,Present
+07-01-2026,Wednesday,17:01,17,City Center,B-101,S2040,Present
+07-01-2026,Wednesday,16:32,16,City Center,B-101,S2414,Present
+08-01-2026,Thursday,08:54,8,University,B-202,S2096,Absent
+08-01-2026,Thursday,08:41,8,South Suburb,B-303,S2591,Present
+08-01-2026,Thursday,08:57,8,City Center,B-101,S2391,Absent
+08-01-2026,Thursday,08:56,8,City Center,B-102,S2372,Present
+08-01-2026,Thursday,09:12,9,University,B-202,S2357,Present
+08-01-2026,Thursday,08:30,8,University,B-202,S2444,Present
+08-01-2026,Thursday,09:02,9,City Center,B-102,S2362,Present
+08-01-2026,Thursday,08:41,8,City Center,B-102,S2510,Present
+08-01-2026,Thursday,08:49,8,University,B-202,S2278,Present
+08-01-2026,Thursday,08:42,8,City Center,B-102,S2225,Present
+08-01-2026,Thursday,13:12,13,City Center,B-102,S2549,Present
+08-01-2026,Thursday,16:47,16,South Suburb,B-303,S2257,Present
+08-01-2026,Thursday,17:13,17,Express Dc,B-401,S2166,Present
+08-01-2026,Thursday,17:01,17,University,B-202,S2043,Present
+08-01-2026,Thursday,16:51,16,University,B-202,S2453,Present
+08-01-2026,Thursday,16:33,16,Express Dc,B-401,S2480,Present
+08-01-2026,Thursday,16:46,16,South Suburb,B-303,S2231,Present
+08-01-2026,Thursday,16:48,16,South Suburb,B-303,S2473,Present
+08-01-2026,Thursday,17:03,17,City Center,B-101,S2291,Present
+08-01-2026,Thursday,17:02,17,South Suburb,B-303,S2503,Present
+08-01-2026,Thursday,17:05,17,City Center,B-101,S2433,Present
+09-01-2026,Friday,09:00,9,City Center,B-101,S2359,Present
+09-01-2026,Friday,08:58,8,Express Dc,B-401,S2239,Present
+09-01-2026,Friday,08:57,8,South Suburb,B-303,S2452,Present
+09-01-2026,Friday,08:51,8,Express Dc,B-401,S2246,Absent
+09-01-2026,Friday,08:31,8,City Center,B-102,S2378,Present
+09-01-2026,Friday,08:35,8,City Center,B-101,S2112,Present
+09-01-2026,Friday,08:55,8,University,B-202,S2231,Present
+09-01-2026,Friday,08:58,8,South Suburb,B-303,S2076,Present
+09-01-2026,Friday,08:31,8,City Center,B-102,S2400,Present
+09-01-2026,Friday,09:09,9,City Center,B-102,S2018,Present
+09-01-2026,Friday,08:55,8,Express Dc,B-401,S2068,Present
+09-01-2026,Friday,09:10,9,City Center,B-102,S2146,Present
+09-01-2026,Friday,09:11,9,Express Dc,B-401,S2157,Present
+09-01-2026,Friday,09:03,9,University,B-202,S2218,Absent
+09-01-2026,Friday,17:06,17,City Center,B-102,S2103,Absent
+09-01-2026,Friday,17:07,17,City Center,B-101,S2565,Present
+09-01-2026,Friday,16:31,16,City Center,B-102,S2264,Present
+09-01-2026,Friday,16:47,16,South Suburb,B-303,S2541,Present
+09-01-2026,Friday,16:36,16,University,B-202,S2032,Present
+09-01-2026,Friday,17:02,17,City Center,B-101,S2207,Present
+09-01-2026,Friday,16:39,16,South Suburb,B-303,S2403,Present
+09-01-2026,Friday,16:43,16,University,B-202,S2269,Present
+09-01-2026,Friday,16:51,16,City Center,B-102,S2377,Present
+09-01-2026,Friday,16:56,16,City Center,B-102,S2176,Present
+12-01-2026,Monday,09:13,9,South Suburb,B-303,S2099,Present
+12-01-2026,Monday,08:52,8,City Center,B-102,S2477,Present
+12-01-2026,Monday,08:31,8,South Suburb,B-303,S2563,Present
+12-01-2026,Monday,09:11,9,South Suburb,B-303,S2011,Present
+12-01-2026,Monday,09:01,9,University,B-202,S2443,Present
+12-01-2026,Monday,08:31,8,University,B-202,S2145,Present
+12-01-2026,Monday,09:13,9,Express Dc,B-401,S2299,Absent
+12-01-2026,Monday,08:43,8,University,B-202,S2581,Present
+12-01-2026,Monday,08:50,8,City Center,B-101,S2258,Present
+12-01-2026,Monday,08:44,8,City Center,B-102,S2171,Present
+12-01-2026,Monday,08:35,8,South Suburb,B-303,S2505,Present
+12-01-2026,Monday,08:48,8,City Center,B-101,S2240,Present
+12-01-2026,Monday,12:53,12,University,B-202,S2311,Present
+12-01-2026,Monday,16:38,16,City Center,B-102,S2502,Present
+12-01-2026,Monday,16:51,16,City Center,B-102,S2429,Present
+12-01-2026,Monday,16:35,16,City Center,B-101,S2088,Present
+12-01-2026,Monday,16:53,16,South Suburb,B-303,S2187,Present
+12-01-2026,Monday,17:01,17,South Suburb,B-303,S2332,Present
+12-01-2026,Monday,16:34,16,City Center,B-102,S2471,Present
+12-01-2026,Monday,16:50,16,City Center,B-101,S2210,Present
+12-01-2026,Monday,16:52,16,City Center,B-102,S2208,Present
+12-01-2026,Monday,16:42,16,Express Dc,B-401,S2397,Present
+12-01-2026,Monday,17:15,17,South Suburb,B-303,S2488,Absent
+12-01-2026,Monday,16:47,16,City Center,B-101,S2340,Present
+12-01-2026,Monday,16:55,16,University,B-202,S2056,Present
+13-01-2026,Tuesday,08:32,8,University,B-202,S2357,Present
+13-01-2026,Tuesday,08:40,8,South Suburb,B-303,S2553,Present
+13-01-2026,Tuesday,08:40,8,City Center,B-102,S2233,Present
+13-01-2026,Tuesday,08:36,8,City Center,B-102,S2459,Present
+13-01-2026,Tuesday,09:14,9,City Center,B-102,S2589,Present
+13-01-2026,Tuesday,08:58,8,City Center,B-102,S2146,Present
+13-01-2026,Tuesday,09:11,9,Express Dc,B-401,S2353,Present
+13-01-2026,Tuesday,08:54,8,University,B-202,S2475,Present
+13-01-2026,Tuesday,08:40,8,City Center,B-101,S2489,Present
+13-01-2026,Tuesday,09:09,9,City Center,B-102,S2063,Present
+13-01-2026,Tuesday,08:45,8,University,B-202,S2590,Present
+13-01-2026,Tuesday,13:51,13,City Center,B-102,S2386,Present
+13-01-2026,Tuesday,17:07,17,City Center,B-101,S2344,Present
+13-01-2026,Tuesday,16:57,16,University,B-202,S2512,Present
+13-01-2026,Tuesday,16:49,16,City Center,B-102,S2358,Present
+13-01-2026,Tuesday,16:50,16,South Suburb,B-303,S2343,Absent
+13-01-2026,Tuesday,17:08,17,University,B-202,S2036,Present
+13-01-2026,Tuesday,17:03,17,University,B-202,S2046,Present
+13-01-2026,Tuesday,16:56,16,City Center,B-101,S2007,Present
+13-01-2026,Tuesday,16:46,16,City Center,B-102,S2386,Present
+13-01-2026,Tuesday,16:38,16,City Center,B-102,S2382,Present
+13-01-2026,Tuesday,16:41,16,University,B-202,S2212,Present
+13-01-2026,Tuesday,17:14,17,Express Dc,B-401,S2284,Present
+13-01-2026,Tuesday,17:12,17,City Center,B-101,S2145,Present
+13-01-2026,Tuesday,17:09,17,University,B-202,S2237,Present
+13-01-2026,Tuesday,16:34,16,City Center,B-101,S2451,Present
+13-01-2026,Tuesday,16:32,16,South Suburb,B-303,S2592,Present
+14-01-2026,Wednesday,08:51,8,City Center,B-102,S2375,Present
+14-01-2026,Wednesday,08:30,8,City Center,B-102,S2177,Present
+14-01-2026,Wednesday,08:38,8,University,B-202,S2287,Present
+14-01-2026,Wednesday,08:33,8,City Center,B-102,S2116,Present
+14-01-2026,Wednesday,08:52,8,City Center,B-101,S2501,Present
+14-01-2026,Wednesday,09:08,9,Express Dc,B-401,S2362,Present
+14-01-2026,Wednesday,08:47,8,Express Dc,B-401,S2261,Present
+14-01-2026,Wednesday,09:06,9,Express Dc,B-401,S2549,Present
+14-01-2026,Wednesday,09:05,9,South Suburb,B-303,S2267,Present
+14-01-2026,Wednesday,09:08,9,City Center,B-102,S2495,Present
+14-01-2026,Wednesday,09:14,9,University,B-202,S2355,Present
+14-01-2026,Wednesday,16:34,16,City Center,B-102,S2248,Present
+14-01-2026,Wednesday,16:40,16,City Center,B-101,S2509,Absent
+14-01-2026,Wednesday,17:10,17,University,B-202,S2023,Absent
+14-01-2026,Wednesday,17:07,17,University,B-202,S2312,Present
+14-01-2026,Wednesday,17:06,17,South Suburb,B-303,S2305,Present
+14-01-2026,Wednesday,16:33,16,South Suburb,B-303,S2495,Present
+14-01-2026,Wednesday,17:13,17,Express Dc,B-401,S2258,Present
+14-01-2026,Wednesday,16:43,16,City Center,B-101,S2476,Present
+14-01-2026,Wednesday,16:50,16,Express Dc,B-401,S2225,Present
+14-01-2026,Wednesday,16:54,16,South Suburb,B-303,S2417,Present
+14-01-2026,Wednesday,16:42,16,South Suburb,B-303,S2565,Present
+14-01-2026,Wednesday,17:03,17,South Suburb,B-303,S2334,Present
+14-01-2026,Wednesday,17:06,17,City Center,B-101,S2116,Present
+14-01-2026,Wednesday,16:41,16,University,B-202,S2447,Present
+14-01-2026,Wednesday,16:39,16,Express Dc,B-401,S2029,Present
+15-01-2026,Thursday,09:12,9,South Suburb,B-303,S2039,Present
+15-01-2026,Thursday,08:31,8,Express Dc,B-401,S2018,Present
+15-01-2026,Thursday,09:11,9,Express Dc,B-401,S2126,Present
+15-01-2026,Thursday,09:04,9,City Center,B-101,S2577,Present
+15-01-2026,Thursday,08:33,8,University,B-202,S2078,Present
+15-01-2026,Thursday,08:51,8,South Suburb,B-303,S2196,Present
+15-01-2026,Thursday,08:52,8,City Center,B-101,S2460,Present
+15-01-2026,Thursday,09:06,9,City Center,B-101,S2369,Present
+15-01-2026,Thursday,08:35,8,South Suburb,B-303,S2540,Present
+15-01-2026,Thursday,08:59,8,Express Dc,B-401,S2600,Present
+15-01-2026,Thursday,08:58,8,City Center,B-101,S2435,Absent
+15-01-2026,Thursday,08:33,8,University,B-202,S2045,Present
+15-01-2026,Thursday,08:36,8,University,B-202,S2351,Present
+15-01-2026,Thursday,16:48,16,City Center,B-101,S2395,Present
+15-01-2026,Thursday,16:59,16,University,B-202,S2273,Present
+15-01-2026,Thursday,16:31,16,University,B-202,S2207,Present
+15-01-2026,Thursday,16:43,16,South Suburb,B-303,S2351,Present
+15-01-2026,Thursday,16:31,16,City Center,B-101,S2504,Present
+15-01-2026,Thursday,17:02,17,City Center,B-102,S2467,Present
+15-01-2026,Thursday,16:50,16,City Center,B-102,S2061,Present
+15-01-2026,Thursday,16:47,16,University,B-202,S2487,Present
+15-01-2026,Thursday,17:03,17,City Center,B-101,S2050,Present
+15-01-2026,Thursday,16:35,16,South Suburb,B-303,S2045,Absent
+15-01-2026,Thursday,16:37,16,South Suburb,B-303,S2316,Absent
+16-01-2026,Friday,08:51,8,City Center,B-101,S2053,Present
+16-01-2026,Friday,08:35,8,University,B-202,S2004,Present
+16-01-2026,Friday,08:39,8,University,B-202,S2211,Present
+16-01-2026,Friday,08:42,8,University,B-202,S2326,Present
+16-01-2026,Friday,08:59,8,Express Dc,B-401,S2374,Present
+16-01-2026,Friday,09:06,9,South Suburb,B-303,S2062,Absent
+16-01-2026,Friday,09:03,9,University,B-202,S2258,Present
+16-01-2026,Friday,08:46,8,Express Dc,B-401,S2558,Present
+16-01-2026,Friday,08:52,8,South Suburb,B-303,S2318,Present
+16-01-2026,Friday,09:10,9,South Suburb,B-303,S2493,Absent
+16-01-2026,Friday,12:23,12,Express Dc,B-401,S2229,Present
+16-01-2026,Friday,16:44,16,City Center,B-101,S2585,Present
+16-01-2026,Friday,16:46,16,City Center,B-102,S2100,Present
+16-01-2026,Friday,17:13,17,City Center,B-102,S2572,Present
+16-01-2026,Friday,16:54,16,City Center,B-101,S2298,Present
+16-01-2026,Friday,16:43,16,University,B-202,S2532,Present
+16-01-2026,Friday,16:48,16,City Center,B-102,S2033,Present
+16-01-2026,Friday,16:37,16,Express Dc,B-401,S2272,Present
+16-01-2026,Friday,17:15,17,City Center,B-102,S2513,Present
+16-01-2026,Friday,17:11,17,University,B-202,S2154,Present
+16-01-2026,Friday,16:32,16,South Suburb,B-303,S2566,Present
+16-01-2026,Friday,16:49,16,City Center,B-101,S2061,Present
+16-01-2026,Friday,16:55,16,Express Dc,B-401,S2318,Present
+16-01-2026,Friday,16:31,16,University,B-202,S2338,Present
+16-01-2026,Friday,16:31,16,South Suburb,B-303,S2560,Present
+16-01-2026,Friday,16:33,16,University,B-202,S2159,Present
+19-01-2026,Monday,08:53,8,City Center,B-102,S2060,Present
+19-01-2026,Monday,09:04,9,University,B-202,S2237,Present
+19-01-2026,Monday,08:53,8,University,B-202,S2373,Present
+19-01-2026,Monday,08:30,8,City Center,B-102,S2477,Present
+19-01-2026,Monday,09:01,9,South Suburb,B-303,S2033,Present
+19-01-2026,Monday,09:06,9,City Center,B-101,S2096,Present
+19-01-2026,Monday,09:11,9,City Center,B-102,S2073,Present
+19-01-2026,Monday,09:11,9,South Suburb,B-303,S2511,Present
+19-01-2026,Monday,08:55,8,City Center,B-102,S2559,Present
+19-01-2026,Monday,09:02,9,City Center,B-102,S2063,Present
+19-01-2026,Monday,08:36,8,City Center,B-101,S2241,Present
+19-01-2026,Monday,08:31,8,University,B-202,S2219,Present
+19-01-2026,Monday,16:48,16,University,B-202,S2373,Present
+19-01-2026,Monday,16:31,16,City Center,B-102,S2560,Present
+19-01-2026,Monday,16:34,16,City Center,B-102,S2548,Present
+19-01-2026,Monday,17:10,17,Express Dc,B-401,S2130,Present
+19-01-2026,Monday,17:11,17,City Center,B-102,S2470,Present
+19-01-2026,Monday,17:10,17,City Center,B-102,S2484,Absent
+19-01-2026,Monday,16:59,16,University,B-202,S2281,Present
+19-01-2026,Monday,17:09,17,South Suburb,B-303,S2323,Present
+19-01-2026,Monday,16:58,16,City Center,B-101,S2281,Present
+19-01-2026,Monday,16:56,16,University,B-202,S2172,Present
+20-01-2026,Tuesday,08:49,8,University,B-202,S2599,Present
+20-01-2026,Tuesday,09:11,9,University,B-202,S2337,Present
+20-01-2026,Tuesday,09:09,9,Express Dc,B-401,S2274,Present
+20-01-2026,Tuesday,08:53,8,City Center,B-102,S2029,Present
+20-01-2026,Tuesday,08:30,8,City Center,B-102,S2181,Present
+20-01-2026,Tuesday,09:08,9,Express Dc,B-401,S2527,Present
+20-01-2026,Tuesday,08:43,8,University,B-202,S2229,Present
+20-01-2026,Tuesday,08:48,8,Express Dc,B-401,S2318,Present
+20-01-2026,Tuesday,08:34,8,University,B-202,S2095,Present
+20-01-2026,Tuesday,08:48,8,City Center,B-101,S2187,Present
+20-01-2026,Tuesday,08:49,8,City Center,B-101,S2410,Present
+20-01-2026,Tuesday,09:04,9,Express Dc,B-401,S2407,Present
+20-01-2026,Tuesday,17:11,17,Express Dc,B-401,S2560,Present
+20-01-2026,Tuesday,17:11,17,South Suburb,B-303,S2040,Present
+20-01-2026,Tuesday,16:48,16,South Suburb,B-303,S2186,Present
+20-01-2026,Tuesday,16:50,16,City Center,B-101,S2499,Present
+20-01-2026,Tuesday,16:49,16,City Center,B-102,S2573,Present
+20-01-2026,Tuesday,17:05,17,City Center,B-102,S2241,Present
+20-01-2026,Tuesday,16:53,16,Express Dc,B-401,S2143,Present
+20-01-2026,Tuesday,17:15,17,City Center,B-102,S2045,Present
+20-01-2026,Tuesday,16:30,16,City Center,B-102,S2271,Absent
+20-01-2026,Tuesday,16:38,16,City Center,B-101,S2023,Present
+20-01-2026,Tuesday,16:56,16,South Suburb,B-303,S2313,Present
+20-01-2026,Tuesday,16:42,16,City Center,B-102,S2509,Present
+20-01-2026,Tuesday,17:01,17,City Center,B-101,S2132,Present
+21-01-2026,Wednesday,08:52,8,City Center,B-101,S2513,Absent
+21-01-2026,Wednesday,08:59,8,City Center,B-102,S2313,Present
+21-01-2026,Wednesday,08:51,8,City Center,B-102,S2214,Present
+21-01-2026,Wednesday,08:32,8,University,B-202,S2546,Present
+21-01-2026,Wednesday,08:31,8,City Center,B-102,S2109,Absent
+21-01-2026,Wednesday,08:59,8,University,B-202,S2371,Present
+21-01-2026,Wednesday,08:54,8,South Suburb,B-303,S2152,Present
+21-01-2026,Wednesday,08:55,8,City Center,B-101,S2303,Present
+21-01-2026,Wednesday,09:03,9,City Center,B-102,S2252,Present
+21-01-2026,Wednesday,09:00,9,South Suburb,B-303,S2010,Present
+21-01-2026,Wednesday,09:02,9,South Suburb,B-303,S2182,Present
+21-01-2026,Wednesday,08:35,8,University,B-202,S2263,Present
+21-01-2026,Wednesday,16:56,16,City Center,B-102,S2524,Present
+21-01-2026,Wednesday,16:39,16,University,B-202,S2175,Present
+21-01-2026,Wednesday,16:43,16,University,B-202,S2429,Present
+21-01-2026,Wednesday,17:01,17,City Center,B-102,S2128,Present
+21-01-2026,Wednesday,16:31,16,City Center,B-101,S2567,Present
+21-01-2026,Wednesday,17:06,17,University,B-202,S2444,Present
+21-01-2026,Wednesday,17:10,17,City Center,B-101,S2030,Present
+21-01-2026,Wednesday,16:52,16,City Center,B-101,S2522,Present
+21-01-2026,Wednesday,17:05,17,University,B-202,S2329,Present
+21-01-2026,Wednesday,16:47,16,City Center,B-101,S2522,Present
+21-01-2026,Wednesday,17:03,17,University,B-202,S2485,Present
+21-01-2026,Wednesday,16:43,16,City Center,B-102,S2456,Present
+21-01-2026,Wednesday,17:10,17,Express Dc,B-401,S2121,Present
+22-01-2026,Thursday,09:12,9,University,B-202,S2216,Present
+22-01-2026,Thursday,08:53,8,University,B-202,S2296,Present
+22-01-2026,Thursday,08:54,8,City Center,B-101,S2510,Present
+22-01-2026,Thursday,08:59,8,University,B-202,S2033,Present
+22-01-2026,Thursday,08:42,8,Express Dc,B-401,S2580,Present
+22-01-2026,Thursday,08:31,8,University,B-202,S2542,Present
+22-01-2026,Thursday,08:34,8,City Center,B-101,S2208,Present
+22-01-2026,Thursday,09:14,9,South Suburb,B-303,S2139,Present
+22-01-2026,Thursday,08:36,8,City Center,B-101,S2069,Present
+22-01-2026,Thursday,08:50,8,City Center,B-101,S2562,Present
+22-01-2026,Thursday,09:06,9,University,B-202,S2100,Present
+22-01-2026,Thursday,08:56,8,University,B-202,S2079,Present
+22-01-2026,Thursday,09:07,9,City Center,B-101,S2435,Present
+22-01-2026,Thursday,09:06,9,University,B-202,S2149,Present
+22-01-2026,Thursday,08:30,8,Express Dc,B-401,S2457,Present
+22-01-2026,Thursday,12:44,12,City Center,B-101,S2186,Present
+22-01-2026,Thursday,16:49,16,City Center,B-101,S2509,Present
+22-01-2026,Thursday,16:33,16,University,B-202,S2001,Present
+22-01-2026,Thursday,17:10,17,South Suburb,B-303,S2377,Present
+22-01-2026,Thursday,17:15,17,City Center,B-102,S2255,Present
+22-01-2026,Thursday,16:38,16,South Suburb,B-303,S2059,Present
+22-01-2026,Thursday,16:59,16,City Center,B-102,S2398,Present
+22-01-2026,Thursday,16:45,16,University,B-202,S2018,Present
+22-01-2026,Thursday,16:37,16,City Center,B-102,S2216,Present
+22-01-2026,Thursday,16:38,16,South Suburb,B-303,S2428,Present
+22-01-2026,Thursday,16:51,16,Express Dc,B-401,S2080,Present
+22-01-2026,Thursday,16:45,16,City Center,B-102,S2246,Present
+22-01-2026,Thursday,16:44,16,City Center,B-101,S2314,Present
+22-01-2026,Thursday,16:30,16,City Center,B-101,S2074,Present
+22-01-2026,Thursday,16:52,16,City Center,B-102,S2512,Present
+23-01-2026,Friday,08:50,8,University,B-202,S2385,Present
+23-01-2026,Friday,09:15,9,Express Dc,B-401,S2430,Present
+23-01-2026,Friday,08:42,8,University,B-202,S2179,Present
+23-01-2026,Friday,09:13,9,South Suburb,B-303,S2119,Present
+23-01-2026,Friday,08:47,8,University,B-202,S2585,Present
+23-01-2026,Friday,08:47,8,South Suburb,B-303,S2094,Present
+23-01-2026,Friday,08:39,8,City Center,B-102,S2429,Present
+23-01-2026,Friday,08:54,8,City Center,B-102,S2383,Absent
+23-01-2026,Friday,08:44,8,City Center,B-101,S2041,Present
+23-01-2026,Friday,09:07,9,City Center,B-102,S2117,Present
+23-01-2026,Friday,08:43,8,University,B-202,S2502,Present
+23-01-2026,Friday,17:09,17,City Center,B-102,S2566,Absent
+23-01-2026,Friday,16:58,16,City Center,B-102,S2161,Present
+23-01-2026,Friday,17:04,17,University,B-202,S2109,Absent
+23-01-2026,Friday,16:36,16,South Suburb,B-303,S2180,Absent
+23-01-2026,Friday,17:12,17,City Center,B-101,S2315,Present
+23-01-2026,Friday,16:53,16,City Center,B-102,S2229,Present
+23-01-2026,Friday,17:15,17,City Center,B-102,S2017,Present
+23-01-2026,Friday,16:44,16,University,B-202,S2344,Present
+23-01-2026,Friday,17:12,17,City Center,B-101,S2080,Present
+23-01-2026,Friday,17:03,17,City Center,B-102,S2014,Present
+23-01-2026,Friday,16:34,16,University,B-202,S2571,Present
+26-01-2026,Monday,09:13,9,Express Dc,B-401,S2163,Present
+26-01-2026,Monday,08:50,8,University,B-202,S2530,Present
+26-01-2026,Monday,08:34,8,University,B-202,S2495,Present
+26-01-2026,Monday,08:53,8,University,B-202,S2585,Present
+26-01-2026,Monday,09:12,9,City Center,B-102,S2294,Present
+26-01-2026,Monday,08:49,8,South Suburb,B-303,S2145,Present
+26-01-2026,Monday,08:54,8,University,B-202,S2368,Present
+26-01-2026,Monday,09:08,9,City Center,B-101,S2152,Present
+26-01-2026,Monday,08:48,8,University,B-202,S2231,Present
+26-01-2026,Monday,08:34,8,South Suburb,B-303,S2001,Present
+26-01-2026,Monday,08:38,8,City Center,B-102,S2574,Present
+26-01-2026,Monday,09:12,9,City Center,B-102,S2145,Absent
+26-01-2026,Monday,09:13,9,University,B-202,S2564,Present
+26-01-2026,Monday,08:44,8,City Center,B-101,S2094,Present
+26-01-2026,Monday,16:50,16,Express Dc,B-401,S2220,Present
+26-01-2026,Monday,16:32,16,City Center,B-101,S2542,Present
+26-01-2026,Monday,16:41,16,City Center,B-101,S2134,Present
+26-01-2026,Monday,17:13,17,City Center,B-102,S2361,Present
+26-01-2026,Monday,16:56,16,South Suburb,B-303,S2456,Present
+26-01-2026,Monday,16:32,16,South Suburb,B-303,S2365,Present
+26-01-2026,Monday,16:44,16,Express Dc,B-401,S2447,Present
+26-01-2026,Monday,16:50,16,City Center,B-102,S2014,Present
+26-01-2026,Monday,17:12,17,City Center,B-101,S2263,Present
+26-01-2026,Monday,16:42,16,University,B-202,S2261,Present
+26-01-2026,Monday,17:14,17,City Center,B-101,S2452,Present
+26-01-2026,Monday,16:48,16,City Center,B-102,S2181,Present
+27-01-2026,Tuesday,09:05,9,University,B-202,S2054,Present
+27-01-2026,Tuesday,08:53,8,University,B-202,S2484,Present
+27-01-2026,Tuesday,09:09,9,University,B-202,S2163,Present
+27-01-2026,Tuesday,08:35,8,University,B-202,S2173,Present
+27-01-2026,Tuesday,09:01,9,Express Dc,B-401,S2343,Present
+27-01-2026,Tuesday,09:15,9,City Center,B-101,S2475,Present
+27-01-2026,Tuesday,09:11,9,South Suburb,B-303,S2348,Present
+27-01-2026,Tuesday,08:40,8,South Suburb,B-303,S2381,Present
+27-01-2026,Tuesday,09:03,9,City Center,B-101,S2572,Present
+27-01-2026,Tuesday,08:36,8,University,B-202,S2209,Absent
+27-01-2026,Tuesday,09:01,9,City Center,B-102,S2137,Present
+27-01-2026,Tuesday,09:15,9,City Center,B-102,S2117,Present
+27-01-2026,Tuesday,08:32,8,City Center,B-102,S2509,Present
+27-01-2026,Tuesday,16:34,16,South Suburb,B-303,S2299,Absent
+27-01-2026,Tuesday,16:31,16,Express Dc,B-401,S2427,Present
+27-01-2026,Tuesday,16:33,16,University,B-202,S2515,Present
+27-01-2026,Tuesday,16:55,16,South Suburb,B-303,S2554,Present
+27-01-2026,Tuesday,16:55,16,Express Dc,B-401,S2138,Present
+27-01-2026,Tuesday,16:57,16,University,B-202,S2462,Present
+27-01-2026,Tuesday,17:01,17,Express Dc,B-401,S2329,Present
+27-01-2026,Tuesday,16:48,16,Express Dc,B-401,S2411,Present
+27-01-2026,Tuesday,16:42,16,Express Dc,B-401,S2071,Present
+27-01-2026,Tuesday,16:42,16,South Suburb,B-303,S2357,Present
+27-01-2026,Tuesday,17:00,17,University,B-202,S2369,Present
+27-01-2026,Tuesday,16:48,16,South Suburb,B-303,S2116,Present
+28-01-2026,Wednesday,08:37,8,University,B-202,S2233,Present
+28-01-2026,Wednesday,09:15,9,City Center,B-102,S2562,Present
+28-01-2026,Wednesday,09:06,9,University,B-202,S2476,Present
+28-01-2026,Wednesday,08:44,8,University,B-202,S2455,Present
+28-01-2026,Wednesday,08:30,8,City Center,B-101,S2516,Present
+28-01-2026,Wednesday,08:32,8,City Center,B-102,S2067,Present
+28-01-2026,Wednesday,08:32,8,Express Dc,B-401,S2221,Present
+28-01-2026,Wednesday,09:15,9,City Center,B-102,S2586,Present
+28-01-2026,Wednesday,08:52,8,South Suburb,B-303,S2373,Present
+28-01-2026,Wednesday,09:02,9,South Suburb,B-303,S2120,Present
+28-01-2026,Wednesday,09:07,9,Express Dc,B-401,S2460,Present
+28-01-2026,Wednesday,13:29,13,Express Dc,B-401,S2170,Present
+28-01-2026,Wednesday,17:10,17,South Suburb,B-303,S2360,Present
+28-01-2026,Wednesday,16:42,16,City Center,B-101,S2568,Present
+28-01-2026,Wednesday,16:52,16,University,B-202,S2022,Present
+28-01-2026,Wednesday,17:02,17,South Suburb,B-303,S2590,Absent
+28-01-2026,Wednesday,16:42,16,Express Dc,B-401,S2388,Present
+28-01-2026,Wednesday,16:35,16,University,B-202,S2257,Present
+28-01-2026,Wednesday,16:56,16,University,B-202,S2412,Present
+28-01-2026,Wednesday,16:53,16,South Suburb,B-303,S2354,Present
+28-01-2026,Wednesday,16:34,16,University,B-202,S2593,Present
+28-01-2026,Wednesday,16:49,16,Express Dc,B-401,S2332,Present
+28-01-2026,Wednesday,16:46,16,South Suburb,B-303,S2168,Absent
+29-01-2026,Thursday,08:44,8,University,B-202,S2405,Present
+29-01-2026,Thursday,09:13,9,City Center,B-101,S2010,Present
+29-01-2026,Thursday,08:45,8,South Suburb,B-303,S2356,Present
+29-01-2026,Thursday,08:47,8,University,B-202,S2396,Present
+29-01-2026,Thursday,08:37,8,Express Dc,B-401,S2568,Present
+29-01-2026,Thursday,09:01,9,Express Dc,B-401,S2151,Present
+29-01-2026,Thursday,08:33,8,City Center,B-101,S2407,Present
+29-01-2026,Thursday,08:56,8,City Center,B-102,S2064,Present
+29-01-2026,Thursday,09:06,9,City Center,B-101,S2053,Present
+29-01-2026,Thursday,08:31,8,South Suburb,B-303,S2146,Present
+29-01-2026,Thursday,08:50,8,South Suburb,B-303,S2039,Present
+29-01-2026,Thursday,09:05,9,South Suburb,B-303,S2128,Present
+29-01-2026,Thursday,09:00,9,City Center,B-102,S2156,Present
+29-01-2026,Thursday,09:00,9,South Suburb,B-303,S2050,Present
+29-01-2026,Thursday,09:08,9,South Suburb,B-303,S2297,Present
+29-01-2026,Thursday,16:46,16,City Center,B-101,S2371,Present
+29-01-2026,Thursday,16:37,16,South Suburb,B-303,S2057,Present
+29-01-2026,Thursday,16:30,16,University,B-202,S2597,Present
+29-01-2026,Thursday,16:36,16,City Center,B-102,S2319,Present
+29-01-2026,Thursday,17:00,17,City Center,B-102,S2331,Present
+29-01-2026,Thursday,16:44,16,City Center,B-102,S2099,Present
+29-01-2026,Thursday,16:57,16,City Center,B-102,S2231,Present
+29-01-2026,Thursday,16:54,16,City Center,B-101,S2113,Present
+29-01-2026,Thursday,16:43,16,City Center,B-101,S2567,Present
+29-01-2026,Thursday,16:35,16,South Suburb,B-303,S2123,Present
+29-01-2026,Thursday,17:11,17,City Center,B-101,S2384,Present
+29-01-2026,Thursday,16:43,16,City Center,B-101,S2213,Present
+29-01-2026,Thursday,17:09,17,South Suburb,B-303,S2560,Present
+29-01-2026,Thursday,16:43,16,University,B-202,S2213,Present
+29-01-2026,Thursday,17:02,17,City Center,B-101,S2146,Present
+30-01-2026,Friday,08:55,8,City Center,B-101,S2125,Present
+30-01-2026,Friday,08:50,8,South Suburb,B-303,S2229,Present
+30-01-2026,Friday,08:58,8,South Suburb,B-303,S2435,Present
+30-01-2026,Friday,08:31,8,South Suburb,B-303,S2480,Present
+30-01-2026,Friday,08:50,8,City Center,B-102,S2420,Present
+30-01-2026,Friday,08:45,8,Express Dc,B-401,S2457,Present
+30-01-2026,Friday,08:40,8,South Suburb,B-303,S2223,Present
+30-01-2026,Friday,09:15,9,University,B-202,S2498,Absent
+30-01-2026,Friday,08:56,8,City Center,B-102,S2155,Present
+30-01-2026,Friday,09:15,9,University,B-202,S2265,Present
+30-01-2026,Friday,16:49,16,City Center,B-101,S2258,Absent
+30-01-2026,Friday,16:42,16,City Center,B-102,S2257,Present
+30-01-2026,Friday,16:44,16,City Center,B-102,S2380,Present
+30-01-2026,Friday,16:48,16,University,B-202,S2326,Present
+30-01-2026,Friday,16:58,16,South Suburb,B-303,S2210,Absent
+30-01-2026,Friday,17:08,17,City Center,B-101,S2203,Absent
+30-01-2026,Friday,17:15,17,City Center,B-102,S2093,Present
+30-01-2026,Friday,16:45,16,Express Dc,B-401,S2307,Present
+30-01-2026,Friday,17:15,17,South Suburb,B-303,S2135,Present
+30-01-2026,Friday,16:33,16,University,B-202,S2587,Present
+30-01-2026,Friday,16:44,16,City Center,B-101,S2539,Present
+02-02-2026,Monday,08:46,8,South Suburb,B-303,S2586,Present
+02-02-2026,Monday,08:36,8,University,B-202,S2538,Absent
+02-02-2026,Monday,08:41,8,University,B-202,S2439,Present
+02-02-2026,Monday,09:09,9,City Center,B-101,S2497,Present
+02-02-2026,Monday,08:55,8,City Center,B-101,S2366,Present
+02-02-2026,Monday,08:46,8,South Suburb,B-303,S2258,Present
+02-02-2026,Monday,08:39,8,University,B-202,S2228,Present
+02-02-2026,Monday,08:50,8,University,B-202,S2405,Present
+02-02-2026,Monday,08:45,8,University,B-202,S2328,Present
+02-02-2026,Monday,09:01,9,University,B-202,S2363,Present
+02-02-2026,Monday,09:14,9,City Center,B-101,S2118,Present
+02-02-2026,Monday,08:55,8,South Suburb,B-303,S2122,Present
+02-02-2026,Monday,08:41,8,City Center,B-102,S2113,Present
+02-02-2026,Monday,09:07,9,City Center,B-102,S2374,Present
+02-02-2026,Monday,08:38,8,University,B-202,S2466,Present
+02-02-2026,Monday,16:57,16,University,B-202,S2368,Present
+02-02-2026,Monday,16:53,16,City Center,B-101,S2438,Absent
+02-02-2026,Monday,16:59,16,City Center,B-102,S2122,Present
+02-02-2026,Monday,17:15,17,University,B-202,S2493,Present
+02-02-2026,Monday,17:08,17,City Center,B-101,S2317,Absent
+02-02-2026,Monday,16:51,16,City Center,B-101,S2271,Present
+02-02-2026,Monday,17:02,17,University,B-202,S2331,Present
+02-02-2026,Monday,16:46,16,South Suburb,B-303,S2087,Present
+02-02-2026,Monday,16:55,16,South Suburb,B-303,S2057,Present
+02-02-2026,Monday,16:32,16,South Suburb,B-303,S2041,Absent
+02-02-2026,Monday,16:47,16,University,B-202,S2283,Present
+02-02-2026,Monday,17:07,17,City Center,B-101,S2207,Present
+02-02-2026,Monday,16:57,16,City Center,B-101,S2423,Present
+02-02-2026,Monday,16:53,16,City Center,B-101,S2295,Present
+02-02-2026,Monday,16:58,16,University,B-202,S2562,Present
+03-02-2026,Tuesday,08:56,8,City Center,B-101,S2318,Present
+03-02-2026,Tuesday,08:32,8,University,B-202,S2458,Present
+03-02-2026,Tuesday,08:59,8,City Center,B-101,S2199,Present
+03-02-2026,Tuesday,09:11,9,South Suburb,B-303,S2500,Present
+03-02-2026,Tuesday,08:42,8,University,B-202,S2017,Present
+03-02-2026,Tuesday,08:35,8,University,B-202,S2117,Present
+03-02-2026,Tuesday,09:10,9,Express Dc,B-401,S2048,Present
+03-02-2026,Tuesday,09:09,9,University,B-202,S2458,Present
+03-02-2026,Tuesday,08:34,8,City Center,B-101,S2301,Present
+03-02-2026,Tuesday,09:08,9,University,B-202,S2405,Present
+03-02-2026,Tuesday,08:30,8,University,B-202,S2400,Present
+03-02-2026,Tuesday,09:08,9,South Suburb,B-303,S2001,Present
+03-02-2026,Tuesday,09:12,9,South Suburb,B-303,S2555,Present
+03-02-2026,Tuesday,17:06,17,City Center,B-101,S2086,Present
+03-02-2026,Tuesday,17:14,17,City Center,B-102,S2016,Present
+03-02-2026,Tuesday,16:58,16,University,B-202,S2082,Present
+03-02-2026,Tuesday,16:58,16,City Center,B-102,S2328,Present
+03-02-2026,Tuesday,16:59,16,City Center,B-101,S2577,Absent
+03-02-2026,Tuesday,16:31,16,University,B-202,S2090,Present
+03-02-2026,Tuesday,17:07,17,Express Dc,B-401,S2315,Present
+03-02-2026,Tuesday,17:13,17,University,B-202,S2271,Present
+03-02-2026,Tuesday,17:03,17,City Center,B-102,S2205,Present
+03-02-2026,Tuesday,16:52,16,Express Dc,B-401,S2160,Present
+03-02-2026,Tuesday,16:38,16,University,B-202,S2182,Present
+03-02-2026,Tuesday,17:06,17,University,B-202,S2048,Present
+04-02-2026,Wednesday,08:38,8,University,B-202,S2447,Present
+04-02-2026,Wednesday,08:43,8,University,B-202,S2485,Present
+04-02-2026,Wednesday,09:00,9,City Center,B-102,S2571,Present
+04-02-2026,Wednesday,09:04,9,Express Dc,B-401,S2470,Present
+04-02-2026,Wednesday,09:00,9,South Suburb,B-303,S2297,Present
+04-02-2026,Wednesday,09:12,9,City Center,B-102,S2091,Present
+04-02-2026,Wednesday,08:38,8,City Center,B-102,S2200,Present
+04-02-2026,Wednesday,09:05,9,City Center,B-102,S2101,Present
+04-02-2026,Wednesday,08:35,8,University,B-202,S2239,Present
+04-02-2026,Wednesday,08:53,8,South Suburb,B-303,S2584,Present
+04-02-2026,Wednesday,16:47,16,University,B-202,S2294,Absent
+04-02-2026,Wednesday,16:36,16,Express Dc,B-401,S2237,Present
+04-02-2026,Wednesday,17:02,17,South Suburb,B-303,S2222,Present
+04-02-2026,Wednesday,16:45,16,University,B-202,S2344,Present
+04-02-2026,Wednesday,17:13,17,South Suburb,B-303,S2542,Present
+04-02-2026,Wednesday,16:51,16,Express Dc,B-401,S2464,Absent
+04-02-2026,Wednesday,16:39,16,South Suburb,B-303,S2040,Present
+04-02-2026,Wednesday,16:39,16,University,B-202,S2128,Absent
+04-02-2026,Wednesday,16:33,16,City Center,B-102,S2554,Present
+04-02-2026,Wednesday,17:09,17,University,B-202,S2000,Present
+05-02-2026,Thursday,09:08,9,City Center,B-101,S2527,Present
+05-02-2026,Thursday,08:34,8,City Center,B-102,S2529,Present
+05-02-2026,Thursday,08:40,8,City Center,B-102,S2063,Present
+05-02-2026,Thursday,09:04,9,University,B-202,S2141,Present
+05-02-2026,Thursday,08:33,8,City Center,B-101,S2433,Present
+05-02-2026,Thursday,08:53,8,City Center,B-102,S2021,Present
+05-02-2026,Thursday,09:06,9,City Center,B-102,S2350,Present
+05-02-2026,Thursday,08:58,8,University,B-202,S2471,Present
+05-02-2026,Thursday,09:01,9,City Center,B-102,S2182,Present
+05-02-2026,Thursday,08:34,8,City Center,B-102,S2388,Present
+05-02-2026,Thursday,08:44,8,University,B-202,S2034,Present
+05-02-2026,Thursday,08:49,8,University,B-202,S2409,Present
+05-02-2026,Thursday,09:04,9,City Center,B-102,S2496,Present
+05-02-2026,Thursday,17:06,17,City Center,B-101,S2182,Present
+05-02-2026,Thursday,16:53,16,South Suburb,B-303,S2563,Present
+05-02-2026,Thursday,16:32,16,City Center,B-102,S2035,Present
+05-02-2026,Thursday,17:09,17,City Center,B-101,S2211,Present
+05-02-2026,Thursday,17:09,17,City Center,B-102,S2245,Present
+05-02-2026,Thursday,16:43,16,University,B-202,S2091,Present
+05-02-2026,Thursday,16:56,16,Express Dc,B-401,S2488,Present
+05-02-2026,Thursday,16:45,16,South Suburb,B-303,S2473,Present
+05-02-2026,Thursday,16:38,16,City Center,B-101,S2264,Present
+05-02-2026,Thursday,16:36,16,University,B-202,S2118,Present
+05-02-2026,Thursday,16:46,16,South Suburb,B-303,S2549,Present
+05-02-2026,Thursday,16:47,16,City Center,B-101,S2298,Present
+06-02-2026,Friday,08:40,8,University,B-202,S2411,Present
+06-02-2026,Friday,08:42,8,University,B-202,S2114,Present
+06-02-2026,Friday,09:13,9,South Suburb,B-303,S2230,Present
+06-02-2026,Friday,08:39,8,Express Dc,B-401,S2073,Present
+06-02-2026,Friday,08:41,8,Express Dc,B-401,S2209,Present
+06-02-2026,Friday,09:03,9,University,B-202,S2145,Present
+06-02-2026,Friday,09:05,9,City Center,B-102,S2553,Absent
+06-02-2026,Friday,09:07,9,City Center,B-101,S2401,Present
+06-02-2026,Friday,08:51,8,University,B-202,S2488,Present
+06-02-2026,Friday,08:56,8,Express Dc,B-401,S2476,Present
+06-02-2026,Friday,09:06,9,University,B-202,S2252,Present
+06-02-2026,Friday,08:38,8,City Center,B-101,S2468,Present
+06-02-2026,Friday,16:59,16,City Center,B-102,S2144,Present
+06-02-2026,Friday,16:43,16,City Center,B-101,S2458,Present
+06-02-2026,Friday,16:34,16,University,B-202,S2082,Present
+06-02-2026,Friday,16:54,16,University,B-202,S2553,Present
+06-02-2026,Friday,16:39,16,City Center,B-101,S2189,Present
+06-02-2026,Friday,16:54,16,University,B-202,S2097,Present
+06-02-2026,Friday,16:59,16,Express Dc,B-401,S2295,Present
+06-02-2026,Friday,16:54,16,City Center,B-102,S2167,Present
+06-02-2026,Friday,16:53,16,South Suburb,B-303,S2158,Present
+06-02-2026,Friday,16:47,16,South Suburb,B-303,S2013,Present
+06-02-2026,Friday,16:54,16,University,B-202,S2228,Present
+06-02-2026,Friday,17:02,17,University,B-202,S2332,Present
+06-02-2026,Friday,17:10,17,City Center,B-102,S2425,Present
+06-02-2026,Friday,16:45,16,University,B-202,S2278,Present
+06-02-2026,Friday,17:15,17,Express Dc,B-401,S2405,Present
+09-02-2026,Monday,09:08,9,University,B-202,S2389,Present
+09-02-2026,Monday,09:10,9,South Suburb,B-303,S2583,Absent
+09-02-2026,Monday,09:01,9,City Center,B-101,S2080,Present
+09-02-2026,Monday,08:41,8,University,B-202,S2268,Present
+09-02-2026,Monday,09:04,9,University,B-202,S2509,Present
+09-02-2026,Monday,09:04,9,University,B-202,S2047,Present
+09-02-2026,Monday,09:14,9,South Suburb,B-303,S2168,Absent
+09-02-2026,Monday,08:42,8,City Center,B-101,S2298,Present
+09-02-2026,Monday,09:08,9,University,B-202,S2088,Present
+09-02-2026,Monday,09:05,9,City Center,B-102,S2354,Present
+09-02-2026,Monday,08:42,8,City Center,B-102,S2373,Present
+09-02-2026,Monday,09:08,9,University,B-202,S2327,Present
+09-02-2026,Monday,08:38,8,University,B-202,S2470,Present
+09-02-2026,Monday,16:51,16,University,B-202,S2111,Present
+09-02-2026,Monday,17:06,17,City Center,B-102,S2515,Present
+09-02-2026,Monday,16:42,16,South Suburb,B-303,S2279,Absent
+09-02-2026,Monday,17:07,17,City Center,B-102,S2599,Present
+09-02-2026,Monday,17:00,17,City Center,B-102,S2570,Present
+09-02-2026,Monday,16:46,16,South Suburb,B-303,S2483,Present
+09-02-2026,Monday,16:40,16,City Center,B-101,S2376,Present
+09-02-2026,Monday,16:53,16,City Center,B-101,S2520,Present
+09-02-2026,Monday,17:14,17,University,B-202,S2264,Present
+09-02-2026,Monday,16:37,16,City Center,B-101,S2334,Present
+09-02-2026,Monday,16:37,16,South Suburb,B-303,S2171,Present
+10-02-2026,Tuesday,09:02,9,South Suburb,B-303,S2282,Present
+10-02-2026,Tuesday,08:47,8,City Center,B-101,S2557,Present
+10-02-2026,Tuesday,08:35,8,City Center,B-101,S2043,Present
+10-02-2026,Tuesday,08:37,8,South Suburb,B-303,S2445,Present
+10-02-2026,Tuesday,09:07,9,City Center,B-101,S2329,Present
+10-02-2026,Tuesday,09:01,9,University,B-202,S2400,Present
+10-02-2026,Tuesday,09:11,9,Express Dc,B-401,S2174,Present
+10-02-2026,Tuesday,08:38,8,South Suburb,B-303,S2278,Present
+10-02-2026,Tuesday,08:38,8,University,B-202,S2497,Present
+10-02-2026,Tuesday,08:48,8,City Center,B-101,S2354,Absent
+10-02-2026,Tuesday,08:47,8,University,B-202,S2013,Present
+10-02-2026,Tuesday,08:42,8,University,B-202,S2106,Present
+10-02-2026,Tuesday,08:55,8,City Center,B-102,S2403,Present
+10-02-2026,Tuesday,13:31,13,University,B-202,S2280,Present
+10-02-2026,Tuesday,16:35,16,City Center,B-102,S2558,Present
+10-02-2026,Tuesday,16:37,16,City Center,B-102,S2375,Present
+10-02-2026,Tuesday,17:04,17,City Center,B-101,S2026,Present
+10-02-2026,Tuesday,17:07,17,City Center,B-102,S2455,Present
+10-02-2026,Tuesday,16:41,16,Express Dc,B-401,S2353,Present
+10-02-2026,Tuesday,16:37,16,South Suburb,B-303,S2517,Present
+10-02-2026,Tuesday,16:48,16,City Center,B-101,S2218,Present
+10-02-2026,Tuesday,16:33,16,City Center,B-102,S2124,Present
