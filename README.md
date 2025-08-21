@@ -6,16 +6,14 @@ Roll Number: 2312res628
 
 Course: Bsc in Computer Science and Data Analytics
 
-Institute: IIT Patna  
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Institute: IIT Patna
 
 # College Bus Usage Monitor Dashboard 🚌
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A comprehensive Business Intelligence dashboard built with Microsoft Power BI to analyze and visualize college bus transportation data. This project aims to provide actionable insights for administrators to optimize routes, improve scheduling, and enhance overall transportation efficiency.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 🎯 Project Overview
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 The College Bus Usage Monitor is an end-to-end analytics project designed to solve common challenges in managing a campus transportation network. By centralizing data on student ridership, routes, and timing, this dashboard transforms raw data into a strategic tool for data-driven decision-making. The primary goal is to help the transportation department reduce operational costs, improve resource allocation, and increase student satisfaction.
 
 ## ✨ Dashboard Features
