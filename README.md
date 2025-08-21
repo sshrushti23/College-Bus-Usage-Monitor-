@@ -7,93 +7,66 @@ Roll Number: 2312res628
 Course: Bsc in Computer Science and Data Analytics
 
 Institute: IIT Patna  
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
---------------------------------------------------------------------
-🎯 Project Overview
---------------------------------------------------------------------
+# College Bus Usage Monitor Dashboard 🚌
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A comprehensive Business Intelligence dashboard built with Microsoft Power BI to analyze and visualize college bus transportation data. This project aims to provide actionable insights for administrators to optimize routes, improve scheduling, and enhance overall transportation efficiency.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🎯 Project Overview
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The College Bus Usage Monitor is an end-to-end analytics project designed to solve common challenges in managing a campus transportation network. By centralizing data on student ridership, routes, and timing, this dashboard transforms raw data into a strategic tool for data-driven decision-making. The primary goal is to help the transportation department reduce operational costs, improve resource allocation, and increase student satisfaction.
 
+## ✨ Dashboard Features
 
--------------------------------------------------------------------------------------------
-✨ Dashboard Features
---------------------------------------------------------------------------------------
-This dashboard is composed of several interactive visuals that allow for a deep dive into t
-he data:
+This dashboard is composed of several interactive visuals that allow for a deep dive into the data:
 
-KPI Cards: High-level metrics providing an at-a-glance summary of performance, including:
+  * **KPI Cards:** High-level metrics providing an at-a-glance summary of performance, including:
+      * Total Number of Routes
+      * Total Student Trips (by Student ID count)
+      * Average Time of Travel
+  * **Interactive Slicers:** Dynamic filters for **Date Range** and **Route**, allowing users to drill down into specific periods or service lines.
+  * **Bus Occupancy Analysis (Donut Chart):** Visualizes the distribution of student ridership across different buses, highlighting the most and least utilized vehicles.
+  * **Geospatial Map:** Plots bus activity geographically to provide spatial context to the data. *(Note: The map in the screenshot uses a generic base layer).*
+  * **Route-Wise Usage (Bar Chart):** Compares the popularity of different routes based on the number of student riders, identifying key transportation corridors.
+  * **Peak Time Routes (Bar Chart):** Identifies the most frequent student travelers and the times they travel (Morning vs. Afternoon Rush).
+  * **Peak Travel Times (Area Chart):** A time-series analysis showing the volume of students throughout the day, clearly indicating morning and afternoon peak hours for each route.
 
-Total Number of Routes
+## 🛠️ Technical Stack
 
-Total Student Trips (by Student ID count)
+  * **Visualization & BI:** Microsoft Power BI
+  * **Data Transformation:** Power Query Editor (for data cleaning, shaping, and ETL processes)
+  * **Data Modeling:** DAX (Data Analysis Expressions) for creating calculated columns and measures.
+  * **Data Source:** The dashboard is designed to work with CSV files, Excel spreadsheets, or a direct connection to a SQL database.
 
-Average Time of Travel
+## 📊 Key Insights & Analysis
 
-Interactive Slicers: Dynamic filters for Date Range and Route, allowing users to drill down into specific periods or service lines.
-
-Bus Occupancy Analysis (Donut Chart): Visualizes the distribution of student ridership across different buses, highlighting the most and least utilized vehicles.
-
-Geospatial Map: Plots bus activity geographically to provide spatial context to the data. (Note: The map in the screenshot uses a generic base layer).
-
-Route-Wise Usage (Bar Chart): Compares the popularity of different routes based on the number of student riders, identifying key transportation corridors.
-
-Peak Time Routes (Bar Chart): Identifies the most frequent student travelers and the times they travel (Morning vs. Afternoon Rush).
-
-Peak Travel Times (Area Chart): A time-series analysis showing the volume of students throughout the day, clearly indicating morning and afternoon peak hours for each route.
-
-
----------------------------------------------------------------------------------------------------------------------------
-🛠️ Technical Stack
---------------------------------------------------------------------------------------------------------------------------------
-Visualization & BI: Microsoft Power BI
-
-Data Transformation: Power Query Editor (for data cleaning, shaping, and ETL processes)
-
-Data Modeling: DAX (Data Analysis Expressions) for creating calculated columns and measures.
-
-Data Source: The dashboard is designed to work with CSV files, Excel spreadsheets, or a direct connection to a SQL database.
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-📊 Key Insights & Analysis
--------------------------------------------------------------------------------------------------------------------------------------------------------------
 The dashboard reveals several critical insights into the transportation network:
 
-Route Popularity is Uneven: The "City Center" route is by far the most frequented, while the "Express DC" route has significantly lower ridership. This suggests an opportunity to re-evaluate the frequency or size of buses allocated to the express route.
+1.  **Route Popularity is Uneven:** The "City Center" route is by far the most frequented, while the "Express DC" route has significantly lower ridership. This suggests an opportunity to re-evaluate the frequency or size of buses allocated to the express route.
+2.  **Identifiable Peak Hours:** There are two distinct rush hours: a morning peak (approx. 9-10 AM) and an afternoon peak (approx. 4-5 PM). Schedules should be optimized to ensure maximum bus availability during these windows.
+3.  **Asset Utilization Varies:** Bus **B-202** is the workhorse of the fleet, carrying over 25% of the students. In contrast, other buses have lower occupancy rates. This data can inform decisions about vehicle maintenance schedules and fleet management.
+4.  **Targeted Service Monitoring:** The dashboard can identify "power users" (students who travel most frequently), which can be useful for surveys or feedback initiatives.
 
-Identifiable Peak Hours: There are two distinct rush hours: a morning peak (approx. 9-10 AM) and an afternoon peak (approx. 4-5 PM). Schedules should be optimized to ensure maximum bus availability during these windows.
+## 🚀 How to Use
 
-Asset Utilization Varies: Bus B-202 is the workhorse of the fleet, carrying over 25% of the students. In contrast, other buses have lower occupancy rates. This data can inform decisions about vehicle maintenance schedules and fleet management.
-
-Targeted Service Monitoring: The dashboard can identify "power users" (students who travel most frequently), which can be useful for surveys or feedback initiatives.
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🚀 How to Use
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 To explore this dashboard on your local machine:
 
-Prerequisites:
+1.  **Prerequisites:**
+      * Install [Microsoft Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
+2.  **Setup:**
+      * Clone this repository:
+        ```bash
+        git clone https://github.com/sshrushti23/College-Bus-Usage-Monitor-/tree/main 
+        ```
+      * Open the `.pbix` file in Power BI Desktop.
+      * If the data source is disconnected, go to **Transform data -\> Data source settings** and update the path to the provided data file (e.g., `.csv` or `.xlsx`) in the repository.
 
-Install Microsoft Power BI Desktop.
+## 🔮 Future Enhancements
 
-Setup:
+  * **Real-Time Data:** Integrate with live GPS data from buses for real-time tracking and occupancy updates.
+  * **Cost Analysis:** Incorporate financial data to analyze the cost-per-rider for each route.
+  * **Predictive Analytics:** Implement a forecasting model to predict future demand based on historical trends, academic calendars, and special events.
+  * **Student Feedback:** Add a module to integrate and analyze student feedback collected via surveys.
 
-Clone this repository:
-
-Bash
-
-git clone https://github.com/sshrushti23/College-Bus-Usage-Monitor-/tree/main 
-Open the .pbix file in Power BI Desktop.
-
-If the data source is disconnected, go to Transform data -> Data source settings and update the path to the provided data file (e.g., .csv or .xlsx) in the repository.
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------
-🔮 Future Enhancements
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Real-Time Data: Integrate with live GPS data from buses for real-time tracking and occupancy updates.
-
-Cost Analysis: Incorporate financial data to analyze the cost-per-rider for each route.
-
-Predictive Analytics: Implement a forecasting model to predict future demand based on historical trends, academic calendars, and special events.
-
-Student Feedback: Add a module to integrate and analyze student feedback collected via surveys.
